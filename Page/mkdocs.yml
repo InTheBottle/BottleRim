@@ -22,10 +22,8 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
-
 plugins:
   - search
-
 nav:
     - Getting Started:
       - getting-started/index.md 
