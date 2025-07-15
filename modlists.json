@@ -1,39 +1,39 @@
 [
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "BottleRim",
-    "description": "A total light survival SimonRim focused gameplay overhaul using Community Shaders.",
-    "author": "Bottle",
-    "maintainers": [
-      "github/InTheBottle"
-    ],
-    "game": "skyrimspecialedition",
-    "tags": [
-      "SFW",
-      "Steam",
-      "Vanilla+"
-    ],
-    "nsfw": false,
-    "image_contains_title": true,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/InTheBottle/BottleRim/refs/heads/main/Resources/BottleRim.webp",
-      "readme": "https://github.com/InTheBottle/BottleRim/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_22ba8d68-4619-44c3-8e2d-5960bd425167",
-      "machineURL": "BottleRim",
-      "discordURL": "https://discord.gg/avzs76EgnA"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "+yh8sXJbaNc=",
-      "Size": 993765302,
-      "NumberOfArchives": 1267,
-      "SizeOfArchives": 78451803229,
-      "NumberOfInstalledFiles": 176827,
-      "SizeOfInstalledFiles": 115891675358,
-      "TotalSize": 194343478587
-    },
-    "version": "1.0.0"
-  }
+    {
+        "$type": "ModListMetadata, Wabbajack.Lib",
+        "title": "BottleRim",
+        "description": "A total light survival SimonRim focused gameplay overhaul using Community Shaders.",
+        "author": "Bottle",
+        "maintainers": [
+            "github/InTheBottle"
+        ],
+        "game": "skyrimspecialedition",
+        "tags": [
+            "SFW",
+            "Steam",
+            "Vanilla+"
+        ],
+        "nsfw": false,
+        "image_contains_title": true,
+        "force_down": false,
+        "links": {
+            "$type": "Links, Wabbajack.Lib",
+            "image": "https://raw.githubusercontent.com/InTheBottle/BottleRim/refs/heads/main/Resources/BottleRim.webp",
+            "readme": "https://github.com/InTheBottle/BottleRim/blob/main/README.md",
+            "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_22ba8d68-4619-44c3-8e2d-5960bd425167",
+            "machineURL": "BottleRim",
+            "discordURL": "https://discord.gg/avzs76EgnA"
+        },
+        "download_metadata": {
+            "$type": "DownloadMetadata, Wabbajack.Lib",
+            "Hash": "+yh8sXJbaNc=",
+            "Size": 993765302,
+            "NumberOfArchives": 1267,
+            "SizeOfArchives": 78451803229,
+            "NumberOfInstalledFiles": 176827,
+            "SizeOfInstalledFiles": 115891675358,
+            "TotalSize": 194343478587
+        },
+        "version": "1.0.0"
+    }
 ]
