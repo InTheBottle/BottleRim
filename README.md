@@ -1,5 +1,5 @@
 # BottleRim
-A total gameplay overhaul using Community Shaders.
+A total light survival SimonRim focused gameplay overhaul using Community Shaders.
 ![BottleRim](https://github.com/InTheBottle/BottleRim/blob/main/Resources/BottleRim.png)
 
 
