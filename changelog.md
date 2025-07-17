@@ -27,3 +27,4 @@
 - New animations and animation fixes, Dynamic sprint stop, disable turn, draw fix etc
 - Added Flat World Map Framework and Apocrypha Paper map for FWMF
 - Fixed some LOD and PG issues.
+- Cleaned up and updated NAT.CS Specifically for this modlist
