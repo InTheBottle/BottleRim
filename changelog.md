@@ -3,6 +3,7 @@
 - [1.1 (7/15/2025)](#11-changelog-7152025-not-save-safe)
 - [1.2 (7/16/2025)](#12-changelog-7162025-huge-not-save-safe)
 - [1.3 (7/18/2025)](#13-changelog-7182025-not-save-safe)
+- [1.3.1 (7/18/2025)](#131-changelog-7182025-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -48,3 +49,7 @@
 - Misc. mod updates as I saw them while working on this update.
 - Preconfigured Community Shaders settings, no more user setup required.
 - MCM Output included
+- General conflict patching
+
+  ## 1.3.1 Changelog 7/18/2025 (Save Safe)
+  - Fixed the custom Mod organizer 2 splash screen, no more flash bang.
