@@ -2,6 +2,7 @@
 
 - [1.1 (7/15/2025)](#11-changelog-7152025-not-save-safe)
 - [1.2 (7/16/2025)](#12-changelog-7162025-huge-not-save-safe)
+- [1.3 (7/18/2025)](#13-changelog-7182025-not-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -29,3 +30,21 @@
 - Fixed some LOD and PG issues.
 - Cleaned up and updated NAT.CS Specifically for this modlist
 - Some small custom balancing between gameplay overhauls
+
+## 1.3 Changelog 7/18/2025 (Not Save Safe)
+
+- Swapped to Edge UI + Explorer addon, much cleaner.
+- Removed SR Exterior Cities, slight possibility of adding it back in the future if I grow the courage to patch everything.
+- Swapped Alternate Start for Alternate Perspective.
+- Added Daedric Shrines AIO
+- Added High Quality Ivy
+- Added Interesting Locations + Unmarked locations
+- Added many more followers such as Katana, Val Serano, Kaidan etc
+- Added Shooting Stars and Rainbows, because I like shooting stars and rainbows
+- Swapped Improved Roads (old and very buggy) with Immersive World Encounters with custom patching for this list
+- Added stealth meter tweak, should remove stealth eye. Looks better with Detection
+- Improved vanilla UI audio
+- Replaced vanilla level up audio
+- Misc. mod updates as I saw them while working on this update.
+- Preconfigured Community Shaders settings, no more user setup required.
+- MCM Output included
