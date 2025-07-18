@@ -95,8 +95,6 @@ There are a few things you can and should do.
 2. Play with the Community Shader settings to blend LODs or enable parallax/contact shadows etc. The key to open the CS UI is "End".
 
 3. Open the Community Shaders UI (End key)
-
-4. Go to LOD Blending and set each one to 0.66, less or more depending on your preference. You can blend lods this way in real time.
    
 ### Antivirus Exceptions
 - Add exceptions in Windows Defender for the BottleRim folder and `ModOrganizer.exe` to avoid crashes.
