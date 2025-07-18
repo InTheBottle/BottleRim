@@ -51,5 +51,5 @@
 - MCM Output included
 - General conflict patching
 
-  ## 1.3.1 Changelog 7/18/2025 (Save Safe)
-  - Fixed the custom Mod organizer 2 splash screen, no more flash bang.
+## 1.3.1 Changelog 7/18/2025 (Save Safe)
+- Fixed the custom Mod organizer 2 splash screen, no more flash bang.
