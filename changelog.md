@@ -53,3 +53,10 @@
 
 ## 1.3.1 Changelog 7/18/2025 (Save Safe)
 - Fixed the custom Mod organizer 2 splash screen, no more flash bang.
+
+## 2.0 Changelog (Unreleased)
+
+- Full Creation Club integration using Masterwork and slampires creation cave with some personal tweaks and patches
+- Tamrielic distribution a long with all the extra simonrim goodies I could find, hand patched and conflict free
+- Saints and Seducer Extended Cut
+- Full Snazzy interiors implemented
