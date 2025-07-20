@@ -12,7 +12,6 @@ A total light survival SimonRim focused gameplay overhaul using Community Shader
 **Requirements**:
 - Skyrim SE version 1.6.1170 (latest Steam update).
 - Requires ALL Creation Club content.
-- Does **not** require full Anniversary Edition DLC.
 
 ---
 
