@@ -4,6 +4,7 @@
 - [1.2 (7/16/2025)](#12-changelog-7162025-huge-not-save-safe)
 - [1.3 (7/18/2025)](#13-changelog-7182025-not-save-safe)
 - [1.3.1 (7/18/2025)](#131-changelog-7182025-save-safe)
+- [2.0.0 (7/20/2025)](#20-changelog-7202025-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -54,7 +55,7 @@
 ## 1.3.1 Changelog 7/18/2025 (Save Safe)
 - Fixed the custom Mod organizer 2 splash screen, no more flash bang.
 
-## 2.0 Changelog (Unreleased)
+## 2.0 Changelog 7/20/2025 (Not Save Safe)
 
 - Full Creation Club integration using Masterwork and slampires creation cave with some personal tweaks and patches
 - Tamrielic distribution a long with all the extra simonrim goodies I could find, hand patched and conflict free
