@@ -11,7 +11,7 @@ A total light survival SimonRim focused gameplay overhaul using Community Shader
 
 **Requirements**:
 - Skyrim SE version 1.6.1170 (latest Steam update).
-- Four free Anniversary Edition mods: Fishing, Rare Curios, Survival Mode, Saints and Seducers (included in the November 2021 update).
+- Requires ALL Creation Club content.
 - Does **not** require full Anniversary Edition DLC.
 
 ---
@@ -70,6 +70,7 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
    - Run Skyrim SE once for graphics check.
    - Install [Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) on the same drive as Skyrim SE.
    - Run Creation Kit once, select `Yes` to unpack scripts.
+   - Run Skyrim through steam, install ALL creation club addons. Do not ALT tab during this process.
 
 ### Wabbajack Installation
 1. **Install Wabbajack**:
