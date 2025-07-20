@@ -95,7 +95,7 @@ There are a few things you can and should do.
 
 2. This list comes with a preconfigured Community Shaders setup, but feel free to press the "End" key and play around with things.
 
-3. Check the "Optionals" separator in Mo2 to activate Framegen or camera headbob if you'd like. Both disabled by default.
+3. Check the "Optionals" separator in Mo2 to activate Framegen or camera headbob if you'd like.
 
 4. Open the MCM, select Bathing in Skyrim and choose to either enable or leave it disabled.
    
