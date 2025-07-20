@@ -4,7 +4,7 @@
 - [1.2 (7/16/2025)](#12-changelog-7162025-huge-not-save-safe)
 - [1.3 (7/18/2025)](#13-changelog-7182025-not-save-safe)
 - [1.3.1 (7/18/2025)](#131-changelog-7182025-save-safe)
-- [2.0 (7/20/2025)](#20-changelog-7202025-save-safe)
+- [2.0 (7/20/2025)](#20-changelog-7202025-not-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
