@@ -60,3 +60,23 @@
 - Tamrielic distribution a long with all the extra simonrim goodies I could find, hand patched and conflict free
 - Saints and Seducer Extended Cut
 - Full Snazzy interiors implemented
+- NPC Combat fixes
+- COTNW repatched with dragon cult
+- Player hand spell lighting fixes
+- Oblivion horses added (no more ugly vanilla horses)
+- Lost Grimoire simonrim integration
+- Follower death chance fix
+- Fix for a few old people race face textures (missed a random RSV patch)
+- Tons of hand patches for location mods to work smoothly with eachother
+- Realistic boat bobbing
+- Misc mesh fixes for trees and A horses life
+- Added more immersive hunting animations
+- Added Time Flies
+- Fixed bugs involving Ryns Farms and Water for ENB conflict
+- Seasonal Weathers Framework for NAT.CS
+- Fixed duplicate iron arrows in Sons of Skyrim
+- New main menu screen and layout
+- Navigator added and patched to help navmesh bugs in the list
+- Fixed load order for HUD UI, UI will appear as intended now
+- HDT - SMP Creation Club Backpacks
+- Hand patches for all added creation club reintegration mods to ensure no conflicts between any of them. (if you find some please come yell at me)
