@@ -44,8 +44,8 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
 ## System Requirements
 - **OS**: Windows 10 or 11 (no LTSC or modified versions; Linux not supported).
 - **Storage**: SSD required.
-- **Download Size**: ~74 GB.
-- **Install Size**: ~108 GB.
+- **Download Size**: ~93 GB.
+- **Install Size**: ~141 GB.
 
 | Component | Recommended (1080p) | My Specs (1440p) |
 |-----------|---------------------|------------------|
@@ -92,9 +92,11 @@ There are a few things you can and should do.
 
 1. Run Bethini through the MO2 dropdown and select a preset + recommended tweaks. (Do not turn of TAA, required if you use CS' DLAA or AMDs.)
 
-2. Play with the Community Shader settings to blend LODs or enable parallax/contact shadows etc. The key to open the CS UI is "End".
+2. This list comes with a preconfigured Community Shaders setup, but feel free to press the "End" key and play around with things.
 
-3. Open the Community Shaders UI (End key)
+3. Check the "Optionals" separator in Mo2 to activate Framegen or camera headbob if you'd like. Both disabled by default.
+
+4. Open the MCM, select Bathing in Skyrim and choose to either enable or leave it disabled.
    
 ### Antivirus Exceptions
 - Add exceptions in Windows Defender for the BottleRim folder and `ModOrganizer.exe` to avoid crashes.
