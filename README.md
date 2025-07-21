@@ -67,10 +67,8 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
 2. **Steam Setup**:
    - Disable [auto-updates for Skyrim SE](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
    - Run Skyrim SE once for graphics check.
-   - Install [Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) on the same drive as Skyrim SE.
-   - Run Creation Kit once, select `Yes` to unpack scripts.
    - Run Skyrim through steam, install ALL creation club addons. Do not ALT tab during this process.
-   - If you have issues with the creation club plugins missing, you'll have to delete the skyrim folder thats in the steam folder and do a clean        install of skyrim, after its installed you can launch the game through steam and download all the creation club plugins that way.
+   - If you have issues with the creation club plugins missing, I highly recommend a CLEAN install of Skyrim, including completely deleting the skyrim steam folder and uninstalling.
 
 ### Wabbajack Installation
 1. **Install Wabbajack**:
