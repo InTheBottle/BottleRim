@@ -5,6 +5,7 @@
 - [1.3 (7/18/2025)](#13-changelog-7182025-not-save-safe)
 - [1.3.1 (7/18/2025)](#131-changelog-7182025-save-safe)
 - [2.0 (7/20/2025)](#20-changelog-7202025-not-save-safe)
+- [2.0.1 (7/21/2025)](#201-changelog-7212025-not-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -81,3 +82,7 @@
 - Fixed load order for HUD UI, UI will appear as intended now
 - HDT - SMP Creation Club Backpacks
 - Hand patches for all added creation club reintegration mods to ensure no conflicts between any of them. (if you find some please come yell at me)
+
+## 2.0.1 Changelog 7/21/2025 (Not Save Safe)
+
+- Hopefully fixed CC plugin installation issues
