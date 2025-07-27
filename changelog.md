@@ -6,6 +6,7 @@
 - [1.3.1 (7/18/2025)](#131-changelog-7182025-save-safe)
 - [2.0 (7/20/2025)](#20-changelog-7202025-not-save-safe)
 - [2.0.1 (7/21/2025)](#201-changelog-7212025-not-save-safe)
+- [2.1.0 (7/26/2025)](#210-changelog-7262025-not-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -86,3 +87,37 @@
 ## 2.0.1 Changelog 7/21/2025 (Not Save Safe)
 
 - Hopefully fixed CC plugin installation issues
+
+## 2.1.0 Changelog 7/26/2025 (Not Save Safe)
+
+- New vanilla friendly dungeons
+- Radiant quest bug fixes
+- UI related crashes fix
+- Added extra character presets for players to choose when creating their character
+- Added some better quality argonian and khajiit textures
+- A huge amount of small immersion focused mods
+- Animation clean up, added fixes and some extras for player, combat and NPCs
+- Added and created some missing patches
+- Added a few JK interiors mainly for palaces and large extravegent interiors
+- Added Honed metal
+- More smoothcam presets
+- Fixed player skin issues
+- Added dynamic NPC overlays
+- Added Ryn's standing stones
+- Windhelm fixed up to hopefully not look as rough (but its still windhelm)
+- General mod updates as of 7/26/2025
+- Added Roastlawyers whiterun
+- Added Northern Vanilla farmhouses
+- Added Northvale landscapes
+- Swapped solitude textures with Tomato's PBR solitude
+- Rebalanced Nirn Necessities to be in line with the CC Rebalance patch
+- Rebalanced Divergence wearable spell tomes to not be so overpowered and more of a simple passive buff
+- More paper maps
+- Added OWL Skypatched version (tested pretty extensively but please report any issues you come across, I am only one guy)
+- AI package tweaks and fixes
+- Obscures college of winterhold added and patched
+- Added tons of body overlays for character customization
+- Added Himbo Nevernude body
+- Obody integration for more NPC diversity using Bodies of Skyrim
+- Better audio for a few things
+- New creature skeletons using Savage Skyrim
