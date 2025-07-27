@@ -32,7 +32,7 @@ A total light survival SimonRim focused gameplay overhaul using Community Shader
 ## Introduction
 **BottleRim** is a total gameplay overhaul modlist for Skyrim SE (1.6.1170), built around [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). Based on [Althros Dev Tools](https://github.com/Styyx1/ADT).
 
-This is a list is a SimonRim focused light survival experience.
+This list is a SimonRim focused light survival experience.
 
 View the full mod list [here](https://loadorderlibrary.com/lists/bottlerim-2).
 
