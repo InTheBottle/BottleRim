@@ -7,6 +7,7 @@
 - [2.0 (7/20/2025)](#20-changelog-7202025-not-save-safe)
 - [2.0.1 (7/21/2025)](#201-changelog-7212025-not-save-safe)
 - [2.1.0 (7/26/2025)](#210-changelog-7262025-not-save-safe)
+- [2.2.0 (7/29/2025)](#220-changelog-7292025-not-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -121,3 +122,120 @@
 - Obody integration for more NPC diversity using Bodies of Skyrim
 - Better audio for a few things
 - New creature skeletons using Savage Skyrim
+
+## 2.2.0 Changelog 7/29/2025 (Not Save Safe)
+
+## Added Mods
+
+- Canis Hysteria - The Werewolf Disease
+- Cart to Horse Harness Fix
+- Controls_separator
+- Creation Club Wild Horses as Oblivion Horses
+- Crusader Simon Magus
+- CS Particle Patch
+- Deadly Spell Impact - AOS ISC Patch
+- Deadly Spell Impacts
+- Deadly Spell Impacts 2K
+- Deadly Spell Impacts for Mysticism
+- Deer Reworked - Ultimate
+- Desecration - Deadly Spell Impacts Decals Patch
+- Dynamic Activation Key - Addons Collection
+- Dynamic Activation Key - MCM
+- Edge UI - Explorer Addon - Patch Collection
+- Encounter Zones Unlocked SE
+- Extended Translucency
+- Farm Fences of Whiterun
+- Faultier's PBR Dwemer Ruins and Markarth
+- Faultier's PBR Windhelm
+- Flames of Coldharbour - Deadly Spell Impacts Decals Patch
+- Fluffworks (Fluffy Animals)
+- Fluffworks - Dismembering Framework Patch
+- Fluffworks - Tweaks and Expansion
+- Follower Dialogue Expansion - Faralda
+- Forsworn Brutality
+- Forsworn Brutality - Skeleton Replacer HD Patch
+- Gamepad Button Freer
+- Grain Mill Animation Fix
+- Heat Sources SkyPatched
+- Horse Save Load Fix
+- Horse Shoulder Harness Retexture
+- Immersive Fishing Locations
+- Indecent Exposure - Immersive Naked Reactions
+- Inverse Square Lighting - Community Shaders
+- Just Bite
+- moreHUD Inventory Edition
+- Oblivion Horses SE
+- Oblivion Interaction Icons - Phoenix's Patches
+- ODF - Blacksmith Burnmarks
+- ODF - Enemy Warpaints
+- ODF - Scars And Wounds
+- Parallax Spell Impacts
+- Parallax Spell Impacts Thunderbolt HD
+- Placed Light
+- Read Or Take SKSE
+- Rustic - UI Sounds
+- Scared of Shootings - NPCs react to aiming bows
+- Self-targeting Staff Animation Fix - Dynamic Animation Replacer - Open Animation Replacer
+- Shadows Of Sunlight - In Small Exterior World Spaces
+- Simplicity of Sea - Water Color and Transparency Tweaks
+- Skeuomorphism of Skyrim - Immersive Plaque Reading Interface
+- Skyland AIO
+- Skyland bits and Bobs - Performance Version
+- Skyland PBR
+- Skyrim Landscape and Water Fixes
+- Skyrim Skill Uncapper for SE and AE
+- Spaghetti's Palaces - Dragonsreach
+- Spaghetti's Palaces - Mistveil Keep
+- Spaghetti's Palaces - Palace of the Kings
+- Sprint Sneak Movement Speed Fix
+- Terrain Helper
+- Thieves Guild Requirements SE
+- Thieves' Night On the Town -- Tnott
+- Unique Wooden Bridges - Base Object Swapper
+- Unique Wooden Bridges - High Quality Ivy Add-On
+- Use Or Take SKSE
+- Water Mod
+- Weapon Stat Viewer V2
+- Window Shadows Ultimate
+- Window Shadows Ultimate - Patch Hub
+- Added Simon Magus' Crusader uncapper preset
+
+## Removed Mods
+
+- Battle Horn Level Up Screen Sound
+- Blue Palace Terrace - High Quality Ivy
+- Bottled Lanterns LP
+- Drengin's Blue Palace Terrace. Renewed version
+- Edge UI - Patch Collection
+- Environs - Kolskeggr - Patch Collection
+- Environs - Riften Warehouse - Patch Collection
+- Environs - The Ruined Tundra Farmhouse - Patch Collection
+- Exist's Caves - PBR Retexture
+- Exist's Caves PBR - Snow AO Fix
+- Exist's Riften - PBR Retexture
+- Faultier Windows - Lux Patch
+- Faultier's PBR blue palace terrace
+- Faultier's PBR Landscapes 2k
+- Faultier's PBR ShacksStockadesMines
+- Faultier's PBR Skyrim
+- Flat World Map Framework Ultimate Patch for Water for ENB SoS and Lux and Tweaks
+- Follower Death and Injury Chance - reference clear fix
+- JK's Castle Dour
+- JK's Dragonsreach
+- JK's Palace of the Kings
+- JK's Septimus Signus's Outpost
+- JK's The Bards College
+- Lightened JK's Dragonsreach
+- Lux
+- Lux (patch hub)
+- Lux - SkyPatcher
+- Lux CS Patch
+- Lux Via
+- MIC - Lux Patch
+- Northvale - Landscape Texture Replacer
+- Simple Forge Shadow Casters
+- Tomato's PBR Forts and Dungeons
+- Vanilla Plus City Entrances
+- Water for ENB
+
+- Updated mods as of 7/29/2025 keeping up with nexus releases
