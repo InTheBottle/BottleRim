@@ -8,7 +8,7 @@
 - [2.0.1 (7/21/2025)](#201-changelog-7212025-not-save-safe)
 - [2.1.0 (7/26/2025)](#210-changelog-7262025-not-save-safe)
 - [2.2.0 (7/29/2025)](#220-changelog-7292025-not-save-safe)
-- [2.3.0 (8/03/2025)](#223-changelog-8032025-not-save-safe)
+- [2.3.0 (8/03/2025)](#230-changelog-8032025-not-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
