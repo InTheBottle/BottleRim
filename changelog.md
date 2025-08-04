@@ -8,6 +8,7 @@
 - [2.0.1 (7/21/2025)](#201-changelog-7212025-not-save-safe)
 - [2.1.0 (7/26/2025)](#210-changelog-7262025-not-save-safe)
 - [2.2.0 (7/29/2025)](#220-changelog-7292025-not-save-safe)
+- [2.3.0 (8/03/2025)](#223-changelog-8032025-not-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -239,3 +240,209 @@
 - Water for ENB
 
 - Updated mods as of 7/29/2025 keeping up with nexus releases
+
+## 2.3.0 Changelog 8/03/2025 (Not Save Safe)
+
+# Modlist Changelog
+
+### Summary
+- **Added:** 92 mods
+- **Removed:** 67 mods
+- **Updated:** 28 mods
+
+## Added Mods
+
+- 3 Main Menu Compendium - Single Replacer (21-9)
+- A Proper Thane for Winterhold
+- Achievement Injector
+- Achievement Injector 21-9
+- Achievement Injector Icon Addon
+- Animated Interactions SKSE
+- Ascension
+- Auto Resolution
+- B612 - my little asteroid of useful UI components
+- Best In Class - SKSE Remake
+- Biggie Traits
+- Biggie Traits - Autopop
+- Biggie Traits - Refitted
+- Biggie Traits - Thumbnail Overhaul
+- BUVARP SE RE - Farmhouse Chimney Patch
+- Campfire Fixes - BOS
+- Capitals and Towns - Addons and Patches
+- Carriage Drivers Are Alive
+- Casting Bar
+- CC Pets Addon - Spiders Spin Webs
+- Children of the North Wind
+- Considerate Followers - Followers are Silent During Dialogue
+- CSVO - Masterwork Fishing USSEP
+- CSVO - Masterwork SS USSEP
+- Decorating Madness
+- Diverse 4thUnknown Dragons
+- Don't Call Me Bandit Chief
+- Don't Call Me Bandit Chief - Name Fixes
+- Dragonborn's Bestiary Ultrawide Patch Patch
+- Dwemer Pipework Reworked 5 - hotfix 4
+- Dynamic Weather and Time Based Detection (SE and AE compatible)
+- Edge UI - Explorer Addon - 21x9 Patch
+- Falmer 'Dialogue' Overhaul - Echolocation
+- Farmhouse Chimneys SE
+- Farmhouse Chimneys SE - USSEP Patch
+- Faultier's PBR Landscapes 2k
+- Fix NPC PermaBlock - Final Polishes
+- Follower Trap Safety - SPID
+- Followers Don't Draw Weapons - Updated
+- Frankly HD - PBR Remaster
+- HDT-SMP Vanilla - HIMBO Conversions
+- Hotkey Reminder
+- Housecarls Pre-Thaneship
+- HPT - Proper Thane for Winterhold
+- Improved Traps
+- JS Badges of Office SE
+- Knockout Extensions SKSE
+- kryptopyr's Automated Patches
+- Lore-Friendly Load Screen Compendium (21-9) (2K)
+- Merchants Don't Follow
+- MIC - Dynamic Things Alternative - BOS Patch
+- MIC - Fluffworks Medium Patch
+- MIC - Northern Vanilla Farmhouses Patch
+- MIC - Use Those Blankets Patch
+- MIC - Water in Wells Patch
+- Mining Makes Noise
+- Modern Hay PBR 2k
+- More Sensible Quartermasters
+- New Madness 2.0
+- Northern Maiden Crew Are Alive
+- Plague of the Dead - Mysticism Rebalance
+- Project Gap Close - Disabled Dynamic CPR
+- Project ja-Kha'jay
+- Return to Pelagius' mind
+- Rogue's Gallery
+- Ryn's Farms AIO - Landscape and Water Fixes
+- Ryn's Standing Stones
+- Ryn's Standing Stones Patch Collection
+- Sharpen Other Swords - Better-Shaped Weapons
+- Sharpen Other Swords II - AnimObject Swapper
+- Shivering Pelagius Mind
+- Show Follower Carry Weight
+- Show Mount Carry Weight
+- Show Pet Carry Weight
+- Simply Order Summons
+- SkyInteract
+- Smarter Conjuration Minions
+- Store Entrance Doorbells
+- Swiftly Order Squad - Follower Commands UI
+- Swiftly Order Squad - Tween Menu Overhaul
+- Temple Healers
+- Terrain Variation - Community Shaders
+- True Light
+- Tundra Homestead - AE Landscape Fix
+- Ultimate Cursors Collection
+- Ultrawide Support_separator
+- Varinia - Custom Voiced Retired Spy and Companion
+- Wait Your Turn - Enemy Circling Behaviour
+- Web Mothers Spin Webs
+- Whiterun 3D stone walls
+- Whiterun 3D stone walls - Roasts Tweaks
+- xLODGen Resource - SSE Terrain Tamriel
+
+## Removed Mods
+
+- Adventurer's Start - An Alternate Perspective Addon
+- Armor of Titus Mede I - PBR
+- Bjorn - A visual replacer
+- Bjorn - A visual replacer - BEARD version
+- BJORN - Custom Voiced Follower with Quests
+- Bloodmoon - Skyrim Reputation Patch
+- Children of the North Wind - Nordic Ruin Diversity
+- Creation Club Wild Horses as Oblivion Horses
+- CSVO - Destroy The Dark Brotherhood QE Heavy Legion Patch
+- CSVO - Heavy Legion USSEP Patch
+- CSVO - NW Heavy Legion Bandit War EC Patch
+- Deer Reworked - Ultimate
+- Dynamic Interior Ambient Lighting (DIAL)
+- Faultier's PBR Road Signs - English
+- Feral Foxes
+- Grave Gargoyles
+- Gritty Goats
+- Heavy Legion - HIMBO Refit
+- Heavy Legion 3BBB - 3BA bodyslides
+- Heinous Ash Hoppers
+- Honored Hounds
+- Immersive Dragons
+- Immersive Smilodons
+- Lightwood Trees 1.22
+- Looming Lurkers
+- Lore Friendly Guardian Stones
+- Marvelous Mudcrabs
+- Mighty Mammoths
+- Mortal Vitality - A Player Health Regen Overhaul
+- New Legion
+- Nightmare Chaurus
+- NordwarUA Legions PBR
+- Oblivion Horses SE
+- PG Plugins
+- Placed Light
+- Realistic Dog Sounds
+- Riekling Reavers
+- Ryn's Apprentice Stone
+- Ryn's Atronach Stone
+- Ryn's Lady Stone
+- Ryn's Lord Stone
+- Ryn's Lover Stone
+- Ryn's Ritual Stone
+- Ryn's Serpent Stone
+- Ryn's Shadow Stone
+- Ryn's Steed Stone
+- Ryn's Tower Stone
+- Savage Bear
+- Sickening Skeevers
+- Sinister Spriggans
+- Skyrim Reputation
+- Skyrim Reputation - Fixed and Patched
+- Skyrim Reputation - Manbeast - A Werewolf Overhaul patch
+- Skyrim Reputation Improved
+- Skyrim Reputation Patches for Quest Expansions and Alternate Routes
+- Supreme Chaurus Hunters
+- Supreme Seekers
+- Supreme Vampire Lords
+- Texture Patch for Skyland Landscapes
+- The Devils in the Details
+- The Divine Question - Quest Mod
+- Titus Mede I's Armor
+- Tyrannical Trolls
+- Wandering Merchants
+- Wandering Merchants Hostility Fix and Tweaks
+- Wandering Merchants Rebalanced
+- Wicked Werewolves
+
+## Updated Mods
+
+- Alternate Forms Keep Utility: 2.0 → 2.1
+- Alternative Bards Drum Songs: 12/07/2025 → 7/12/2025
+- Alternative Bards Lute Songs: 12/07/2025 → 7/12/2025
+- BottleRim - Dyndolod Output: 1.9 → 2.0
+- BottleRim - TexGen Output: 1.9 → 2.0
+- BottleRim - xLodgen Output: 1.6 → 1.7
+- Community Shaders: 1.3.2 → 1.3.3
+- Contextual Crosshair: 05/07/2025 → 7/5/2025
+- Crusader Simon Magus: 29/07/2025 → 7/29/2025
+- Echoes of Oblivion: 1.0 → 1.1
+- Helmet Toggle 2: 3.5 → 3.5.1
+- Horse Behaviour Improvements: 1.0.1 → 1.0
+- Inverse Square Lighting - Community Shaders: 1.0 → 1.1
+- Light Limit Fix: 2.2 → 2.3
+- Light Placer: 3.1 → 3.1.1
+- Mesh Improvement Compilation: 0.6.1 → 0.6.2
+- No Grass In Objects: 1.5 → 1.5.1
+- Overlay Distribution Framework: 1.3 → 1.4
+- Painted Torment - Lovecraftian Inspired Quest Mod: 1.0.4 → 1.0.5
+- Pandora Behaviour Engine: 3.1beta- → 3.2beta-
+- PGPatcher_Output: 29/07/2025 → 8/3/2025
+- Roastlawyer's Restored Whiterun Defences: 1.6 → 1.6.1.1
+- Ryn's Bleakwind Basin: 1.0 → 1.1
+- Ryn's Skyrim patch collection: 2.1 → 2.2
+- Skybane - The Logic of Death: 2.0.1 → 2.1
+- Softly Obscuring Snowfall: 1.3.1 → 1.3.2
+- The Whispering Door - Quest Expansion: 1.11 → 1.14
+- Unofficial Skyrim Special Edition Patch - USSEP: 4.3.5 → 4.3.6
+
