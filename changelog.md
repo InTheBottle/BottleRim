@@ -10,6 +10,7 @@
 - [2.2.0 (7/29/2025)](#220-changelog-7292025-not-save-safe)
 - [2.3.0 (8/03/2025)](#230-changelog-8032025-not-save-safe)
 - [2.4.0 (8/09/2025)](#240-changelog-8092025-not-save-safe)
+- [2.5.0 (8/11/2025)](#540-changelog-8112025-not-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -642,7 +643,6 @@
 - Cart to Horse Harness Fix
 - Children of the North Wind - Nordic Ruin Diversity
 - Creation Club Wild Horses as Oblivion Horses
-- Crusader Simon Magus
 - CSVO - Destroy The Dark Brotherhood QE Heavy Legion Patch
 - CSVO - Heavy Legion USSEP Patch
 - CSVO - NW Heavy Legion Bandit War EC Patch
@@ -758,3 +758,13 @@
 - Windhelm Objects SMIMed: 1.7 → 1.9
 - Window Shadows Ultimate: 1.1 → 1.1.1
 - Window Shadows Ultimate - Patch Hub: 1.05 → 1.06
+
+ ## 2.5.0 Changelog 8/11/2025 (Not Save Safe)
+
+ # Modlist Changelog
+
+ - Removed Snazzy interiors due to compatibility and lack of patches for WSU
+ - Fixed True Light skypatcher not picking up fog max settings, inherit was not set correctly for the ini
+ - Added grass cache for slightly larger grass radius, improves performance slightly and fixes grass in landscape textures added by Northern Roads
+ - Fixed a handful of floating objects that were due to northern roads
+ - Removed Project ja-Kha'jay due to a crash i just straight up could not figure out, replaced with BeastHHBB
