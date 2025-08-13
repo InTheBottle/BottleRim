@@ -11,6 +11,7 @@
 - [2.3.0 (8/03/2025)](#230-changelog-8032025-not-save-safe)
 - [2.4.0 (8/09/2025)](#240-changelog-8092025-not-save-safe)
 - [2.5.0 (8/11/2025)](#250-changelog-8112025-not-save-safe)
+- [2.6.0 (8/12/2025)](#260-changelog-8122025-not-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -768,3 +769,15 @@
  - Added grass cache for slightly larger grass radius, improves performance slightly and fixes grass in landscape textures added by Northern Roads
  - Fixed a handful of floating objects that were due to northern roads
  - Removed Project ja-Kha'jay due to a crash i just straight up could not figure out, replaced with BeastHHBB
+
+ ## 2.6.0 Changelog 8/12/2025 (Not Save Safe)
+
+  # Modlist Changelog
+
+ - Fixed tons of landscape issues
+ - Added Wyrmstooth
+ - Added Siege at Icemoth
+ - Added Andrealphus Jobs
+ - True Light fixes and tweaks
+ - Handpainted huge parts of Northern Roads
+ - More handpatching to resolve minor issues
