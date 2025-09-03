@@ -3,11 +3,11 @@ A total light survival SimonRim focused gameplay overhaul using Community Shader
 ![BottleRim](https://github.com/InTheBottle/BottleRim/blob/main/Resources/BottleRim.png)
 
 
-**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/154268) | [Changelog](https://github.com/InTheBottle/BottleRim/blob/main/changelog.md) | [Load Order](https://loadorderlibrary.com/lists/bottlerim-2) | [Discord](https://discord.gg/avzs76EgnA)
+**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/154268) | [Changelog](https://github.com/InTheBottle/BottleRim/blob/main/changelog.md) | [Load Order](https://loadorderlibrary.com/lists/bottlerim-2) | [Discord](https://discord.gg/bungalo)
 
 ---
 
-**Support**: Join the [BottleRim Discord](https://discord.gg/avzs76EgnA)
+**Support**: Join the [BottleRim Discord](https://discord.gg/bungalo)
 
 **Requirements**:
 - Skyrim SE version 1.6.1170 (latest Steam update).
@@ -147,9 +147,9 @@ There are a couple mods you should check out in the MCM to customize how you wou
 
 - **Post-Installation Issues**:
   - Form 43/DLL errors? Reinstall with “Overwrite Installation” checked in Wabbajack.
-  - Crashing on startup? Reinstall or seek help on [Discord](https://discord.gg/avzs76EgnA) with crash logs.
+  - Crashing on startup? Reinstall or seek help on [Discord](https://discord.gg/bungalo) with crash logs.
 
-- Join [BottleRim Discord](https://discord.gg/avzs76EgnA) for support.
+- Join [BottleRim Discord](https://discord.gg/bungalo) for support.
 
 ---
 
