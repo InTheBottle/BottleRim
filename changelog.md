@@ -13,6 +13,7 @@
 - [2.5.0 (8/11/2025)](#250-changelog-8112025-not-save-safe)
 - [2.6.0 (8/12/2025)](#260-changelog-8122025-not-save-safe)
 - [3.0.0 (9/05/2025)](#300-changelog-9052025-not-save-safe)
+- [3.0.1 (9/06/2025)](#301-changelog-9062025-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -791,3 +792,11 @@
   - Bigger focus on vanilla and cut content, ensuring choice matters and decisions show themselves in the gameworld.
   - Many, many mods were removed and many were added. Too many to list unfortunately.
   - Overall the lists gameplay should feel very similar. 
+
+ ## 3.0.1 Changelog 9/06/2025 (Save Safe)
+
+  # Modlist Changelog
+
+  - A couple UI fixes
+  - Set Left Trigger as default for dynamic activation key
+  - Added Skyparkour v3 as well as a handful of better animation mods
