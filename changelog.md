@@ -12,6 +12,7 @@
 - [2.4.0 (8/09/2025)](#240-changelog-8092025-not-save-safe)
 - [2.5.0 (8/11/2025)](#250-changelog-8112025-not-save-safe)
 - [2.6.0 (8/12/2025)](#260-changelog-8122025-not-save-safe)
+- [3.0.0 (9/05/2025)](#300-changelog-9052025-not-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -781,3 +782,12 @@
  - True Light fixes and tweaks
  - Handpainted huge parts of Northern Roads
  - More handpatching to resolve minor issues
+
+ ## 3.0.0 Changelog 9/05/2025 (Not Save Safe)
+
+  # Modlist Changelog
+
+  - Complete rework of the list, cut down on bloat and went back to my original vision of what I wanted for BottleRim.
+  - Bigger focus on vanilla and cut content, ensuring choice matters and decisions show themselves in the gameworld.
+  - Many, many mods were removed and many were added. Too many to list unfortunately.
+  - Overall the lists gameplay should feel very similar. 
