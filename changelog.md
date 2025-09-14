@@ -14,6 +14,7 @@
 - [2.6.0 (8/12/2025)](#260-changelog-8122025-not-save-safe)
 - [3.0.0 (9/05/2025)](#300-changelog-9052025-not-save-safe)
 - [3.0.1 (9/06/2025)](#301-changelog-9062025-save-safe)
+- [3.1.0 (9/13/2025)](#310-changelog-9132025-not-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -800,3 +801,92 @@
   - A couple UI fixes
   - Set Left Trigger as default for dynamic activation key
   - Added Skyparkour v3 as well as a handful of better animation mods
+
+## 3.1.0 Changelog 9/13/2025 (Not Save Safe)
+
+## Summary
+- **Added:** 62 mods
+- **Removed:** 25 mods
+
+## Added Mods
+
+- A Serana Makeover
+- All Thieves guild merchants buy stolen goods
+- Astralite Weathers
+- CritterSpawn - Script Call Reduction
+- CritterSpawn Call Reduction - CritterFish
+- Diplomatic Immunity - NPC Overhaul
+- Fare Thee Well - Spouses and Children Give Blessings (TAGS - Family)
+- Grumbledook Ivy
+- Harkon and Valerica Refined
+- Heart-To-Heart - Conversations Among Family
+- Immersive Dialogue Expansion - Stormcloaks
+- Immersive Dialogue Expansion - Whiterun
+- Immersive Diseases 2.0
+- Juniper's The Ragged Flagon
+- Karura's Companions Refined
+- Karura's Daedric Princes Refined
+- Karura's Dark Brotherhood Refined
+- Karura's Dark Brotherhood Refined - Babette
+- Karura's Ordinary People Refined - zExtended Addon
+- Karura's Ordinary People Refined - zzFishing Addon
+- Karura's Ordinary People Refined Skypatched - CBBE
+- Karura's Thieves Guild Refined
+- Kids in Nirn Refined - Jayserpa's Heart of Dibella
+- Kids in Nirn Refined - KiN
+- lilebonymace's patches and xEdit scripts
+- Men of Skyrim Refined - COtR NPC Replacer
+- NMGE - Embers XD Patch
+- NMGE - Natura Waterfalls Patch
+- No More Glowy Effects
+- Obsidian Mountain Fogs Tweaked
+- Pilgrim Religion Overhaul - Shrines fit for the Divine
+- RS Children Overhaul
+- Rudy HQ - More dramatic Red Mountain Volcano Plume
+- Script Optimization and Fixes Compilation
+- Seasonal Weathers Framework - Seasons support for Weathers Mods
+- Security Overhaul SKSE - Extra Locks - 11 New Locks
+- Security Overhaul SKSE - Lock Add-ons
+- Security Overhaul SKSE - Lock Variations
+- Security Overhaul SKSE - Regional Locks
+- Security Overhaul SKSE PBR
+- Simple Follower Sandbox
+- Starlit Lakes Loading Screens
+- Starlit Lakes Loading Screens - 21 9 Ultrawide Patch
+- Thieves Guild Requirements SE
+- Thieves Guild Requirements SE - Settings Loader
+- Thieves' Night On the Town -- Tnott
+- Tomato's PBR Farmhouses
+- True Sons Of Skyrim Refined - COtR NPC Replacer
+- Vanilla Follower Expansion - Brelyna (VFE)
+- Vanilla Follower Expansion - Illia (VFE)
+- Vanilla Makeup HD - HD Racial Colors and Makeup for all Races and Genders - SE
+- Vibrant Weapons EAE - Animated Armoury Patch
+- Volumetric Mists
+
+## Removed Mods
+
+- Animated Ships
+- Animated Ships - Finer Sails
+- Convenient Dialogue UI - SE
+- Echoes of Tamriel - Loading Screens
+- Exist's Farmhouses - PBR Retexture
+- Faultier's PBR Windows
+- Immersive Weapon and Armor Restriction
+- Immersive Weapon and Armor Restriction - Item Equip Restrictor
+- Item Equip Restrictor
+- Moons And Stars - Sky Overhaul SKSE
+- NAT.CS III
+- NAT.ENB - ESP WEATHER PLUGIN v3.1.1C - Fixed
+- No More Blinding Fog - SSE Port
+- Nordic Faces - Anniversary Edition FaceGen
+- Nordic Faces - FaceGen - BSA
+- RUSTIC CHILDREN
+- Skyrim Children Refine (NPC Appearance Overhaul - Eye Colors - Skin Details - Fixes)
+- Sovngarde UI Buttons - Button Art Resource
+- Subtleties of Skyrim - Red Mountain Lava - Distant Ships - Vvardenfell Mushroom
+- Twilight
+- Vanilla Script (micro)Optimizations
+- WTT - No Plume
+
+### Along with tons of behind the scenes bug fixes and plugin patching. Hopefully you guys enjoy it, I think the new weather and NPCs look amazing. Update is not save safe unfortunately, you do not have to update if you're having fun with a save currently, the list will be here when you're ready . :slight_smile:
