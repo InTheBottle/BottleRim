@@ -892,7 +892,7 @@
 
 ### Along with tons of behind the scenes bug fixes and plugin patching. Hopefully you guys enjoy it, I think the new weather and NPCs look amazing. Update is not save safe unfortunately, you do not have to update if you're having fun with a save currently, the list will be here when you're ready . :slight_smile:
 
-# BottleRim 3.3.0 Changelog
+## 3.3.0 Changelog 10/9/2025 (Not Save Safe)
 
 ### Summary
 - **Added:** 38 mods
