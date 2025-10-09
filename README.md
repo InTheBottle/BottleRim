@@ -10,8 +10,8 @@ A total light survival SimonRim focused gameplay overhaul using Community Shader
 **Support**: Join the [BottleRim Discord](https://discord.gg/bungalo)
 
 **Requirements**:
-- Skyrim SE version 1.6.1170 (latest Steam update).
-- Requires ALL Creation Club content.
+- Skyrim version 1.6.1170 (latest Steam update).
+- Skyrim AE with all anniversary edition content (Paid Creation Content.
 
 ---
 
@@ -30,7 +30,7 @@ A total light survival SimonRim focused gameplay overhaul using Community Shader
 ---
 
 ## Introduction
-**BottleRim** is a total gameplay overhaul modlist for Skyrim SE (1.6.1170), built around [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). Based on [Althros Dev Tools](https://github.com/Styyx1/ADT).
+**BottleRim** is a total gameplay overhaul modlist for Skyrim AE (1.6.1170), built around [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). Based on [Althros Dev Tools](https://github.com/Styyx1/ADT).
 
 This list is a SimonRim focused light survival experience.
 
@@ -65,8 +65,8 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
    - If Visual C++ is installed, use the `Repair` option.
 
 2. **Steam Setup**:
-   - Disable [auto-updates for Skyrim SE](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-   - Run Skyrim SE once for graphics check.
+   - Disable [auto-updates for Skyrim AE](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+   - Run Skyrim AE once for graphics check.
    - Run Skyrim through steam, install ALL creation club addons. Do not ALT tab during this process.
    - If you have issues with the creation club plugins missing, I highly recommend a CLEAN install of Skyrim, including completely deleting the skyrim steam folder and uninstalling.
 
@@ -77,7 +77,7 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
    - Run `Wabbajack.exe` (requires version 4.0.0.0 or later).
 
 2. **Install BottleRim**:
-   - Open Wabbajack, select Skyrim SE, find BottleRim, and click “Download and Install.”
+   - Open Wabbajack, select Skyrim AE, find BottleRim, and click “Download and Install.”
    - Set Installation Location (e.g., `C:\BottleRim`) and Downloads Location (avoid Program Files, Desktop, etc.).
    - Click Install.
    - Nexus Premium automates downloads; without it, manually click “Slow Download” for each mod.
@@ -130,8 +130,6 @@ There are a couple mods you should check out in the MCM to customize how you wou
 - Bathing in Skyrim
 
   Helmet Toggle 2 is awesome and you can set the hotkey and conditions in the MCM to whatever you'd like.
-
-  Bathing in Skyrim comes disabled by default, some people may not want this so if you do be sure to enable it before leaving the starting cell.
 ---
 
 ## Uninstalling
