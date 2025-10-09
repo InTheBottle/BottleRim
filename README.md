@@ -94,8 +94,6 @@ There are a few things you can and should do.
 2. This list comes with a preconfigured Community Shaders setup, but feel free to press the "End" key and play around with things.
 
 3. Check the "Optionals" separator in Mo2 to activate Framegen or camera headbob if you'd like.
-
-4. Open the MCM, select Bathing in Skyrim and choose to either enable or leave it disabled.
    
 ### Antivirus Exceptions
 - Add exceptions in Windows Defender for the BottleRim folder and `ModOrganizer.exe` to avoid crashes.
@@ -127,9 +125,12 @@ There are a few things you can and should do.
 There are a couple mods you should check out in the MCM to customize how you would like to play.
 
 - Helmet Toggle 2
-- Bathing in Skyrim
+
+- Community Shaders
 
   Helmet Toggle 2 is awesome and you can set the hotkey and conditions in the MCM to whatever you'd like.
+
+  By default I have the community shaders UI button set to `page up`.
 ---
 
 ## Uninstalling
