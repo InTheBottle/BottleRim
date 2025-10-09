@@ -109,7 +109,7 @@ There are a few things you can and should do.
 - Launch Skyrim SE through Mod Organizer 2 (MO2) in the BottleRim folder.
 - Enjoy the enhanced visuals!
 - If you use a controller/gamepad, Left Trigger is now used for Dynamic activation key. It works when you have your weapon sheathed and you use it by holding the trigger and pressing the activate button. This works for a lot of things try it out!
-- Add Crusader, an uncapper preset made by Simon Magus. Players will now be locked to 62 perk points, so choose wisely!
+- The list comes with Crusader, an uncapper preset made by Simon Magus. Players will now be locked to 62 perk points, so choose wisely!
 
 ---
 
