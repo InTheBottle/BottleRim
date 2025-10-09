@@ -15,6 +15,7 @@
 - [3.0.0 (9/05/2025)](#300-changelog-9052025-not-save-safe)
 - [3.0.1 (9/06/2025)](#301-changelog-9062025-save-safe)
 - [3.1.0 (9/13/2025)](#310-changelog-9132025-not-save-safe)
+- [3.3.0 (10/9/2025)](#330-changelog-1092025-not-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -890,3 +891,67 @@
 - WTT - No Plume
 
 ### Along with tons of behind the scenes bug fixes and plugin patching. Hopefully you guys enjoy it, I think the new weather and NPCs look amazing. Update is not save safe unfortunately, you do not have to update if you're having fun with a save currently, the list will be here when you're ready . :slight_smile:
+
+# BottleRim 3.3.0 Changelog
+
+### Summary
+- **Added:** 38 mods
+- **Removed:** 22 mods
+
+## Added Mods
+
+- AIO City Paper Maps for FWMF
+- Assorted Nordic UI Tweaks and Patches
+- Bellyache's Animal and Creature Pack PBR
+- Better Dynamic Ash SE
+- Blackreach Paper Map for FWMF
+- Broken Feathers - Latest Version
+- Dayspring Canyon Paper Map for FWMF
+- Deepwood Vale Paper Map for FWMF
+- Disappearing Dialogue Window FIX for Oblivion Camera SE
+- Fix NPC PermaBlock - Final Polishes
+- Forgotten Vale Paper Map for FWMF
+- FWMF for Paper Skyrim and Solstheim Maps by Mirhayasu
+- Hagraven - New models and Textures
+- Horse Behaviour Improvements
+- Horse Pose Improvements
+- Lux Orbis
+- Lux Orbis - Patch Hub
+- MFMD - Missing Follower Dialogue Edit
+- NORDIC UI - Modern Wait Menu
+- Nordic UI - SkyUILib patch
+- NPC Spell Variance
+- Oblivion Camera SE
+- Project Gap Close - Disabled Dynamic CPR
+- Ricochet - Arrow Physics Framework
+- Ricochet Framework - MCM menu
+- Rotols More Icons
+- Skuldafn Paper Map for FWMF by Limon
+- Skyrim and Solstheim Paper Maps by Mirhayasu for FWMF
+- Skyrim Skill Uncapper for SE and AE
+- Skyrim's Inns - Main Menu Music Replacer
+- Sorcerer - Juniper's College of Winterhold Compatability Patch
+- Soul Cairn Paper Map for FWMF
+- Sovngarde Paper Map for FWMF
+- Sprint Swim Redux SKSE
+- Wait Your Turn - Enemy Circling Behaviour
+- XP32 True Ragdoll Physics
+
+## Removed Mods
+
+- Alternate Conversation Camera
+- Animated Whistling - Press H to Horse Patch
+- Cinematic - TV Series Like Conversation Camera Preset
+- Loading Menu Overhaul - Nordic UI Reskin
+- LoreBox Nordic UI Patch
+- Missing Follower Dialogue Edit
+- NORDIC UI - Better Scroll Bar
+- NORDIC UI - Compass Markers Restored
+- NORDIC UI - Constructible Object Custom Keyword System
+- NPC Spell Variance - Spell Variety AI
+- Press H to Horse
+- Remove Small Rocks
+- SkyrimUncapperBetaForAE(Latest)
+- Sovngarde - HQ Main Menu Music Replacer
+- Stormcloak Rebellion Refine (Civil War NPC Appearance Overhaul - Standalone - Ulfric)
+- Vanaheimr Landscapes - AIO - Glacier Meshes
