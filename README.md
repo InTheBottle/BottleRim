@@ -91,7 +91,7 @@ There are a few things you can and should do.
 
 1. Run Bethini through the MO2 dropdown and select a preset + recommended tweaks. (Do not turn of TAA, required if you use CS' DLAA or AMDs.)
 
-2. This list comes with a preconfigured Community Shaders setup, but feel free to press the "End" key and play around with things.
+2. This list comes with a preconfigured Community Shaders setup, but feel free to press the "Page Up" key and play around with things.
 
 3. Check the "Optionals" separator in Mo2 to activate Framegen or camera headbob if you'd like.
    
@@ -100,7 +100,7 @@ There are a few things you can and should do.
 - Steps: Windows Security > Virus & Threat Protection > Manage Settings > Exclusions > Add Folder > Select BottleRim folder.
 
 ### Keyboard Keybinds
-- **Community Shaders**: `End` key.
+- **Community Shaders**: `Page Up` key.
 - Other controls use vanilla Skyrim keybinds.
 
 ---
