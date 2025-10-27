@@ -102,7 +102,7 @@ There are a few things you can and should do.
 ### Keyboard Keybinds
 - **Community Shaders**: `Page Up` key.
 - Controller support uses this layout
-<image-card alt="Screenshot of your content" src="images/Screenshot 2025-10-25 091049.png" ></image-card>
+<image-card alt="Alt text" src="images/Screenshot 2025-10-25 091049.png?v=1" ></image-card>
 
 ---
 
