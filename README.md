@@ -11,7 +11,7 @@ A total light survival SimonRim focused gameplay overhaul using Community Shader
 
 **Requirements**:
 - Skyrim version 1.6.1170 (latest Steam update).
-- Skyrim AE with all anniversary edition content (Paid Creation Content.
+- Skyrim AE with all anniversary edition content (Paid Creation Content).
 
 ---
 
@@ -89,11 +89,11 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
 
 There are a few things you can and should do. 
 
-1. Run Bethini through the MO2 dropdown and select a preset + recommended tweaks. (Do not turn of TAA, required if you use CS' DLAA or AMDs.)
+1. This is optional as the list comes with preconfigured INIs, run Bethini through the MO2 dropdown and select a preset + recommended tweaks ONLY. (Do not turn off TAA, required if you use CS' DLAA or AMDs.)
 
 2. This list comes with a preconfigured Community Shaders setup, but feel free to press the "Page Up" key and play around with things.
 
-3. Check the "Optionals" separator in Mo2 to activate Framegen or camera headbob if you'd like.
+3. Check the "Optionals" separator in Mo2 if you'd like.
    
 ### Antivirus Exceptions
 - Add exceptions in Windows Defender for the BottleRim folder and `ModOrganizer.exe` to avoid crashes.
@@ -101,7 +101,8 @@ There are a few things you can and should do.
 
 ### Keyboard Keybinds
 - **Community Shaders**: `Page Up` key.
-- Other controls use vanilla Skyrim keybinds.
+- Controller support uses this layout
+![BottleRim](Resources/Screenshot 2025-10-25 091049.png)
 
 ---
 
