@@ -978,7 +978,6 @@
 - Better Dynamic Ash SE
 - Blackreach Paper Map for FWMF
 - Bone Hawk Replacer- Mihail Monsters and Animals (SE-AE version) (''undead bird'')
-- BottleRim 3.3.1_separator
 - Broken Feathers - Latest Version
 - ChickenMike's Mod Tweaks and Fixes
 - Chickens and Chicks - My optimized textures SE by Xtudo
