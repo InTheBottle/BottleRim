@@ -16,6 +16,7 @@
 - [3.0.1 (9/06/2025)](#301-changelog-9062025-save-safe)
 - [3.1.0 (9/13/2025)](#310-changelog-9132025-not-save-safe)
 - [3.3.0 (10/9/2025)](#330-changelog-1092025-not-save-safe)
+- [3.4.0 (10/27/2025)](#340-changelog-10272025-not-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -954,4 +955,256 @@
 - SkyrimUncapperBetaForAE(Latest)
 - Sovngarde - HQ Main Menu Music Replacer
 - Stormcloak Rebellion Refine (Civil War NPC Appearance Overhaul - Standalone - Ulfric)
+- Vanaheimr Landscapes - AIO - Glacier Meshes
+
+## 3.4.0 Changelog 10/27/2025 (Not Save Safe)
+
+# Modlist Changelog
+
+## Added Mods
+
+- Across the Border - Diverse Border Gates
+- AJO - Andrealletius Jobs Overhaul
+- Alchemy Plus
+- Alternate Start Reborn - PBR
+- Ambient Templates for Lighting Mods
+- Animated armoury Grip position fix
+- Animation Motion Fix
+- Arena SkyPatched
+- Assorted Nordic UI Tweaks and Patches
+- Auto Potion Renamer
+- Bathing in Skyrim - Renewed
+- Bears of the North
+- Better Dynamic Ash SE
+- Blackreach Paper Map for FWMF
+- Bone Hawk Replacer- Mihail Monsters and Animals (SE-AE version) (''undead bird'')
+- BottleRim 3.3.1_separator
+- Broken Feathers - Latest Version
+- ChickenMike's Mod Tweaks and Fixes
+- Chickens and Chicks - My optimized textures SE by Xtudo
+- Chickens and Chicks- Mihail Monsters and Animals (SE-AE version)
+- Children of the North Wind Patch Collection 6.8.1
+- Chocolate Poise
+- Chocolate Poise Plus - Addons and Rebalancing
+- Combat Mechanics_separator
+- Combat Pathing Revolution
+- Combat Pathing Revolution AE
+- Complete Controller Setup
+- Constellations - Additional Player Skills
+- Constellations - Simple TK Dodge Integration
+- Constellations for Simonrim
+- Controller_separator
+- Cow Replacer - My optimized textures SE by Xtudo - 2K
+- Cow Replacer- Mihail Monsters and Animals (SE-AE version)
+- Dayspring Canyon Paper Map for FWMF
+- Deepwood Vale Paper Map for FWMF
+- Deer Reworked - Ultimate
+- DF - Creatures - The Dragon Cult Draugr
+- DF - Creatures by Xtudo - 4th Trolls
+- DF - Creatures by Xtudo - Simply Better Wolves
+- Disappearing Dialogue Window FIX for Oblivion Camera SE
+- Dishonored Dead - An Yngvild Overhaul
+- Distar Creatures
+- Diverse Downed Logs - Base Object Swapper
+- Diverse NPC Heights - SkyPatcher
+- Draugrs - SE by Xtudo - The Dragon Cult - 4K
+- dTry Plugin Updates
+- dTry's Key Utils
+- Dynamic Block Hit
+- Dynamic Block Hit - Sound fix
+- Dynamic Bow Animation
+- Dynamic Impact - Slash Effects X
+- Dynamic Interior Ambient Lighting (DIAL)
+- Dynamic NPC Hairstyles
+- Elden Ring Step Dodge
+- Enemies Can't Block While Exhausted
+- Enhanced Invisibility
+- Faithful Faces - Rogues 'n Raiders
+- Fire Hurts NG Updated
+- Fires Hurt RE
+- First Person Dodge Animations for TK dodge
+- Fix NPC PermaBlock - Final Polishes
+- Follower Stats - Simply Order Summons
+- Forgotten Vale Paper Map for FWMF
+- Forsworn Matriarchs
+- FuzzBeed's Fabulous Resource Repository
+- FWMF for Paper Skyrim and Solstheim Maps by Mirhayasu
+- Gamepad Plus Plus
+- Giants Overhaul - My optimized textures SE by Xtudo
+- Giants Overhaul- Mihail Monsters and Animals (SE-AE version)
+- God of War Kratos Dodge Animations for TK Dodge - DMCO - TUDM
+- Grab And Throw
+- Hagraven - New models and Textures
+- Hair Colour Sync
+- Hawk Replacer and Eagles- Mihail Monsters and Animals (SE-AE version) (''bird'')
+- HD Reworked Dogs
+- High Quality Ivy Replacer - Base Object Swapper - Seasons of Skyrim
+- Horse Behaviour Improvements
+- Horse Pose Improvements
+- Hotkey Reminder
+- Iconic's Ash Guardian Retexture
+- Iconic's Ashman Retexture
+- Iconic's Frost - Flame - Storm Atronach Retexture
+- Iconic's Gargoyle and Death Hound Retexture
+- Iconic's Spiders of Skyrim Retexture
+- Iconic's Spriggan Retexture
+- Iconic's Vampire Lord Retexture
+- Iconic's Werewolf and Werebear Retexture
+- IFrame Generator RE AE Support
+- Immersive Crafted Potion Names
+- Left Hand Equipment Overhaul
+- Lightened Skyrim - Base Object Swapper edition
+- Magic Fixes and Tweaks SKSE
+- MAMMOTH
+- Master Occlusion Field
+- MaxsuBlockOverhaul
+- MFMD - Missing Follower Dialogue Edit
+- More Cow Variants- Mihail Monsters and Animals (SE-AE)
+- Natura - Stone Atronach Retexture
+- Nature of the Wild Lands - Animations Addon - PBR
+- Nature of the Wild Lands - forest and trees improvement mod
+- Nature of the Wild Lands - Nordic Cut
+- Nature of the Wild Lands - Nordic Cut Patches
+- Nature of the Wild Lands - PBR
+- Nature of the Wild Lands 3.0 - 3D hybrid LOD
+- NORDIC UI - Modern Wait Menu
+- Nordic UI - SkyUILib patch
+- NotW Animation - PLUGINS (FOMOD)
+- NPC Block Loop Fix
+- NPC Parry Style Stagger animations(OAR)
+- NPCs Names Distributor
+- NPCs Names Distributor - Patches for Various Mods
+- Oblivion Camera SE
+- Obsidian CS
+- Obsidian Weathers and Seasons
+- Optimized Meshes - Rabbit Replacer- Mihail Monsters and Animals (SE-AE version)
+- Papyrus Ini Manipulator
+- PELTAPALOOZA - Special Edition
+- PGPatcher (aka ParallaxGen)
+- Plus Combat
+- Plus Combat - Exhaustion Addon
+- Plus Combat - Hand to Hand Patch
+- Project Gap Close - CPR
+- Rabbit Replacer - My optimized textures SE
+- Rabbit Replacer- Mihail Monsters and Animals (SE-AE version)
+- Reachmen Tribes Names
+- Realistic Death Physics - No Animations ESL
+- Ricochet Framework - Latest Version
+- Ricochet Framework - MCM menu
+- Rogues 'n Raiders
+- Rotols More Icons
+- RYFTEN - Consistency of windows in Riften
+- SABRECAT
+- Sanguine Symphony - Slash Effects X compatibility patch
+- Sassy SnW Hair Retexture - Vanilla 2k-1k
+- Sassy SnW Retexture - KS Hairdos HDT
+- Scrab's Papyrus Extender
+- Seasonal Weathers Framework - Obsidian Weathers
+- Serana Dialogue Expansion
+- SIGMA - Battleaxe animations - 1st person
+- SIGMA - Sword animations - 1st person
+- Silentroll Distribute For Ultimate NPC Dodging - Skypatcher SPID
+- Simplest Horses (and other mounts)
+- Simplest Horses - Animated Whistling Patch
+- Simply Better Wolves
+- Skeletons SE
+- Skeletons SE - Expanded
+- Skuldafn Paper Map for FWMF by Limon
+- SkyInteract
+- SkyNames - Distributor Patch
+- SkyNames - Second Names for Unique NPCs
+- Skyrim and Solstheim Paper Maps by Mirhayasu for FWMF
+- Skyrim freeze fix NG
+- Skyrim Skill Uncapper for SE and AE
+- Skyrim's Inns - Main Menu Music Replacer
+- Smooth Magic Casting Animation
+- Smooth Moveset (CPR)
+- Smooth Moveset - DAR
+- Smooth Moveset - OAR
+- Smooth TK Dodge attack OAR Conversion
+- Some Nemesis defaults for Pandora
+- Sorcerer - Juniper's College of Winterhold Compatability Patch
+- Soul Cairn Paper Map for FWMF
+- Sound For TK Dodge SE
+- Sovngarde Paper Map for FWMF
+- Sprint Swim Redux SKSE
+- Stances - Dynamic Animation Sets
+- Tamrielic Names
+- The Dragon Cult - A Draugr Overhaul
+- The Dragon Cult - Expanded
+- TK dodge firstperson 8 ways dodge (sound added)
+- TK Dodge RE - Script Free
+- TK Dodge RE Addon
+- TK Dodge SE
+- Trees patches for Woodcutting Tweaks
+- Trolls SE
+- True Light
+- UI Engine Fixes (SSE Display Tweaks)_separator
+- Ultimate NPC Dodging
+- Ultimate NPC Dodging - Animation Pack
+- Valhalla Combat
+- Valhalla Combat - Race Addons
+- Valhalla Combat Sounds Redone
+- Vanilla Clouds Upscaled
+- Vanilla hair remake SMP - Wigs
+- W.I.O. - Wheeler Icons Overhaul
+- Wait Your Turn - Enemy Circling Behaviour
+- Watchman's Valtheim Towers
+- Weapon Styles for IED (CPR)
+- Weapons and Armors Remastered - PBR (4k)
+- Weight adjustment for Vanilla hair remake SMP
+- Wheeler - Quick Action Wheel Of Skyrim
+- Wheeler - Show in UI
+- Wheeler CTD-Fix
+- Window Shadows Ultimate
+- Window Shadows Ultimate - Patch Hub
+- Wolf attack animations
+- World Immersion Tweaks (with Game Settings Override Addon)
+- XP32 True Ragdoll Physics
+
+## Removed Mods
+
+- Alternate Conversation Camera
+- Amidianborn PBR
+- Animated Whistling - Press H to Horse Patch
+- Astralite Weathers
+- Barbarian Bodypaints - Racemenu Body and Head Overlays for UUNP CBBE and Males
+- Blade and Blunt - A Combat Overhaul
+- Bottled Lanterns LP
+- Cinematic - TV Series Like Conversation Camera Preset
+- CSVO - Faultiers Clutter ISC Patch
+- CSVO - FootPrints FFM Patch
+- DEAD - Draugr Enemy Asset Diversity
+- Death Animations - Guaranted Death Animation
+- Death Animations - No Spinning Death Patch
+- Death Animations from Underdog Animations
+- Dirt and Blood Inventory Injector (I4) Icons
+- Draugrs - SE by Xtudo - D.E.A.D
+- Environs - Kolskeggr - Patch Collection
+- Gamepad Button Freer
+- Gore - A Companion Mod
+- Just Blood - Dirt and Blood Lite
+- KG Animations - One-handers and Dual Wield
+- KG Animations - Two-handers
+- Lightwood Trees
+- Loading Menu Overhaul - Nordic UI Reskin
+- Lore Friendly Guardian Stones
+- LoreBox Nordic UI Patch
+- Lux
+- Lux - Patch Hub
+- Lux CS
+- MIC - Lux Patch
+- Northern Scenery - Bleak Falls Barrow
+- Optional Lux Resource pack (No ENB light)
+- PBR Lightwood Trees (plus cut wood and aspens)
+- Press H to Horse
+- Remove Small Rocks
+- SC - KS Hairdos Retextured
+- SC - Vanilla Hair Retex
+- SC - Vanilla Hair Retex - Tiled Textures
+- Simple Archery Animations
+- Sovngarde - HQ Main Menu Music Replacer
+- Stormcloak Rebellion Refine (Civil War NPC Appearance Overhaul - Standalone - Ulfric)
+- The Restless Dead (A Draugr and Skeleton Overhaul)
+- The Restless Dead - Mandragorasprouts' Draugrs Patch
 - Vanaheimr Landscapes - AIO - Glacier Meshes
