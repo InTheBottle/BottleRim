@@ -101,7 +101,7 @@ There are a few things you can and should do.
 
 ### Keyboard Keybinds
 - **Community Shaders**: `Page Up` key.
-- Controller support uses this layout
+- Controller support uses this layout; it is possible to reinstall the Complete Controller Setup mod to use a different layout.
 <img src="Resources/Screenshot 2025-10-25 091049.png" alt="Screenshot" width="800">
 
 ---
