@@ -17,6 +17,8 @@
 - [3.1.0 (9/13/2025)](#310-changelog-9132025-not-save-safe)
 - [3.3.0 (10/9/2025)](#330-changelog-1092025-not-save-safe)
 - [3.4.0 (10/27/2025)](#340-changelog-10272025-not-save-safe)
+- [4.0.0 (11/9/2025)](#400-changelog-1192025-not-save-safe)
+- [4.0.1 (11/11/2025)](#400-changelog-11112025-not-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -1207,3 +1209,24 @@
 - The Restless Dead (A Draugr and Skeleton Overhaul)
 - The Restless Dead - Mandragorasprouts' Draugrs Patch
 - Vanaheimr Landscapes - AIO - Glacier Meshes
+
+## 4.0.0 Changelog 11/9/2025 (Not Save Safe)
+
+## Changelog
+
+Changelog is massive I don't really know where to begin.
+
+- New locations for Karthwasten, Dragon bridge, Dawnstar, Morthal
+- New combat, integrated MCO and SCAR for player and NPCs
+- First and third person stances using Stances NG
+- New music, and sound FX
+- Kittytails Magic FX
+- Switched to Experience for skill leveling
+- New NPC overhauls for Elf races
+- Tons of random patching for more consistency
+
+## 4.0.1 Changelog 11/11/2025 (Not Save Safe)
+
+- Fix for SCAR not working properly
+- Think I fixed the experience issue with start up quests
+- Some bonus goodies for beast races
