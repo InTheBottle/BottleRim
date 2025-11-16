@@ -19,6 +19,7 @@
 - [3.4.0 (10/27/2025)](#340-changelog-10272025-not-save-safe)
 - [4.0.0 (11/9/2025)](#400-changelog-1192025-not-save-safe)
 - [4.0.1 (11/11/2025)](#400-changelog-11112025-not-save-safe)
+- [4.1.0 (11/16/2025)](#410-changelog-11162025-not-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -1230,3 +1231,21 @@ Changelog is massive I don't really know where to begin.
 - Fix for SCAR not working properly
 - Think I fixed the experience issue with start up quests
 - Some bonus goodies for beast races
+
+## 4.1.0 Changelog 11/16/2025 (Not Save Safe)
+
+- New interiors for a handful of frequently visited locations.
+- Fixed issue with OCPA, should work perfectly now and you can set the keybind in the MCM
+- Switched from Nordic UI to Untarnished, Nordic is awesome but I just can't be asked to maintain the horde of mods needed to get it working properly and patched with icons
+- Unfortunately gave up on Widescreen support, I was essentially just guessing because I have no way to test, if someone would like to get it working for themselves and share the set up I will happily add it into the list :slight_smile:
+- New 1st person anims from @sigerious patched with Stances NG
+- MCO Block recovery working, you can now block mid attack which makes third person combat just feel more fluid in my opinion.
+- More Kittytail magic VFX
+- Adjusted Leveling curve using Leveling Freedom, Leveling will be slower overall now which is the recommended way to play BottleRim, but if you find it too slow you can adjust this curve very easily in the MCM under Leveling Freedom.
+- Removed RMB and RC of SPID, super cool concepts and I wish they worked for me but sadly they did not and caused heaps of issues.
+- Redid leveled lists distribution for Evolving guard outpost location overhauls
+- Redid leveled lists distribution by hand for NordWarUAs armor and weapon mods
+- Custom edit of Animated Armoury using JaySerpas version.
+- Redid Bodyslide output
+- Reran LODs and PG output
+- Did a long pass through xEdit to mop up some more conflicts between gameplay overhaul mods and magic effects
