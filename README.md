@@ -1,5 +1,5 @@
 # BottleRim
-A total light survival SimonRim focused gameplay overhaul using Community Shaders.
+A total survival SimonRim focused gameplay overhaul using Community Shaders.
 ![BottleRim](Resources/Skyrim.webp)
 
 
@@ -69,6 +69,28 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
    - Run Skyrim AE once for graphics check.
    - Run Skyrim through steam, install ALL creation club addons. Do not ALT tab during this process.
    - If you have issues with the creation club plugins missing, I highly recommend a CLEAN install of Skyrim, including completely deleting the skyrim steam folder and uninstalling.
+  
+3. **PageFile**:
+   Larger modlists require a lot more of your memory, running out of memory will result in crashes and other potential issues. Highly recommended to do this step.
+
+To set up a Pagefile:
+
+   - Press Win Key + R
+   - Type sysdm.cpl ,3 and hit ENTER
+   - Navigate to Performance and click the box Settings
+   - Click the Advanced tab at the top
+   - Under Virtual Memory click the box Change
+   - Uncheck Automatically Manage if it is checked
+   - Select your disk drive, ideally your fastest solid state drive
+   - Click Custom Size:
+   - In the box next to Initial Size (MB), type 40960
+   - In the box next to Maximum Size (MB), type 40960
+   - Click Set.
+   - Click OK.
+   - Click Apply.
+   - Click OK.
+   - Restart your PC.
+
 
 ### Wabbajack Installation
 1. **Install Wabbajack**:
@@ -93,7 +115,7 @@ There are a few things you can and should do.
 
 2. This list comes with a preconfigured Community Shaders setup, but feel free to press the "Page Up" key and play around with things.
 
-3. Check the "Optionals" separator in Mo2 if you'd like.
+3. Check the "Optionals" separator in Mo2, I have them enabled by default but all are safe to disable at any time. The reason for leaving them enabled is just to help those that use them not have to worry about where the plugins should go since it will already be set.
    
 ### Antivirus Exceptions
 - Add exceptions in Windows Defender for the BottleRim folder and `ModOrganizer.exe` to avoid crashes.
@@ -108,8 +130,7 @@ There are a few things you can and should do.
 
 ## Playing the Game
 - Launch Skyrim SE through Mod Organizer 2 (MO2) in the BottleRim folder.
-- Enjoy the enhanced visuals!
-- The list comes with Crusader, an uncapper preset made by Simon Magus. Players will now be locked to 62 perk points, so choose wisely!
+- Enjoy surviving in BottleRim, or don't, it is pretty hard.
 
 ---
 
@@ -124,13 +145,21 @@ There are a few things you can and should do.
 ## Modifying the list
 There are a couple of mods you should check out in the MCM to customize your play style as you prefer.
 
-- Helmet Toggle 2
+- Bathing in Skyrim 
+
+   The list includes it but the mod needs to be enabled in the MCM if you choose to use it. Adds dirt overtime to the character and allows bathing etc.
+
+- Helmet Toggle 2 
+   
+   Helmet Toggle 2 is awesome, and you can set the hotkey and conditions in the MCM to whatever you'd like.
 
 - Community Shaders
 
-  Helmet Toggle 2 is awesome, and you can set the hotkey and conditions in the MCM to whatever you'd like.
-
   By default, I have the community shaders UI button set to `page up`.
+
+  - Leveling Freedom
+
+  If at any point you want to adjust the amount of experience it takes to get to the next level, find this mod in the MCM. Simple to adjust the curve or simply choose an easy or more difficult preset.
 ---
 
 ## Uninstalling
