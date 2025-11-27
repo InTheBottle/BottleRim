@@ -20,6 +20,10 @@
 - [4.0.0 (11/9/2025)](#400-changelog-1192025-not-save-safe)
 - [4.0.1 (11/11/2025)](#400-changelog-11112025-not-save-safe)
 - [4.1.0 (11/16/2025)](#410-changelog-11162025-not-save-safe)
+- [4.1.2 (11/17/2025)](#412-changelog-11172025-save-safe)
+- [4.2.0 (11/21/2025)](#420-changelog-11212025-not-save-safe)
+- [4.2.1 (11/22/2025)](#421-changelog-11222025-save-safe)
+- [4.2.2 (11/24/2025)](#422-changelog-11242025-save-safe)
 
 ## 1.1 Changelog 7/15/2025 (Not Save Safe)
 
@@ -1249,3 +1253,48 @@ Changelog is massive I don't really know where to begin.
 - Redid Bodyslide output
 - Reran LODs and PG output
 - Did a long pass through xEdit to mop up some more conflicts between gameplay overhaul mods and magic effects
+
+## 4.1.2 Changelog 11/17/2025 (Save Safe)
+
+- Hopefully fixed the random crashes related to SMP bodies
+- Hand patched interiors fully
+- Switched to XPMSSE Lite, I think it was an issue with this related to the random crashes.
+- Mod updates
+
+## 4.2.0 Changelog 11/21/2025 (Not Save Safe)
+
+- Spent a few days suffering in xEdit to fix and catch any inconsistencies.
+- Fixed broken sign textures
+- Fixed Winking Skeever
+- Fixed gourmet cheese (Thanks @smilkduds)
+- Removed Project Gap Close, did not play nice with the combat AI I was using and caused obnoxious sprint attack spam.
+- Made leveling a bit less difficult (still difficult tho)
+- Fixed first person spell lights
+- Mod updates
+- Custom tweaks for Obsidian CS not found on Nexus
+- Better Spider Web textures
+- Switched back to Faultiers Landscapes, imo for PBR it simply can't be beaten and is just way easier to work with.
+- Static fishing poles can now be looted
+- Fixed some issues with a couple armor sets
+- Added mintys storm lightning
+- Added Follower Dialogue expansion mods so vanilla followers can interact with more quests and custom followers
+- Switched to XPMSE Lite (just works better)
+- Added\updated Skyrim Revoiced
+- UI additions for less bleak untarnished vibes
+- Not sure if these were in 4.1 but added Northern Vanilla Farmhouses and fancy chimneys.
+
+## 4.2.1 Changelog 11/22/2025 (Save Safe)
+
+- Fixed inconsistent draugr models
+- Removed outfit recognition framework, tired of hearing about how brown armor is ugly
+- Animation fixes
+- Draugr non awoken MCO animations
+- Fixed broken texture on nordic sculpture head
+
+## 4.2.2 Changelog 11/24/2025 (Save Safe)
+
+- Fixed rare crash related to an animation fix.
+- Fixed errors and patched a few more things in the Leveled list ESP (thanks for pointing it out @iradcoldheart)
+- Updated a few mods that needed it
+- Hopefully fixed the couple errors with Vampire gameplay
+- Removed ugly membrane shader effects (the weird layer that forms when under certain spells or effects)
