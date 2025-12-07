@@ -114,16 +114,13 @@ There are a few things you can and should do.
 
 1. This is optional as the list comes with preconfigured INIs, run Bethini through the MO2 dropdown and select a preset + recommended tweaks ONLY. (Do not turn off TAA, required if you use CS' DLAA or AMDs.)
 
-2. This list comes with a preconfigured Community Shaders setup, but feel free to press the "Page Up" key and play around with things.
-
-3. Check the "Optionals" separator in Mo2, I have them enabled by default but all are safe to disable at any time. The reason for leaving them enabled is just to help those that use them not have to worry about where the plugins should go since it will already be set.
+2. Check the "Optionals" separator in Mo2, I have them enabled by default but all are safe to disable at any time. The reason for leaving them enabled is just to help those that use them not have to worry about where the plugins should go since it will already be set.
    
 ### Antivirus Exceptions
 - Add exceptions in Windows Defender for the BottleRim folder and `ModOrganizer.exe` to avoid crashes.
 - Steps: Windows Security > Virus & Threat Protection > Manage Settings > Exclusions > Add Folder > Select BottleRim folder.
 
 ### Keyboard Keybinds
-- **Community Shaders**: `Page Up` key.
 - Controller support uses this layout; it is possible to reinstall the Complete Controller Setup mod to use a different layout.
 <img src="Resources/Screenshot 2025-10-25 091049.png" alt="Screenshot" width="800">
 
@@ -153,10 +150,6 @@ There are a couple of mods you should check out in the MCM to customize your pla
 - Helmet Toggle 2 
    
    Helmet Toggle 2 is awesome, and you can set the hotkey and conditions in the MCM to whatever you'd like.
-
-- Community Shaders
-
-  By default, I have the community shaders UI button set to `page up`.
 
   - Leveling Freedom
 
