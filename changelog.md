@@ -1,7 +1,7 @@
 # Changelog Overview
-- [1.0.0](bottlerim-et-ada-100---not-save-safe-1-0-0)
-- [1.1.0](bottlerim-et-ada-100---not-save-safe-1-1-0)
-- [1.1.1](bottlerim-et-ada-100---save-safe-1-1-1)
+- [1.0.0](bottlerim-et'-ada-100---not-save-safe-1-0-0)
+- [1.1.0](bottlerim-et'-ada-100---not-save-safe-1-1-0)
+- [1.1.1](bottlerim-et'-ada-100---save-safe-1-1-1)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
