@@ -1,6 +1,11 @@
-## BottleRim Et' Ada 1.0.0
+# Changelog Overview
 
-## Not Save Safe
+- [1.0.0](#100-BottleRim-Et'-Ada-not-save-safe)
+- [1.1.0](#110-BottleRim-Et'-Ada-not-save-safe)
+- [1.1.1](#111-BottleRim-Et'-Ada-save-safe)
+
+## BottleRim Et' Ada 1.0.0 Not Save Safe
+
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
 - New lands and tons of new quests
 - Fixed community shaders overrides (should look a bit nicer)
@@ -35,3 +40,27 @@
 - New smoothcam presets are available in the MCM now for a total of 6
 - Added Kittytail lightning VFX and the fix for first person mage light thanks to @zero6zxc 
 - Added some armors to vendor leveled lists
+
+## BottleRim Et' Ada 1.1.0 Not Save Safe
+
+- Removed Obody
+- Removed Himbo (replaced with zzjays males of skyrim)
+- Stability fixes due to getting rid of obody
+- Faster load times in game
+- No more bodyslide crashes
+- Interior fixes
+- JK Winking Skeever WSU Patch
+- Nerfed first dragon encounters HP
+- Lowered bandit gold drop rate
+- Fixed some missing adamant patches
+
+## BottleRim Et' Ada 1.1.1 Save Safe
+
+- Added an extremely stripped version of Himbo back in just to fix male body seams
+- Added BnP male skin back because every other skin texture just ain't it
+- Fixed fluted armor pauldrons and IED issue
+- Fixed healingFX spell applying broken shader to player skin
+- Removed Untarnished UI in favor of Norden UI
+- Fixed dark face bug on Rhico in Blood and Grit quest
+- Added Quests award perk points patch for Wyrmstooth
+- Removed redundant fishing QAPP patch
