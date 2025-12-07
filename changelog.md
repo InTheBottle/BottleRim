@@ -1,11 +1,9 @@
 # Changelog Overview
+- [1.0.0](#v100)
+- [1.1.0](#v110)
+- [1.1.1](#v111)
 
-- [1.0.0](#100-BottleRim-Et'-Ada-not-save-safe)
-- [1.1.0](#110-BottleRim-Et'-Ada-not-save-safe)
-- [1.1.1](#111-BottleRim-Et'-Ada-save-safe)
-
-## BottleRim Et' Ada 1.0.0 Not Save Safe
-
+## BottIeRim Et' Ada 1.0.0 Not Save Safe {#v100}
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
 - New lands and tons of new quests
 - Fixed community shaders overrides (should look a bit nicer)
@@ -38,11 +36,10 @@
 - Added Diplomatic Dragons, Cult of the world eater, destroy the acolyte priests, and Defeat the dragon cult
 - Added Quests are in skyrim
 - New smoothcam presets are available in the MCM now for a total of 6
-- Added Kittytail lightning VFX and the fix for first person mage light thanks to @zero6zxc 
+- Added Kittytail lightning VFX and the fix for first person mage light thanks to @zero6zxc
 - Added some armors to vendor leveled lists
 
-## BottleRim Et' Ada 1.1.0 Not Save Safe
-
+## BottIeRim Et' Ada 1.1.0 Not Save Safe {#v110}
 - Removed Obody
 - Removed Himbo (replaced with zzjays males of skyrim)
 - Stability fixes due to getting rid of obody
@@ -54,8 +51,7 @@
 - Lowered bandit gold drop rate
 - Fixed some missing adamant patches
 
-## BottleRim Et' Ada 1.1.1 Save Safe
-
+## BottIeRim Et' Ada 1.1.1 Save Safe {#v111}
 - Added an extremely stripped version of Himbo back in just to fix male body seams
 - Added BnP male skin back because every other skin texture just ain't it
 - Fixed fluted armor pauldrons and IED issue
