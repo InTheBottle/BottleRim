@@ -1,9 +1,9 @@
 # Changelog Overview
-- [1.0.0](#100)
-- [1.1.0](#110)
-- [1.1.1](#111)
+- [1.0.0](#1-0-0)
+- [1.1.0](#1-1-0)
+- [1.1.1](#1-1-1)
 
-## BottIeRim Et' Ada 1.0.0 - Not Save Safe {#100}
+## BottIeRim Et' Ada 1.0.0 - Not Save Safe {#1-0-0}
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
 - New lands and tons of new quests
 - Fixed community shaders overrides (should look a bit nicer)
@@ -39,7 +39,7 @@
 - Added Kittytail lightning VFX and the fix for first person mage light thanks to @zero6zxc
 - Added some armors to vendor leveled lists
 
-## BottIeRim Et' Ada 1.1.0 - Not Save Safe {#110}
+## BottIeRim Et' Ada 1.1.0 - Not Save Safe {#1-1-0}
 - Removed Obody
 - Removed Himbo (replaced with zzjays males of skyrim)
 - Stability fixes due to getting rid of obody
@@ -51,7 +51,7 @@
 - Lowered bandit gold drop rate
 - Fixed some missing adamant patches
 
-## BottIeRim Et' Ada 1.1.1 - Save Safe {#111}
+## BottIeRim Et' Ada 1.1.1 - Save Safe {#1-1-1}
 - Added an extremely stripped version of Himbo back in just to fix male body seams
 - Added BnP male skin back because every other skin texture just ain't it
 - Fixed fluted armor pauldrons and IED issue
