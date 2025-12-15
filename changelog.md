@@ -2,6 +2,7 @@
 - [1.0.0](#bottlerim-et-ada-100---not-save-safe)
 - [1.1.0](#bottlerim-et-ada-110---not-save-safe)
 - [1.1.1](#bottlerim-et-ada-111---save-safe)
+- [1.2.0](#bottlerim-et-ada-110---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -60,3 +61,215 @@
 - Fixed dark face bug on Rhico in Blood and Grit quest
 - Added Quests award perk points patch for Wyrmstooth
 - Removed redundant fishing QAPP patch
+
+## BottleRim Et' Ada 1.2.0 - Not Save Safe
+
+## Added Mods
+
+- HIMBO V5 - Core
+- A Lovely Letter Alternate Routes
+- A Makeover for Taliesin
+- A Steward for Dawnstar
+- Absolute Arachnophobia
+- Actually flat flat snow drifts - fix hovering snow drift shadow with ENB
+- Addons for 'Alchemy Requires Bottles Redux'
+- Administer Potions and Poisons to Friendly NPCs
+- Aela DF Edit Skypatched
+- Aetherium Forge Destroys Items (AFDI)
+- AFDI - CC Saints and Seducers Creatures Patch
+- Alchemy recipe view mode - Show in UI
+- Alchemy recipe view mode SE
+- Alchemy Requires Bottles - Empty Potions at the Alchemy Lab
+- Alchemy Requires Bottles Redux
+- Alchemy_separator
+- Almost Vanilla - A HIMBO Bodyslide Preset
+- Angi's Camp Tweaks
+- Angis Camp Overhaul
+- Angis Camp Overhaul Patches
+- Animated Forge Water
+- Animated Objects Overhauled aka That is NOT a spoon
+- Another RaceMenu Rotation Mod
+- Apocryphal Library
+- Arch-Curate Vyrthur Revoiced
+- Assorted Behavior Fixes
+- Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.)
+- Bards College Excavation
+- Beards
+- Beards by Hvergelmir for High Poly Head
+- Belethor's Sister - Quest
+- Better Follower Equip Control
+- Better Living for Angi (Angi's Shack)
+- Boethiah's Calling - Alternate Questline
+- BottleRim - Et' Ada 1.1.2_separator
+- Brelyna DF Edit Skypatched
+- Brows
+- Buy and Sell Torches - Bug Fix
+- Can't See What I Found - Less NPC Nagging When Picking Loot
+- Cassia's Plea Remover Addon
+- Casual Dog Animations (DAR-OAR)
+- City Bag Checks
+- Civil War_separator
+- Community Shaders (Nexus Version)_separator
+- Community Shaders BR Overrides
+- Considerate Followers - Followers are Silent During Dialogue
+- CSVO - Daedric Voice Artificer Patch
+- CSVO - Daedric Voice Manbeast Patch
+- Customizable Companions Questline Progression Requirements
+- Daedric Shrines AIO by Xtudo - The Gray Cowl 10th
+- Daedric Voices
+- Daedric Voices Meridia Patch
+- Deadly Spell Impacts
+- Desecration - Deadly Spell Impacts Decals Patch
+- Dirt and Blood - Dynamic Visual Effects
+- Dirt and Blood HD Retexture
+- Divines Prayer Animations
+- dMenu NG - CTD Fixes and Global Translations
+- Dragon Claw Descriptions
+- Dragon Cult_separator
+- Dragonsreach Dungeon Basement Floor Seams FIX
+- EmbersXD Torch Edit
+- Eola DF Edit Skypatched
+- Faithful Faces - The Forgotten City
+- Faithful Faces - Wyrmstooth
+- Faultier's PBR Deadly Spell Impacts
+- Finding Velehk Sain
+- Fires Hurt - OIF
+- Fjori and Holgeir in Sovngarde
+- Flame VFX Edit
+- Flames of Coldharbour - Deadly Spell Impacts Decals Patch
+- Follower Interact with Gestures
+- Food for the Thirsty
+- Forgotten City Music Fixer
+- FPS Boost for Quest Mods
+- Frost VFX Edit
+- FUS RO DON'T - PushActorAway Crash Prevention Script Tweak
+- Gray Cowl of Nocturnal World Map Fix
+- Guild Quests_separator
+- HDT-SMP Vanilla - HIMBO Conversions
+- Healing VFX Edit
+- Heartwood Mill Quest Complement - Flight Or Fight Vanilla Quest Tweak
+- Here We Go Again - World Interactions
+- High_Poly_Head_v
+- Hircine Revoiced
+- Hircine Revoiced - AFDI Patch
+- Hircine Revoiced - Daedric Voices Patch
+- House of the Thief
+- Jarl Sitting Animation Replacer
+- JellyFishFP Movement Remake
+- Jenassa DF Edit Skypatched
+- Jordis DF Edit Skypatched
+- Jorrvaskr Basement Floor Seams FIX
+- Jorrvaskr Basement Floor Seams FIX - PBR
+- JS Badges of Office SE
+- Khisartin Beards - Standalone
+- Khisartin Brows - Standalone
+- Kittytail Spell VFX and Mysticism 2 Compatibility Patch
+- Kynareth Replaces Talos - Civil War Consequence
+- LDP For Vanilla plus Modlists
+- Lia's Shack - Angi's Camp
+- Lia's Shack Patch
+- LvxMagick's - No More Stupid Dog
+- Lydia DF Edit Skypatched
+- Male Argonian Shouts - Revoiced
+- Map Markers
+- Mehrunes Dagon's Shrine Unlocked - Pieces of the Past Alternate Ending
+- Mephala Revoiced
+- Mephala's Curse - Whispering Door Quest Addon
+- Meridia Revised - A New Voice
+- Meridia Revised - A New Voice - AFDI Patch
+- Missives - Gray Cowl Patch
+- Nocturnal Revoiced
+- Nocturnal Revoiced - AFDI Patch
+- Penitus Oculatus
+- Peryite Revoiced
+- Peryite Revoiced - AFDI Patch
+- Peryite Revoiced - Daedric Voices Patch
+- Peryite Revoiced - The Only Cure Patch
+- Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.)
+- Player Name Randomizer
+- Player Name Randomizer - Show in UI
+- Potema Revoiced
+- Proving Honor Companions Quest Progression Fix
+- Quest - Baba Yaga and the Labyrinth
+- Redeeming Fultheim - A Blades Quest Addon
+- Relaxed Bards
+- Restoring the Aretino Residence SE
+- Revoiced and Patches_separator
+- Rise in the East - Immersive Start - Don't Miss Japhet's Folly
+- RS Children - Gore - A Companion Mod
+- Ruins of the Ideal - New Ruins in Soul Cairn
+- Sanguine Symphony Realistic Heavy Armor Sounds
+- Sapphire DF Edit
+- Scared of Shootings - NPCs react to aiming bows
+- Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
+- See Through Portals and Oblivion Gates - Myrwatch - The Cause - Base Object Swapper
+- Sensible Oculory Solution - Logical Mzark Puzzle - Discerning The Transmundane - Main Quest
+- Sensible Wyrmstooth Prerequisite
+- Serana DF Edit SDF
+- Settling of Squad - Set Follower Home
+- Shadows Of Sunlight - In Small Exterior World Spaces
+- Shield sprint patch
+- Shovels Bury Bodies
+- Show Follower Carry Weight
+- Show Mount Carry Weight
+- SIGMA - Magic animations - 1st person
+- Simple Offence Suppression
+- Simple Offence Suppression - Block Friendly Fire Combat Only
+- Simple Offence Suppression MCM - Arcane Accessories Unbounded Storms - Fix
+- Simple Offence Suppression MCM - Block Friendly Fire
+- Sirene Wispmother - A SIRENROOT Replacer
+- Smart Optimal Salves - A Patch for All Potions
+- Smart Optimal Salves - Optimal Potion Hotkey MCM
+- Snazzy Items for Auri (Song of the Green)
+- Soldier of Stendarr
+- Soldier of Stendarr - Voiced
+- STB Active Effects
+- STB Widgets
+- Stendarr Rising - The Hall of the Vigilant Rebuild
+- Stuff of Shadows - 3D Nightingale Stone - Nightingale and Twilight Sepulcher Improvements and Bug Fixes
+- Sweeping Organizes Stuff - Use Broom to Clean Mess
+- Taste of Death - Quest Addon Patches
+- The Forgotten City
+- The Forgotten City - Delayed Start
+- The Gray Cowl of Nocturnal - 10th anniversary
+- The Gray Cowl of Nocturnal - Bounty fix...and More
+- The Gray Cowl of Nocturnal - Familiar Faces
+- The Gray Cowl of Nocturnal - Immersive interaction
+- The Gray Cowl of Nocturnal SE - Moveable Lanterns and Signs
+- The Pigeon's Nest - Assortment of small mods and fixes
+- The Taste of Death - Quest Addon
+- The Thalmor's Shadow - Taliesin (Custom Voiced Follower)
+- The Welkynar Knight - Quest
+- Timing is Everything SE
+- Timing is Everything SE - Settings Loader
+- To Your Face SE - AE - VR
+- Ulfric...Tullius...Give Me a Break
+- Unclench - A Behavior Fix
+- We Don't Need Two Boards - 10th Anniversary
+- Wild Witch Outfit - CBBE 3BA UUNP BHUNP HIMBO Vanilla - HDT-SMP
+- Wild Witch Outfit - PBR
+- Winged Hussar Armor and Weapons - CBBE 3BA UUNP BHUNP HIMBO Vanilla - HDT-SMP
+- Wyrmstooth - Icy Mesh Remaster - Tweak
+- xLODGen Resource - SSE Terrain Tamriel
+- Zero Bounty Hostility Fix
+
+## And probably tons more that I forgot.
+
+## Removed Mods
+
+- Bathing in Skyrim - Renewed
+- Blood and Grit - Quest Mod
+- Facial Hair
+- Finally First Person Magic Animation for SSE
+- Fire Hurts NG Updated
+- Fires Hurt RE
+- Goblins- Mihail Monsters and Animals (SE-AE version)
+- HIMBO Improved Meshes Only
+- Improved Companions - Questline Tweaks
+- JellyFishFP Movement REanimation (1st person animations series)
+- Seamless Males SE
+- The New Gentleman SFW Edition
+- UNDERDOG - Animations
+- Worldspace Transition Tweaks
+- WTT_Patch
+- Zaki Dirt and Blood Overlays for Racemenu -CBBE-SoS-
