@@ -143,10 +143,6 @@ There are a few things you can and should do.
 ## Modifying the list
 There are a couple of mods you should check out in the MCM to customize your play style as you prefer.
 
-- Bathing in Skyrim 
-
-   The list includes it but the mod needs to be enabled in the MCM if you choose to use it. Adds dirt overtime to the character and allows bathing etc.
-
 - Helmet Toggle 2 
    
    Helmet Toggle 2 is awesome, and you can set the hotkey and conditions in the MCM to whatever you'd like.
