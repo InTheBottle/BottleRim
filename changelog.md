@@ -276,7 +276,8 @@
 - Zaki Dirt and Blood Overlays for Racemenu -CBBE-SoS-
 
 ## BottleRim Et' Ada 1.2.0 - Not Save Safe
-## BottleRim Et' Ada 1.3.0
+
+## BottleRim Et' Ada 1.3.0 - Not Save Safe
 
 ## Not Save Safe
 
