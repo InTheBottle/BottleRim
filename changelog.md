@@ -3,6 +3,7 @@
 - [1.1.0](#bottlerim-et-ada-110---not-save-safe)
 - [1.1.1](#bottlerim-et-ada-111---save-safe)
 - [1.2.0](#bottlerim-et-ada-120---not-save-safe)
+- [1.3.0](#bottlerim-et-ada-130---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -273,3 +274,105 @@
 - Worldspace Transition Tweaks
 - WTT_Patch
 - Zaki Dirt and Blood Overlays for Racemenu -CBBE-SoS-
+
+## BottleRim Et' Ada 1.2.0 - Not Save Safe
+## BottleRim Et' Ada 1.3.0
+
+## Not Save Safe
+
+## Added Mods
+
+- (NEW) Thogra gra-Mugur - Orc Follower and Quest
+- Body Scars For Racemenu
+- Centinez WGX (Choose this or Dlizzios)
+- Chandeliers - Animated
+- CommunityShaders All in One Version Post Processing
+- CS ShaderCache
+- CS ShaderCache Post Processing
+- Cuyi's Bosmeri Antlers - Proper RaceMenu Integration
+- Cuyi's Bosmeri Antlers - SSE
+- Daedric Shrines AIO by Xtudo - Elianora (EBO-3X)
+- Dark Elf Lanterns - Animated
+- Dark Souls Undressed - NeverNude
+- Dlizzio’s Post Processing for CS (Choose this or Centinez)
+- DollFace HPH
+- Dynamic Tooltips
+- Dynamic Translation Framework
+- eeekie's Feris
+- eeekie's Khajiit Will Follow Replacer
+- eeekie's Thogra
+- Elianora's Breezehome Overhaul (EBO)
+- Falmer Huts Animated
+- Faultier's PBR Clutter medium res
+- Faultier's PBR High Hrothgar
+- Faultier's PBR Solitude 2k
+- Faultier's PBR Windows
+- Feris - Custom Voiced Rogue Follower
+- Follower Mechanics_separator
+- Hagraven Houses Animated
+- Heartwood's Hymn - SerketHetyt's Auri Overhaul
+- Imperial Tents Animated
+- Ivar - Skaal Custom Voiced Follower
+- Ivar Survival Mode Patch
+- JellyFishFP TORCH (1st person animations series)
+- King-Priest - Enhanced Dragon Priests
+- King-Priest - Simonrim
+- King-Priest - Wyrmstooth Patch
+- Lamenthia's Marks of Beauty
+- Large Nordic Tent Replacer for Skyland Animated
+- Lucien Replacer 2
+- Malryn - Custom Voiced Follower
+- Market Stalls Animated
+- No EnbGlow
+- Northborn Scars
+- Northborn Scars for High Poly Head
+- NPC Overhauls Base_separator
+- Obsidian CS - Night Tweaks and Fixes
+- Praedy's Staves AIO Patch Hub
+- Rally's Handcarts
+- Sassy SnW - Hair Colors Tweaked
+- Savage Wolves
+- Sharpened Teeth - Character Creation Addon
+- Solstheim without Miraak - Dragonborn DLC for Non-Dragonborn
+- Special Perks from Questing (SE)
+- Stranger - Malryn Visual Replacer
+- SwM - DLC2PillarBuilderActorScript Replacer
+- SwM - Pilgrim Patch
+- SwM - Timing is Everything Patch
+- Valerica DF Edition
+- Vanilla Wolf Texture Upscaled (Works For Fluffworks)
+- Vendor Carts Animated
+- Why I Came to Skyrim - Origin Stories
+- Willow of Riften - (Custom Voiced Bosmer Follower)
+- Willow of Riften - Another Replacer
+
+## Removed Mods
+
+- Bear's Cave Mill - Cut Content Restoration (Standalone)
+- DF - Creatures by Xtudo - Simply Better Wolves
+- Dragonborn Reskin - SkyUI Active Effects Icons
+- Dragonborn Reskin - SkyUI Inventory Category and Favorites Icons
+- Dragonborn Reskin - Wheeler
+- Draugr MCO - Replacement Plugin
+- Draugr MCO enabled
+- Draugr MCO Improved
+- Draugr MCO Improved - SimonRim
+- Draugrs - SE by Xtudo - Playable Draugr - MCO
+- Draw Fix - Move Equip Animation Fix
+- Dynamic Interior Ambient Lighting (DIAL)
+- Faithful Faces - Lucien
+- Favorites Menu Effects Description
+- Playable Draugr SSE
+- Simply Better Wolves
+- Snazzy Items for Auri (Song of the Green)
+- Spaghetti's Faction Halls - AIO
+- Spaghetti's Faction Halls AIO - No Bard's College Window Objects
+- Tomato's Solitude
+- Unused Sounds Restored
+- Yet Another Auri Replacer
+
+TL:DR, 
+
+- Bunch of fixes, bunch of new content, Five new followers, no more annoying MCO draugr and Dragon health is nerfed.
+
+- Community Shaders post processing (this is a test build of CS and is not supported and likely will have a handful of issues and be performance intensive)
