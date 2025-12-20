@@ -125,6 +125,15 @@ There are a few things you can and should do.
 <img src="Resources/Screenshot 2025-10-25 091049.png" alt="Screenshot" width="800">
 
 ---
+### Community Shaders Post Processing build
+This build is included as an optional visual enhancement. 
+To use this you must first:
+
+- Delete the SKSE folder generated in the overwrite of mo2 (if it exists)
+- Disable ALL mods in the current Community Shaders separator and ENABLE all mods in the separator for the version of CS you want to use
+- Enable only ONE of the post processing presets.
+These steps are crucial if you are using the test build for post processing, it will 100% not work properly if you ignore these steps.
+---
 
 ## Playing the Game
 - Launch Skyrim SE through Mod Organizer 2 (MO2) in the BottleRim folder.
