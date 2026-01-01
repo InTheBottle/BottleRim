@@ -404,7 +404,7 @@ TL:DR,
 
 ## BottleRim Et' Ada 1.4.1 - Save Safe
 
-## Safe Safe
+## Save Safe
 - Fixed followers only working on reload
 - Fixed mercenary fee dialogue
 - Cleaned up spell menu clutter
