@@ -4,6 +4,9 @@
 - [1.1.1](#bottlerim-et-ada-111---save-safe)
 - [1.2.0](#bottlerim-et-ada-120---not-save-safe)
 - [1.3.0](#bottlerim-et-ada-130---not-save-safe)
+- [1.4.0](#bottlerim-et-ada-140---not-save-safe)
+- [1.4.1](#bottlerim-et-ada-141---save-safe)
+- [1.4.2](#bottlerim-et-ada-142---save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -377,3 +380,33 @@ TL:DR,
 - Bunch of fixes, bunch of new content, Five new followers, no more annoying MCO draugr and Dragon health is nerfed.
 
 - Community Shaders post processing (this is a test build of CS and is not supported and likely will have a handful of issues and be performance intensive)
+
+## BottleRim Et' Ada 1.4.0 - Not Save Safe
+
+## Not Save Safe
+## Summary
+- For honor in skyrim, using the lorerim patch fits the list pretty well and the for honor movesets will be one of four stances you can use in third person combat
+- Swapped mundus for curse of the firmament, standing stones have a cost now instead of a flat buff. 
+- Gods and Worship was swapped in place of Pilgrim, Pilgrim i respect the simplicity, but I want Stendar to ruin my life if he catches me raising the dead
+- Sacrosanct in place of Scion, Enai beast mods are just more fun
+- Growl in place of manbeast, see above reasoning
+- New textures for farmhouses, nordic ruins and more
+- More mesh fixes, better ordered list
+- More bug fixes I was missing on Nexus
+- Of course more patching
+- Adamant addons, I'll let you guys check those out in game they're pretty cool
+- Some new Kittytail magic
+- All of kittytails FX improvements
+- Nexus CS should look a little better (black magic)
+- Swapped true light, WSU ALTM and XEMI util for Lux.cs. Looks better imo and as annoying as all the extra ESPs are, generally it works better too.
+- Another small one but cool, vanilla music will now play in addition to the replacer. (it was supposed to before i just didn't read the requirements)
+- A few new quests
+
+## BottleRim Et' Ada 1.4.1 - Save Safe
+
+## Safe Safe
+- Fixed followers only working on reload
+- Fixed mercenary fee dialogue
+- Cleaned up spell menu clutter
+- Fixed stances finally
+With "fixing" stances, comes a handful of new NPC combat anims
