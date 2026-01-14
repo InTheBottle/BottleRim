@@ -7,6 +7,7 @@
 - [1.4.0](#bottlerim-et-ada-140---not-save-safe)
 - [1.4.1](#bottlerim-et-ada-141---save-safe)
 - [1.4.2](#bottlerim-et-ada-142---save-safe)
+- [1.5.0](#bottlerim-et-ada-150---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -410,3 +411,25 @@ TL:DR,
 - Cleaned up spell menu clutter
 - Fixed stances finally
 With "fixing" stances, comes a handful of new NPC combat anims
+
+## BottleRim Et' Ada 1.5.0 - Not Save Safe
+- As far as I can tell, the shadow scene node crashes are gone, I've been playing in problem areas and have had no issues as there were in prior versions
+- Major mesh cleanup to resolve errors and CTDs
+- XPMSSE redo, no more CBPC (I didn't know IED handled weapon physics :sobbign: )
+- NORTHERN ROADS. I painted and fixed as much as i could find landscape texture seam wise. Please spam report them when you find them. They are easy to fix and I can do it in a save safe way.
+- Nordic Dungeons look way cooler
+- Timed block, this can be made to be more difficult or easier depending on what you want. It negates damage when done properly. Combat was hard enough, this makes it flow a bit better and actually gives you a tiny chance in the early levels.
+- Dawnguard Arsenal, Reforging to the Masses, and Lore weapon expansion have been added and integrated into the leveled lists using skypatcher.
+- More clothing variants for NPCs
+- More armor for NPCs
+- Properly distributed CC Alternate Armors
+- Touched up the leveled list patch for the list
+- Riften has been completely overhauled, its sick go look.
+- EFPs has been added, I ran around everywhere at mach speed testing this and did not find any occlusion issues, if you do just report and i can fix pretty easily.
+- Grass cache (finally) grass distance has been extended to a more reasonable and better looking setting.
+- Fixed all issues reported in #🔧bottlerim-support if I missed one that you notice please just ping me I don't mind.
+- Val Serano has been added
+- Alternate armors CC quests have been changed to be more immersive and just make more sense.
+- Eyes are way cooler and more in depth, tons of customization options take your time in Racemenu and check them out.
+- New camping system
+- Alternate death mod
