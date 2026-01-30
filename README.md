@@ -7,7 +7,7 @@ A total survival SimonRim focused gameplay overhaul using Community Shaders.
 
 ---
 
-**Support**: Join the [BottleRim Discord](https://discord.gg/bungalo)
+**Support**: Join the [BottleRim Discord](https://discord.gg/WF66mMu)
 
 **Requirements**:
 - Skyrim version 1.6.1170 (latest Steam update).
