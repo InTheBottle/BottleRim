@@ -442,7 +442,7 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - MCO fixes, should be much smoother
 - New combat VFX
 - Actual Widescreen support thanks to Nim
-- Redon PC key bindings and Hotkeyreminder
+- Redone PC key bindings and Hotkeyreminder
 - Better script fixes
 - Completely new stances
 - Swapped to Stances NG
