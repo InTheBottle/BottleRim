@@ -8,6 +8,7 @@
 - [1.4.1](#bottlerim-et-ada-141---save-safe)
 - [1.4.2](#bottlerim-et-ada-142---save-safe)
 - [1.5.0](#bottlerim-et-ada-150---not-save-safe)
+- [1.6.0](#bottlerim-et-ada-160---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -433,3 +434,37 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Eyes are way cooler and more in depth, tons of customization options take your time in Racemenu and check them out.
 - New camping system
 - Alternate death mod
+
+## BottleRim Et' Ada 1.6.0 - Not Save Safe
+- Removed Capital Whiterun (performed terribly and wasn't that interesting)
+- Fixed tons of reported issues
+- More difficult to get gold from bandits, fixed leveled lists
+- MCO fixes, should be much smoother
+- New combat VFX
+- Actual Widescreen support thanks to Nim
+- Redon PC key bindings and Hotkeyreminder
+- Better script fixes
+- Completely new stances
+- Swapped to Stances NG
+- Swapped death alternative mods, now using aljos stages of suffering
+- Nirns chosen added over Aetherius
+- Biggie Traits removed in favor of basic classes from Nirns Chosen
+- New Fort textures
+- New Farmhouse textures
+- PBR Sanguine Symphony blood
+- New fence meshes and textures
+- Removed Lorkhan, new music added that fits better with the game.
+- Trade and Barter added and patched in
+- New Adamant skill addons
+- Faction ranks will be displayed in game
+- Tons of new craftable\obtainable armor
+- Removed Dragon cult for The restless dead feels more balanced (easier)
+- Swapped out standing stones overhaul for Stones of Sacrifice
+- Northern roads fixes
+- Encounter zones handled by OWL instead of arena
+- Combat style fixes for NPCs
+- NPCs will now learn spells, mod added spells included
+- Swapped to RAID CS weathers
+- Updated Community Shaders
+- Added Horsepower (better horse movement and control)
+- Tons of conflict resolution for minor things.
