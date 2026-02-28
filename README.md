@@ -43,15 +43,15 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
 ## System Requirements
 - **OS**: Windows 10 or 11 (no LTSC or modified versions; Linux not supported).
 - **Storage**: SSD required.
-- **Download Size**: ~127 GB.
-- **Install Size**: ~212 GB.
+- **Download Size**: ~106 GB.
+- **Install Size**: ~207 GB.
 
 | Component | Recommended (1080p) | My Specs (1440p) |
-|-----------|---------------------|------------------|
+|-----------|----------------------|-----------------|
 | CPU       | i5 13600k or similar | i5 13600K       |
-| GPU       | RTX 3060 or similar | RTX 4070        |
-| RAM       | 16GB or more        | 32GB            |
-| Storage   | SATA SSD            | NVMe SSD        |
+| GPU       | RTX 3060 or similar  | RTX 4070        |
+| RAM       | 16GB or more         | 32GB            |
+| Storage   | SATA SSD             | NVMe SSD        |
 
 ---
 
