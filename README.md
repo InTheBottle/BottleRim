@@ -32,8 +32,7 @@ A total survival SimonRim focused gameplay overhaul using Community Shaders.
 ## Introduction
 **BottleRim** is a total gameplay overhaul modlist for Skyrim AE (1.6.1170), built around [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). Based on [Althros Dev Tools](https://github.com/Styyx1/ADT).
 
-This list uses a heavily modified SimonRim base, using highly improved vanilla like combat. The result is a super satisfying and immersive combat experience. Leveling has been modified to generally be a bit tougher as well and survival is a key part
-of the list.
+This list uses a SimonRim base, using highly improved vanilla like combat. The result is a super satisfying and immersive combat experience. Leveling has been modified to generally be a bit tougher as well and survival is a key part of the list. This is intended to be a true vanilla ++ experience.
 
 View the full mod list [here](https://loadorderlibrary.com/lists/bottlerim-2).
 
