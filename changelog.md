@@ -9,6 +9,7 @@
 - [1.4.2](#bottlerim-et-ada-142---save-safe)
 - [1.5.0](#bottlerim-et-ada-150---not-save-safe)
 - [1.6.0](#bottlerim-et-ada-160---not-save-safe)
+- [1.7.0](#bottlerim-et-ada-170---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -468,3 +469,712 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Updated Community Shaders
 - Added Horsepower (better horse movement and control)
 - Tons of conflict resolution for minor things.
+
+## BottleRim Et' Ada 1.7.0 - Not Save Safe
+### Summary
+- **Added:** 292 mods
+- **Removed:** 436 mods
+
+## Added Mods
+
+- 0 Lore-Friendly Load Screen Compendium (16-9) (2K)
+- 1 - Mysticism Beta
+- 2 - Adamant Beta
+- 3 - Hand to Hand Beta
+- 4 - Blade and Blunt Beta
+- 5 - Adamant Patch Beta
+- Actor Value Generator
+- Additional DynDOLOD Resources
+- Addon - Survival Mode Spells
+- Adoption Spouse and Moving Fixes
+- AE Flame Atronachs give Warmth
+- Aela Doesn't Approach If You Don't Help - The Companions Giant Fight Scene Tweak
+- Ancient Ebony Nordic Temple - PBR
+- Arena - An Encounter Zone Overhaul
+- Argentum - Adamant Patch
+- Argentum - Rare Curios Add-On 02
+- Argentum - True Weakness To Silver
+- Azurite Weathers and Seasons
+- Azurite Weathers III - Enhanced
+- Balance Tweaks for Open World Loot
+- Bard Fix Extended Edition
+- Barlow Condensed - Font Replacer
+- Battle Horn Level Up Screen Sound
+- Beards for High Poly Head
+- BIRDS - Dyndolod LOD Rules
+- BIRDS - FYX and City Entrances Overhaul Patch
+- Bleeding Edge - Audio Overhaul Daggers Skypatched
+- Bleeding Edge - Bladed Weapons SFX Overhaul
+- Block Cancel Fix
+- Bone Wolf Shutdown Fix
+- Bottlerim Logo
+- Butterflies Land True
+- Butterflies Land True - CC HStead Patch
+- Butterflies Land True - CC Myrwatch Patch
+- Buy Camping Supplies From General Stores
+- Campfire Animations
+- Campfire Animations - Camping CC
+- Camping Plus Plus - A CC Camping Overhaul
+- Cancel Attack SKSE
+- Cancel Attack SKSE - Balanced Settings
+- CC Camping - Embers XD patch - Campfire Animations
+- CC Spell Knight Armor - SPID
+- Character Menu SE
+- Cities of the North - Winterhold
+- Cities of the North - Winterhold Patch Collection
+- Cloud Shadows - Community Shaders
+- Community Shaders - FWMF Map Brightness Fix
+- Compare Equipment NG
+- Crackling Fire
+- CritterSpawn Call Reduction - CritterFish
+- Custom Skill Menu
+- Daedric Shrines - All in One - 2K
+- Deadeye - Bow and Crossbow SFX
+- Diverse Farm Fences - Base Object Swapper
+- Diverse Farm Fences - PBR
+- Diverse Magic Casting Animations
+- DLC2BlackBookCount Fix
+- Dragonborn Reskin - Biggie Traits
+- Dragonborn Reskin - Casting Bar
+- Dragonborn Reskin - Compare Equipment NG
+- Dragonborn Reskin - Dialogue Menu
+- Dragonborn Reskin - Experience (21x9)
+- Dragonborn Reskin - Experience - Static Skill Leveling - FTweaks Skill Menu
+- Dragonborn Reskin - Follower Stats
+- Dragonborn Reskin - Know Your Enemy 2 Lite Patch 2
+- Dragonborn Reskin - Legendary Map
+- Dragonborn Reskin - Loading Menu Overhaul
+- Dragonborn Reskin - Loading Menu Overhaul (21x9)
+- Dragonborn Reskin - Lorebox Item and Spell Tooltips
+- Dragonborn Reskin - Modern Wait Menu
+- Dragonborn Reskin - Oxygen Meter 2
+- Dragonborn Reskin - Racemenu DIP Patch
+- Dragonborn Reskin - SkyUI Inventory Category and Favorites Icons
+- Dragonborn Reskin - Swiftly Order Squad
+- Dragonborn Reskin - The Dragonborn's Bestiary's Icon Overhaul
+- Dragonborn Reskin - TrueHUD
+- Dragonborn Reskin - Tween (Tab) Menu
+- Dragonborn Reskin - UIExtensions
+- Dragonborn Reskin - Wheeler
+- Dragonborn UI - SkyUI Reskin
+- Dragonborn UI 21x9
+- Draugrs - PBR
+- Draugrs - SE by Xtudo - Gravewind - 2K
+- Draw Fix - Move Equip Animation Fix
+- Dual Wield Behavior Fixes
+- Dual Wield Behaviour Fixes - Patches for Perk Mods
+- dunPOISoldiersRaidOnStart Script Tweak
+- Dynamic Bloodpool Framework
+- Dynamic Interface Patcher
+- Edmond's Nature Series - BIRDS
+- eFPS - for Cities of the North
+- Elite Wolf Armor
+- Elite Wolf Armor PBR
+- Encounter Zone Informer
+- Encounter Zones Unlocked SE
+- Enhanced Combat AI
+- Exit Sneak On Sprint
+- Extended UI
+- Extended UI - Settings Loader
+- Faction Ranks
+- Faultier's PBR Armors and Clothes WIP
+- Faultier's PBR Landscapes - Dawnguard only 2k
+- Faultier's PBR Landscapes - Dragonborn only 2k
+- Female Hands Redone
+- Feral - Claw Unarmed Attacks for Beast Races - Vampires - Werewolves
+- First Person FOV SKSE
+- First Person Height Fix SKSE
+- Freed Prisoner Uses Items
+- Freehand Armor - Main
+- Freehand Armour PBR
+- FrostDays - Smoothcam Preset
+- FYX - Windhelm Graveyard Patch
+- GCBugFix
+- Ghosts of the Tribunal PBR
+- GORECAP
+- Grass Collision - Community Shaders
+- Grass Lighting - Community Shaders
+- HDT-SMP Spell Knight Armor Patch and Variants
+- HDT-SMP Ysmir Armor Patch
+- Hearthfires Houses Building Fix
+- Heat Sources SkyPatched
+- High Poly Vanilla Body
+- Horse Save Load Fix
+- HorsePower - Modernized Horse Riding (Total Riding Overhaul)
+- Horsepower - Saturalia Reindeer Ragdoll Patch
+- Ice skating fixed for real - No more attack sliding movement (NEMESIS compatible)
+- Icy Mesh Remaster - IcyFixes
+- Icy Mesh Remaster - Meshes
+- Igniting Animation for Campfire
+- Imperial Forts Remake PBR
+- iWant Status Bars
+- iWant Widgets
+- iWant Widgets for Starfrost
+- IWant Widgets NG
+- JContainers
+- Kellan HDT-SMP Armor
+- KG Animations - One-handers and Dual Wield
+- KG Animations - Two-handers
+- Kill Miraak Spell Fix - Fix for Unlootable and Unkillable Miraak
+- Knockback SKSE
+- kryptopyr's Patch Hub
+- Kvetchi Set - SE by Xtudo - Fixes
+- Leviathan Animations II - Greatsword Sneak Locomotion And Attacks
+- Lexicon SKSE
+- Lifesworn Vestiges - SMP patch
+- Lifesworn Vestiges -- Champion of Arkay armor (optional SMP)
+- Lore-Friendly Load Screen Compendium (21-9) (2K)
+- Lost Grimoire - No More Radioactive Glow (Mostly) (Patch)
+- Lost Passages X Arena - An Encounter Zone Overhaul
+- Mage Clothing Expansion
+- main menu clean simple black (Remove smoke and emblem)
+- Merethic Grasslands - A Vanilla-purist Grass Overhaul
+- Miraakle - A Miraak Replacer
+- Missing Voices in Hearthfire Added Back
+- Modified Settings
+- More Scarves
+- Mostly Treeless Tundra
+- Mostly Treeless Tundra - Patches Collection
+- MQ104PlayerScript Fix
+- Mundus - A Standing Stone Overhaul
+- New Animation for Magic Casting (OAR version)
+- NGIO - NG (1.5.11)
+- Nirn Necessities - Generic Distribution Add-on
+- No Load Door NPC Fade
+- No Opposite Gender Animations NG
+- Non-Horse Mount Animation Fix
+- Northvale - Landscape Texture Replacer
+- NotWL LOD fix
+- NOTWL Nordic Cut Mostly Treeless Tundra Patch
+- NPC Stuck in Bleedout fix
+- NPCs Learn Skills and Spells
+- Olivier Magic Casting
+- Open Animation Replacer - Math Plugin
+- Paradigm - A Quick Start Overhaul
+- Paradigm - A Quick Start Overhaul Extended
+- Paradigm - Extended - Spells as Tomes
+- Patch - Better Quest Objectives
+- Patch - King Priest
+- Patch - Lux
+- Patch - Reforging - To the Masses
+- PC Binds
+- Pickpocket Reset
+- Player Panting Loop Fix
+- Praedy's Staves AIO - PBR
+- Pretty Good Main Menu
+- Producers of Skyrim - Farmers Miners Fishermen Are Vendors
+- Quest Journal Limit Bug Fixer - Recover Disappeared Quests
+- Realistic High Altitude Treeline
+- Rebalancing Anniversary Edition - Quest Requirements
+- Reverie - Skin
+- Riding Animation Overhaul - RAO (OAR - DAR)
+- Riposte - Parry SFX
+- Rob's Bug Fixes - COTN Winterhold
+- Rock Traps Trigger Fixes
+- Rogue - Feris Visual Replacer
+- Sanguine Symphony - PBR
+- Sawmill Activation Fix
+- Screen Space Global Illumination (SSGI) - Community Shaders
+- Screen Space Shadows - Community Shaders
+- SD's Farmhouse Fences SE
+- Seismic Tide - Skullbreaker Fists Addon
+- Seperate INI config
+- Seranade - A(nother) Serana Replacer
+- Seriously Improved Sparks
+- ShowRaceMenu - NG
+- Simple TKDodge Sidestep
+- Simplicity of Sea - Water Color and Transparency Tweaks
+- Simplicity of Splatter - High-Res Blood Textures
+- Skullbreaker - Blunt Weapons SFX
+- Skygazer Moons SSE - Masser and Secunda HD Textures - WITH GLOW
+- Skylighting - Community Shaders
+- Skyrim Mounted Movesets
+- Skyrim on Skooma
+- Skyrim Priority SE AE - CPU Performance FPS Optimizer
+- Skyrim SE Skill Interface Re-Texture (SSIRT) - Hand to Hand Patch
+- SkySight Skins 2025 - Ultra HD 4K 2K Male Textures - Vanilla SoS SAM HIMBO TNG
+- SkyTactics - Dynamic Combat Styles
+- Smart NPC Potions - Enemies Use Potions and Poisons - Settings Loader
+- Smart Optimal Salves - Optimal Potion Hotkey MCM - Settings Loader
+- Smooth Magic Casting Animation
+- Smooth Random Magic idle Animation
+- Smooth Staff Animation
+- Softly Obscuring Snowfall - No Dirty Ruins Snow
+- Spell Knight Armor Variants
+- SPID Elite Wolf Armor and Wolf Armor Replacer
+- Spider Webs and Particles for ENB
+- Sprint Attack and Perk Fixes for ATKSPD mods
+- Sprint Draw And Sheath Fixes
+- Stamina of Steeds
+- Starfrost
+- Static Mesh Improvement Mod - SMIM PBR
+- Stay At The System Page NG
+- STB No save and load in combat
+- Steal off Scoundrels - Pickpocketing Criminals is Not Stealing
+- Steel Plate Armors
+- Steel Plate Armors PBR - 2K
+- Stormcloaks Fight With Thalmor
+- Stuck on Screen Load Door Prompt Fix
+- Subsurface Scattering - Community Shaders
+- Sunder and Wraithguard PBR
+- Tempered Skins for Males - Vanilla and SOS versions
+- The Cursed Tribe - Quest Expansion
+- The Restless Dead (A Draugr and Skeleton Overhaul)
+- The Restless Dead - C.O.I.N Consistency Patch
+- The Restless Dead - Mandragorasprouts' Draugrs
+- The Restless Dead Update 1.2.6.1
+- Tiny Light Placer Hub (CS Lights)
+- TK Dodge NG
+- Tomato's PBR Farmhouses
+- Tonal Arsenal - Miscellaneous Weapon Sounds Skypatched
+- Trade and Barter
+- Trade and Barter - Settings Loader
+- TrapSwingingWall Script Fix
+- Traveling Mage - PBR
+- Traveling Mage HDT-SMP Armor
+- True Directional Movement Mounted Archery Fix
+- TRUE FACES - A Character Enhancement Project
+- TrueSight - Smoothcam Preset
+- Unofficial Skyrim Modder's Patch - USMP SE
+- Vanaheimr - Farmhouses - Complex Material - PBR
+- Vanaheimr - Mines and Caves - PBR - 4k
+- Vanargand Animations - Dual Wield Sneak Strikes
+- Vanargand Animations - Dual Wield Sneak Thrusts
+- Vanargand Animations - Sneak Strike Attacks
+- Vanargand Animations - Sneak Thrust Attacks
+- Voiced Hearthfires Stewards - Khajiit and Argonian
+- Volkiharbor - Harkon and Valerica Replacer
+- Water Mod
+- Weapon switch animation Fix
+- Wetness Effects - Community Shaders
+- Whiterun 3D stone walls
+- Whiterun Buildings - Light Leak Mesh Fix
+- Windhelm Is Snowy - Base Object Swapper
+- Word Wall Suspended Stack Fix - Shearpoint
+- World Encounter Hostility Fix
+- World Encounter Noble Riding Horse Fix - WERoad02
+- XPMSSE Spazzing Skeleton and Corpse Fix
+- Ysmir Armor SE
+- YY Animation Replacer - Mystic Knight (OAR version)
+
+## Removed Mods
+
+- 01) HIMBO V5 - Core
+- 02a) HIMBO V5 - BG-DG-DB Refits
+- 02b) HIMBO V5 - CC Refits
+- 3BA Pelts 'o' Plenty
+- 3BA RFBBBT
+- a New Legion helmets fix
+- Adamant - No Sprinting Power Attacks
+- Adamant Tweaks for ADXP and VR
+- Add Armor from GAR to leveledlists - Subhuman
+- Adventurers Mask (With Helmet Toggle 2 support)
+- Adventurers Tunic - 3BA Conversion
+- Adventurers Tunic - Vanilla HIMBO CBBE -
+- ADXP I MCO Blocking Footstep Fix
+- ADXP l MCO Desert Race Animation Complete Pack
+- ADXP l MCO Imperium Animation Complete Pack
+- ADXP l MCO Nordic Animation Complete Pack
+- ADXP MCO Attack Data Transition Fix (ADTF)
+- Aela DF Edit Skypatched
+- Aela Doesn't Approach If You Don't Help - Giant Fight Scene Tweak
+- All Books and Notes Descriptions
+- All Keys Descriptions
+- Almost Vanilla - A HIMBO Bodyslide Preset
+- Alternate Perspective - Alternate Start
+- Alternate Perspective - TrueHUD Compatibility Fix
+- Alternate Perspective - Voiced Addon
+- Animated armoury Grip position fix
+- Arena SkyPatched
+- Artifacts of Old - an Adamant Addon
+- Ascension 2
+- Auri
+- Auri - Meridia Order Patch
+- Automatic Animations - Including Icon Identification
+- Automatic Bound Spells
+- Bard Perks Addon Tweaks
+- BBQ Community Shader Preset for Obsidian CS
+- Better Follower Equip Control
+- Better Windhelm Ground Meshes - My fixes
+- Better Windhelm Ground Meshes - With Parallax Support
+- Better Windhelm Ground Meshes Floating Fix - BOS
+- BFCO - MCO - Diverse NPC Movesets
+- BFCO-MCO Pickaxe moveset
+- Biggie Traits
+- Biggie Traits - Autopop
+- Biggie Traits - Refitted
+- Biggie Traits - Thumbnail Overhaul
+- Blended Roads
+- Blended Roads less bumpiness - Base Object Swapper
+- BnP - Male Skin
+- BnP female DVA patch
+- BnP female skin (Replacer+Player version)
+- BnP female small update
+- BnP male DVA patch
+- BottleRim - BodySlide
+- BottleRim - Synth
+- Bow Rapid Combo V3 - Archer Combat Overhaul
+- Brelyna DF Edit Skypatched
+- Caliente's Beautiful Bodies Enhancer -CBBE-
+- Capital Whiterun - JK's The Bannered Mare Patch
+- Capital Whiterun Expansion
+- Capital Whiterun Expansion - 3D Whiterun Trellis Patch
+- Capital Whiterun Expansion Lite
+- CBBE 3BA
+- CBBE 3BA Vanilla Outfits Redone
+- CC Camping supplies - IED horse preset
+- CC Crosbows Trait Fixes
+- CC's Camping Expansion - Settings Loader
+- CC's Camping Modular Expansion (Experimental Build)
+- Chapter II - Jeremy Soule Inspired Music
+- Children of the North Wind - Ruins of the Ancient Nords
+- Children of the North Wind Patch Collection 6.8.1
+- Chocolate Poise
+- Chocolate Poise Plus - Addons and Rebalancing
+- CME - Constructible Obj. Custom Keyword System
+- CME - Integration Inv. Interface Info. Injector
+- CoDB - CBBE Textures - 4k-2k
+- CoMAP - Colored Markers 4.3.0
+- Combat Animation Overhaul - Draugr
+- Combat Collision Dialogue Fix
+- Compass Navigation Overhaul
+- Compatibility patch for EVG Conditional Idles
+- Constellations - Additional Player Skills
+- Constellations - Simple TK Dodge Integration
+- Constellations for Simonrim
+- COTNW 6.9.1
+- Creation Club Item Descriptions
+- CS ShaderCache Post Processing
+- Curse of the Firmament
+- Daedric Shrines - All in One
+- Dark Souls Undressed - NeverNude
+- Deadly Dragon Lair Locations - FuzzBeed's Dragon Lairs AIO
+- Deadly Dragon Lairs - Defeat the Dragon Cult patch
+- Deadly Dragon Lairs - eFPS patch
+- Deadly Dragon Lairs - Patch Collection
+- Description Framework
+- Description Framework for Headhunter
+- Descriptions for Various Mods
+- DF - Creatures - The Dragon Cult Draugr
+- Disappearing Dialogue Window FIX for Oblivion Camera SE
+- Diseases Have Description
+- Dishonored Dead - An Yngvild Overhaul
+- Distar Creatures
+- Diverse high-quality PBR shrubs
+- Draugr
+- Draugrs - SE by Xtudo - The Dragon Cult - 4K
+- DVA - Dynamic Vampire Appearance
+- Dwemer Armor SE - CBBE 3BA
+- Dynamic Block Hit
+- Dynamic Block Hit - Sound fix
+- Dynamic Bow Animation
+- Dynamic Dodge Animation
+- Dynamic Dodge Animation - Condition Edit OAR
+- Dynamic Dodge Shot Low Level and Heavy Armor Animations
+- Dynamic Impact - Slash Effects X
+- Dynamic Interface Patcher - DIP
+- eeekie's Feris
+- eeekie's Gore Renewed
+- eeekie's Khajiit Will Follow Replacer
+- eeekie's Val Serano
+- eFPS - Official Patch Hub
+- Elden Ring Step Dodge
+- Elemental Dragons
+- Engaging Combat - Keep Combat Dynamic at Higher Levels
+- Eola DF Edit Skypatched
+- ESLifier Compactor Output
+- Extended Translucency - Community Shaders
+- Extra Skeleton Nodes - CBPC
+- Face Masks of Skyrim HD ReTexture - for Wet And Cold
+- Faithful Faces - Capital Whiterun Expansion
+- Faithful Faces - INIGO
+- Ferrum Nibenis SPID
+- FileAccess Interface for Skyrim SE Scripts - FISSES
+- Fires Hurt - OIF
+- FISSES patch for Skyrim AE 1.6.1130 (or later)
+- Flinching - Script Free Edition
+- Flinching Glitch Workaround
+- Follower Death and Injury Chance - Followers Can Die
+- For Honor in Skyrim
+- For Honor in Skyrim - Balance and Integration Patch for LoreRim
+- FP Inertia - SKSE
+- Frankly HD - PBR Remaster
+- Freak's Floral Meadows
+- Freak's Floral Meadows - Patch NGIO
+- Freak's Floral Solstheim - A Cathedral Grass Overhaul
+- Freak's Floral Veil - A Cathedral Grass Overhaul
+- FuzzBeed's Creepy Caverns - Cave Locations Overhaul
+- FuzzBeed's Fabulous Resource Repository
+- FuzzBeed's Giant Camps AIO - Patch Collection
+- GAR Realistic 3BA
+- Gladiator SmoothCam Preset
+- God of War Kratos Dodge Animations for TK Dodge - DMCO - TUDM
+- Gore
+- Gore - Apothecary and Gourmet Patch
+- GORE - Fishing (CC) Patch
+- Gore - Paarthurnax Quest Expansion Patch
+- Gore - Sassy Salt and Wind Retexture
+- Gorgeous Giant Camps Compilation - FuzzBeed's Giant Camps AIO
+- Grass Collision
+- Grass Lighting
+- Grey Wizard - an Adamant Addon
+- Guards Armor Replacer PBR
+- Guards Armor Replacer SSE
+- Hammet's Dungeon Pack 1 SE
+- HD Eyes
+- HDT-SMP Add-on (WIP)
+- HDT-SMP Fluted Armor Patch for CBBE 3BA
+- HDT-SMP for Cloaks and Capes
+- HDT-SMP for Cloaks and Capes PBR
+- HDT-SMP Slot 32 Fix
+- HDT-SMP Vanilla - CBBE 3BA Conversions
+- HDT-SMP Vanilla - HIMBO Conversions
+- Heartwood's Hymn - SerketHetyt's Auri Overhaul
+- Heretical Haemar's Shame - FuzzBeed's Daedra Dens
+- Heretical Haemars Shame - Patch Collection
+- Horse Animation Overhaul (WIP - OAR)
+- Hot Key Skill
+- IBL - Community Shaders
+- Icy Cave Remaster
+- Icy Cave Remaster - Ice Material Patch
+- Icy Mesh Remaster - Ice Glaciers - LOD - other fixes
+- icy Mesh Remaster - Meshes
+- Immersive Death Cycle
+- Immersive Equipping Animations
+- Infinity UI
+- INIGO
+- Inigo - Bloodchill Manor patch
+- Inigo - BloodChill Manor Patch - Cave Entrance Navmesh Fix
+- INIGO - Map Marker to Miscellaneous Quests
+- INIGO 2.4C UPDATE ESP FILE
+- Inigo Anims
+- Inigo Banter patch - sfts fix
+- Inigo Banter Patch ESLified
+- Inigo Grammar Fixes
+- Inverse Square Lighting
+- JContainers SE
+- Jenassa DF Edit Skypatched
+- JK's Sleeping Giant Inn
+- Jordis DF Edit Skypatched
+- Just Knock - Dynamic Activation Key Patch for Knocking Mods
+- Just Knock - Mysticism Patch
+- Khajiit Will Follow - Custom Voiced Khajiit Follower Mod
+- Knotwork
+- LORKHAN - Soundtrack Replacer
+- Lucien - Anniversary Edition - All-In-One Creation Club Patch
+- Lucien - Immersive Fully Voiced Male Follower
+- Lucien Anims
+- Lucien Dwemer Ruin Redux
+- Lucien Replacer 2
+- Lulu's Xelzaz - Xelzaz Visual replacer
+- Lydia DF Edit Skypatched
+- MaxsuBlockOverhaul
+- MCM for Blade And Blunt
+- MCO - First Person Patch
+- MCO Attack MCO Maxsu Edition
+- MCO Block Recovery
+- Meditation Stone - Stormcrown Overhaul
+- Merchant - A Trading Expansion
+- Merchant - No Craft Addon
+- Meridia's Order - Patch Collection
+- Misc. Blended Road Fixes
+- Modern Combat AI
+- More Scarves - CBBE 3BA HIMBO BHUNP Vanilla - HDT-SMP Physics
+- MQ104PlayerScript Fix - VSmO Edition
+- Mystical Materials
+- New Armory Series - Lunar Steel Weapons -- A Silent Moons Camp Overhaul
+- New Legion
+- New Legion - Black Straps Fix
+- New Legion - CBBE 3BA
+- New Legion and Guard Armor Replacer Back shields fix
+- Niko's Grammar Patch for Biggie Traits - Refitted
+- No Grass In Objects
+- NoGrassias Lite
+- Norden Racemenu DIP
+- Norden UI
+- Norden UI Top Preset
+- NordwarUA's Legion - Complex Material and PBR
+- NordWarUA's Race Armor Expansion
+- NordWarUA's Race Armor Expansion - HIMBO Refit
+- NordWarUA's Race Armor Expansion - Plugin Replacer
+- Northern Scenery - Addons Patches and Fixes
+- NPC Parry Style Stagger animations(OAR)
+- Object Impact Framework (OIF)
+- Obsidian CS
+- Obsidian CS - Night Tweaks and Fixes
+- Obsidian Weathers and Seasons
+- OnHit Animations Framework - NG
+- OnHit Animations Framework - SSE
+- Open World Loot - Lunar Armory Patch
+- Patch - Immersive Start
+- Patch - The Forgotten City
+- Patch for Capital Whiterun Expansion and Spaghetti's Cities AIO
+- PBR Texture Addon
+- PBR Vigilant Armors
+- Pelt Cloaks for Wet and Cold
+- Pelts 'o' Plenty - Fur Pelt Cloaks
+- Pod Music Replacer
+- Praedy's Castle Volkihar - PBR
+- Praedy's Castle Volkihar - SE
+- Praedy's Chantry of Auriel - PBR
+- Praedy's Chantry of Auriel - SE
+- Praedy's Soul Cairn - PBR
+- Praedy's Soul Cairn - SE
+- Pride of Cuhlecain - A Weynon Stones Overhaul
+- Quest - Baba Yaga and the Labyrinth
+- QUI
+- QUI - Unofficial Update
+- R.A.S.S. Rain Ash And Snow Shaders - Wet Frost Cold Dust
+- R.A.S.S. Rain Ash And Snow Shaders - Wet Frost Cold Dust - Settings Loader
+- Race Armor Expansion PBR and Complex Material
+- Racial Body Morphs Redux (FKDRS) Aetherius Patches
+- Read It Now
+- Realistic Armor PBR
+- Reclusive Reachcliff Cave - FuzzBeed's Daedra Dens
+- Regular Remiel
+- Remiel-Custom Voiced Dwemer Specialist and Companion
+- Respawn - Soulslike Edition
+- Respawn - Soulslike Edition - Settings Loader
+- Resplendent Royals - Jarl's Court NPC Overhaul
+- Riton's PBR Farmhouses 2k
+- Rob's Bug Fixes - Capital Whiterun Expansion
+- RS Children - Gore - A Companion Mod
+- RS Children Overhaul PATCH
+- Rustic - UI Sounds
+- Sanguine Symphony - Slash Effects X compatibility patch
+- Sapphire DF Edit
+- Save our Souls - Death Alternative
+- SCAR
+- SCAR Stamina Limitation Patch
+- Screen Space Global Illumination (SSGI)
+- Screen Space Shadows
+- Script Optimization and Fixes Compilation
+- Scriptless Stagger Limit - Prevent Staggerlock
+- Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
+- Scrolls Have Descriptions
+- Seasonal Weathers Framework - Obsidian Weathers
+- Seasonal Weathers Framework - Seasons support for Weathers Mods
+- Serana DF Edit
+- Shields Affect Casting
+- SIGMA - Battleaxe animations - 1st person
+- SIGMA - Greatsword animations - 1st person
+- SIGMA - Mace animations - 1st person
+- SIGMA - Shield animations - 1st person
+- SIGMA - Sword animations - 1st person
+- SIGMA - Waraxe animations - 1st person
+- SIGMA - Warhammer animations - 1st person
+- Sigma For Animated Armoury
+- Silentroll Distribute For Ultimate NPC Dodging - Skypatcher SPID
+- Simple Attack Cancel
+- Simple Follower Sandbox
+- Simple Offence Suppression
+- Simple Offence Suppression - Block Friendly Fire Combat Only
+- Simple Offence Suppression MCM - Arcane Accessories Unbounded Storms - Fix
+- Simple Offence Suppression MCM - Block Friendly Fire
+- Simple Timed Block
+- Simple Timed Block - Addon
+- Simple TKDodge Sidestep OAR conversion
+- Simply Knock SE
+- Simply Knock SKSE64 DLL
+- Skyland Forts PBR
+- Skylighting
+- Skyrim Revoiced
+- Skyrim Revoiced Patches
+- SkyVRaan - Shimmering VR Waters
+- Smart Optimal Salves - A Patch for All Potions
+- Smooth Bow Animation - sniper stance
+- Smooth Moveset - OAR
+- Smooth Moveset - OAR (CPR)
+- Smooth Moveset - PLAYER ONLY
+- Smooth TK Dodge attack OAR Conversion
+- SmoothCam - Practical and Subtle Camera Preset
+- Softly Obscuring Snowfall
+- Song of the Green (Auri Follower)
+- Song of the Green (Auri Follower) - Enhanced Voice Remastered
+- Song of the Green - Auri's Combat Style Enhancement
+- Sons of Skyrim
+- Sons of Skyrim - 3BA
+- Sons Of Skyrim - Fur Collar Bodyslot Edit
+- Sons of Skyrim - HDT Physics for Cloaks Patch
+- Sons of Skyrim PBR
+- SOS V2.0 - SE by Xtudo - Fixes
+- SOS V2.0 - SE by Xtudo - Ground Items Shape patch
+- sosulfric pbr patch
+- Sound For TK Dodge SE
+- Spell Classes
+- SPID for Kvetchi Mercenary Set by Pulcharmsolis
+- SpiderWIP
+- SSE High Quality Music
+- Staff Enhanced Magicka
+- Stagger Lock
+- Stances - Dynamic Animation Sets
+- Standing Stones - I4 icon patch for Curse of the Firmament
+- Starlit Lakes Loading Screens
+- STB Active Effects
+- STB Widgets
+- Stoppage of Stackerlock Player Support
+- Subsurface Scattering
+- Swiftly Order Squad - Tween Menu Overhaul
+- Taste of Death - Quest Addon Patches
+- Temples of the Ancients PBR
+- Terrain Helper
+- Terrain Shadows
+- The Dragon Cult - A Draugr Overhaul
+- The Dragon Cult - Expanded
+- The Dragonborn's Bestiary Add-On
+- The Welkynar Knight - Quest
+- Thundertrot Horse Animations
+- TK dodge firstperson 8 ways dodge (sound added)
+- TK Dodge RE Addon
+- Travelling Priest Robes - SkyPatched
+- Travelling Priest Robes - Vanilla HIMBO CBBE -
+- Tribunal Icons for Stances or Stances NG
+- Trueshot - an Adamant Addon
+- Tween Menu Overhaul
+- Ultimate Dragons SE
+- Ultimate Dragons SE Stomp Crash Fix Patch
+- Ultimate NPC Dodging - Animation Pack
+- USSEP Patch PBR 4k
+- Val Serano - Pirate Follower and Quest Adventure
+- Valerica DF Edition
+- Vanaheimr - Landscapes - AIO - Complex Material and PBR
+- Vanaheimr - Mines and Caves - PBR
+- Vanilla Hair Remake SMP for Khajiit Will Follow
+- Vanilla Item Descriptions
+- Vanilla plus presets
+- Vanilla plus presets 2
+- Vanilla Scripting Enhancements
+- Vanilla-like modern armor for Ulfric and Sons of Skyrim Stormcloak Officer
+- Vibrant Map Markers
+- Vibrant Map Markers - Untarnished UI Compass
+- Vibrant Map Markers for CoMAP 4
+- Vigilant Armors
+- Violent Alduin
+- Volumetric Mists
+- Wait Menu Add-On
+- Wait Your Turn - Enemy Circling Behaviour
+- Wait Your Turn a la SOT patch only
+- Warded Blocking 2.0
+- Water Effects
+- Water Effects FIX
+- Weapon Styles IED 3.0 - CPR Patch
+- Weapons and Armors Remastered - PBR (4k)
+- Wet and Cold - Gear
+- Wet and Cold - PBR
+- Wet and Cold SE
+- Wetness Effects
+- Whiterun Giant Lasts Longer - Skypatched
+- Wild Witch Outfit - CBBE 3BA UUNP BHUNP HIMBO Vanilla - HDT-SMP
+- Wild Witch Outfit - PBR
+- Willow of Riften - (Custom Voiced Bosmer Follower)
+- Willow of Riften - Another Replacer
+- Winged Hussar Armor and Weapons - CBBE 3BA UUNP BHUNP HIMBO Vanilla - HDT-SMP
+- Winterhold - Bubbling Brew - Patch Collection
+- Winterhold - Smelt Cellar
+- Winterhold - Smelt Cellar - Patch Collection
+- Winterhold - The Bubbling Brew
+- Wolf attack animations
+- Xelzaz Anniversary Edition Plugin 1.12.0
+- Xelzaz Follower Core 1.13.1
+- XPMSSE Left Hand Sheath Rotation Fix
+- Ysmir's Tear - Last Bastion of the North - New Island In the Sea of Ghosts
