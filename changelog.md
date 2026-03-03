@@ -1199,3 +1199,4 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Fixed all reported road texture seams
 - Removed Deathbell light placer config, morthal was dropping to 30 fps
 - Removed NPC Overlay distribution, causing issues.
+- Ran LODs on medium, better performance and doesn't look a whole lot different.
