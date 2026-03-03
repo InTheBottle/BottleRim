@@ -10,6 +10,9 @@
 - [1.5.0](#bottlerim-et-ada-150---not-save-safe)
 - [1.6.0](#bottlerim-et-ada-160---not-save-safe)
 - [1.7.0](#bottlerim-et-ada-170---not-save-safe)
+- [1.7.1](#bottlerim-et-ada-171---save-safe)
+- [1.7.2](#bottlerim-et-ada-172---save-safe)
+- [1.7.3](#bottlerim-et-ada-173---save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1178,3 +1181,21 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Xelzaz Follower Core 1.13.1
 - XPMSSE Left Hand Sheath Rotation Fix
 - Ysmir's Tear - Last Bastion of the North - New Island In the Sea of Ghosts
+
+## BottleRim Et' Ada 1.7.1 - Save Safe
+- Fixed minor issues
+
+## BottleRim Et' Ada 1.7.2 - Save Safe
+- Fixed texture seams
+- Optimization pass
+- Removed broken LP configs
+
+## BottleRim Et' Ada 1.7.3 - Save Safe
+- Updated PBR Whiterun
+- Updated Feris
+- Fixed Granite Hill earthquake
+- BSA'd all large PBR texture mods
+- Removed Skeletons HD\SE, Quality versus how resource intensive it is just not worth it
+- Fixed all reported road texture seams
+- Removed Deathbell light placer config, morthal was dropping to 30 fps
+- Removed NPC Overlay distribution, causing issues.
