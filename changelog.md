@@ -1200,3 +1200,5 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Removed Deathbell light placer config, morthal was dropping to 30 fps
 - Removed NPC Overlay distribution, causing issues.
 - Ran LODs on medium, better performance and doesn't look a whole lot different.
+- Swapped Feris outfit to infantry light armor
+- Fixed border guards spawn camping ralof when choosing to side with him in the start of the game
