@@ -126,7 +126,10 @@ There are a few things you can and should do.
 ---
 ## Playing the Game
 - Launch Skyrim SE through Mod Organizer 2 (MO2) in the BottleRim folder.
+- After character creation and leaving the starting cave you will see a small campfire with a chest and a book. Selecting the book will allow you to choose your origin story if you choose, and your starting gear for the class you chose will be in the chest.
 - Enjoy surviving in BottleRim, or don't, it is pretty hard.
+
+## This list is built to be as immersive as possible, guards depending on regional alliance will attack you for wearing stormcloak\imperial armor if they are in the opposing faction. This changes depending on where you're at in the Civil war questline, as you take towns, the guards will change alliance as well. Perks for fishing, camping and mining are included and you can take jobs from missive boards and help out at civilian jobs as well. Guilds such as the Thieves guild, Dawnguard and Volkihar Castle can be rebuilt and change over time as you progress through the quests. Towns will be repaired after battles, homesteads will be wiped out after dragon attacks and shrines will be sacked by thalmor. I wanted this list to feel like your choices have weights and the world is changing while you're out doing what the Dragonborn does. 
 
 ---
 
