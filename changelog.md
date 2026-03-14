@@ -13,6 +13,7 @@
 - [1.7.1](#bottlerim-et-ada-171---save-safe)
 - [1.7.2](#bottlerim-et-ada-172---save-safe)
 - [1.7.3](#bottlerim-et-ada-173---save-safe)
+- [1.8.0](#bottlerim-et-ada-180---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1202,3 +1203,331 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Ran LODs on medium, better performance and doesn't look a whole lot different.
 - Swapped Feris outfit to infantry light armor
 - Fixed border guards spawn camping ralof when choosing to side with him in the start of the game
+
+## BottleRim Et' Ada 1.8.0 - Not Save Safe
+
+# Modlist Changelog
+
+## Added Mods
+
+- A Clear Map of Skyrim and Other Worlds
+- AJO - No Tool Requirements
+- Alchemy Reworked Icons for DIII
+- Alchemy Station Variants - Base Object Swapper
+- Apprentice
+- Blended Roads
+- Blended Roads less bumpiness - Base Object Swapper
+- BottleRim - Et' Ada 1.7.3_separator
+- Character Menu SE - Apprentice Trait Patch
+- Deepborn - Mining Perks
+- Deeper Echo - Deep Sound Replacer for Deepborn
+- Detailmap Seamfix - Skyrim SE
+- Dragonborn Reskin - Modern Wait Menu (21x9)
+- Droppable Favorites
+- Dynamic Inventory Icon Injector
+- Enchanted Icon Overhaul
+- Exist's Caves - PBR Retexture
+- Facial_Hair
+- Faultier's PBR Armors and Clothes - Styles of Skyrim Patch
+- Faultier's PBR Armors and Clothes - USSEP patch
+- Faultier's PBR Landscape JSON fix
+- Faultier's PBR Landscapes 2k
+- Feris - Anniversary Edition Plugin
+- Gourmet - Eating Animations and Sounds Patch
+- Harmony - Main Menu Song Replacer
+- Higher Poly Vanilla Torch Sconce
+- Immersive Fur Garments
+- Interior Weather Sounds Restored
+- Line and Lure - Fishing Perks
+- LLFP_SFO_patch
+- Load Time Profiler
+- Locked Vein Activation Fix
+- Map Fix
+- Map Weather - CS
+- Misc. Blended Road Fixes
+- Navigator - Navmesh Fixes
+- Navigator - Navmesh Fixes - Patch Collection
+- Nordic Faces - Textures and Body Meshes
+- Obscure Elder Names
+- Obsidian CS
+- Obsidian Weathers and Seasons
+- Optional Lux Resource pack (No ENB light)
+- Optional Quick Start - SE
+- Persistent Favorites
+- Pilgrim - A Religion Overhaul
+- Pilgrim and Daedric Shrines Consistency and Tweaks
+- Pilgrim HD
+- Portal Strict optional plugin
+- Quest Item Icon
+- Radiant Requirements MCM
+- Robber's Gorge Fixes
+- Simple Follower Framework
+- Simple Hunting Overhaul - Eating Animations and Sounds Patch
+- Simply Skin - Female Texture Replacer
+- Simply Skin - Male Texture Replacer
+- SRRP - Skyrim Road Reconstruction Project
+- Stuck Underwater Visuals and Sounds Fix SKSE
+- Temper Tier Icon
+- Updated Lux - Resources plugin
+- Upper Class Farmhouse - Base Object Swapper
+- Upper Class Longhouse
+- Vanilla Nights
+- Vanilla PBR AIO
+- Volumetric Mists
+- Wall Basket Variants
+- XP32 Maximum Skeleton Special Extended - XPMSSE
+
+## Removed Mods
+
+- (CVEO) by LDD
+- 3D Trellis Improved - Gildergreen Plaza
+- Adamant - Gods and Worship Consistency Patch
+- Addon - No Hadrian Shack
+- Advanced Eyes Addon for (CVEO) by LDD
+- Advanced Eyes Addon for (CVEO) by LDD - EFM Patch
+- Aetherius - A Race Overhaul
+- Ancient Ebony Nordic Temple - PBR
+- Another RaceMenu Rotation Mod
+- Apocrypha Paper Map for FWMF
+- Aretuza Eyes Remastered for (CVEO) by LDD
+- Armors of the Velothi Pt. I - SPID
+- Azurite Weathers and Seasons
+- Azurite Weathers III - Enhanced
+- Bard Fix Extended Edition
+- Beards by Hvergelmir for High Poly Head
+- Beards for High Poly Head
+- Bears of the North Add-On
+- Blackreach Paper Map for FWMF
+- Body Scars For Racemenu
+- Brows by Hvergelmir for High Poly Head - COTR - UBE
+- CC Spell Knight Armor - SPID
+- ChickenMike's Mod Tweaks and Fixes
+- Colovian Prince Armor - SPID
+- Community Overlay 3 (51- 70) Bodypaints Warpaints and Tattoos
+- Community Overlays 1 (0-30) Bodypaints Warpaints Tattoos and more made for the Community (Special Edition)
+- Community Overlays 2 (31-50) Bodypaints Warpaints Tattoos and more made for the Community (Special Edition)
+- Community Shaders - FWMF Map Brightness Fix
+- Conduit - Short-term Weapon Infusions
+- Conduit - XPMSE Patch
+- CoverKhajiits - Face Textures 4K SE
+- CritterSpawn - Script Call Reduction
+- Cuyi's Bosmeri Antlers - Proper RaceMenu Integration
+- Cuyi's Bosmeri Antlers - SSE
+- Dareni's Addons - Bestiary
+- Dayspring Canyon Paper Map for FWMF
+- Deepwood Vale Paper Map for FWMF
+- Diverse Farm Fences - Base Object Swapper
+- Diverse Farm Fences - PBR
+- dMenu
+- dMenu NG - CTD Fixes and Global Translations
+- DollFace HPH
+- Dragonborn Reskin - Biggie Traits
+- Dragonborn Reskin - Know Your Enemy 2 Lite Patch 2
+- Dragonborn Reskin - Racemenu DIP Patch
+- Dragonborn Reskin - The Dragonborn's Bestiary's Icon Overhaul
+- Dragonborn Reskin - Wheeler
+- Dragonborns Bestiary_separator
+- Draugrs - SE by Xtudo - The Dragonborn's Bestiary
+- dTry's Key Utils
+- Duncan's Paper Maps for FWMF
+- Dynamic Activation Key - Addons Collection
+- Dynamic Bloodpool Framework
+- Dynamic Sprint Stop
+- Embers XD PBR
+- Extended UI
+- Extended UI - Settings Loader
+- Faction Ranks
+- Falmer Overhaul Add-On
+- Faultier Windows - Lux Patch
+- Faultier's PBR Clutter medium res
+- Faultier's PBR College of Winterhold
+- Faultier's PBR DLC01 architecture
+- Faultier's PBR DLC02 architecture
+- Faultier's PBR Dwemer Ruins and Markarth
+- Faultier's PBR High Hrothgar
+- Faultier's PBR Landscapes - Dawnguard only 2k
+- Faultier's PBR Landscapes - Dragonborn only 2k
+- Faultier's PBR Nordic Ruins
+- Faultier's PBR orc architecture 2k
+- Faultier's PBR Road Signs - English
+- Faultier's PBR Ships 2k
+- Faultier's PBR Skyhaven 2k
+- Faultier's PBR Solitude 2k
+- Faultier's PBR Soul Cairn
+- Faultier's PBR Sovngarde
+- Faultier's PBR Windhelm
+- Faultier's PBR Windows
+- Fax Custom Wheeler Icons
+- Female Dragonic Argonian Textures 2k
+- Fix blocking move
+- Flat World Map Framework (FWMF)
+- Flawn's Argonian Overlays
+- Follower Interact with Gestures
+- Forgotten Vale Paper Map for FWMF
+- Giants Overhaul - My optimized textures SE by Xtudo
+- Giants Overhaul- Mihail Monsters and Animals (SE-AE version)
+- Gods And Worship
+- Gods And Worship - Dynamic Lowered Hoods - Helmet Toggle Patch
+- Gods and Worship - Jayserpa Quest Expansion Patches
+- Gods and Worship - MCM Fix
+- Gods And Worship - Stormcrown patch
+- Gods and Worship_separator
+- Growl Patch
+- HD Reworked Dogs
+- HDT-SMP Spell Knight Armor Patch
+- Heart of Dibella Quest Expansion Patch
+- High_Poly_Head_v
+- Iconic's Ash Guardian Retexture
+- Iconic's Ashman Retexture
+- Iconic's Frost - Flame - Storm Atronach Retexture
+- Iconic's Gargoyle and Death Hound Retexture
+- Iconic's Spiders of Skyrim Retexture
+- Iconic's Spriggan Retexture
+- Iconic's Vampire Lord Retexture
+- Iconic's Werewolf and Werebear Retexture
+- Imperial Forts Remake PBR
+- Improved Dwemer Glass
+- Improved Dwemer Glass PBR
+- iWant Status Bars
+- iWant Widgets
+- iWant Widgets for Starfrost
+- IWant Widgets NG
+- Knockback SKSE
+- Know Your Enemy 2
+- Know Your Enemy 2 - Armors
+- Know Your Enemy 2 - Armors - Settings Loader
+- Know Your Enemy 2 - Integration Patch
+- Know Your Enemy 2 - LoreBox Description
+- Know Your Enemy 2 - Orca's Patches
+- Know Your Enemy 2 - Rapid Bow Combo V3 - Compatibility Patch
+- Know Your Enemy 2 - Settings Loader
+- Know Your Enemy 2 - Unofficial Monster Patches
+- Lamenthia's Marks of Beauty
+- LDD - Better Eye Shape for HPH
+- LDD - Detail Makeup - HPH
+- LDD - Eyebrows for Women - HPH 'n UBE
+- LDD - Fine Complexions - HPH
+- Lux - RedBag's Falkreath Lanterns
+- Lux Resource pack (No ENB light)
+- Lyru's Tattoo pack collection
+- Lyru's Tattoo pack collection 2
+- Male Dragonic Argonian Textures 2k
+- MAMMOTH
+- MIC - Lux Patch
+- MIC - Northern Vanilla Farmhouses Patch
+- MIC - Skeleton Replacer HD
+- More Scarves
+- More Scarves PBR
+- Natura - Stone Atronach Retexture
+- Niohoggr Warpaints
+- Northborn Scars
+- Northborn Scars for High Poly Head
+- Northern Roads
+- Northern Roads - Fixes and Optimization
+- Northern Roads - Overgrowing Grass Remover
+- Northern Roads - Patches Part 2
+- Northern Roads Patch Collection
+- Northern Roads PBR
+- Northern Vanilla Farmhouses
+- Northvale - Landscape Texture Replacer
+- NPCs Learn Skills and Spells
+- NVFH - BDS 3 Patch
+- NVFH LOD Files
+- NVFH Patches
+- ODF - Blacksmith Burnmarks
+- ODF - Enemy Warpaints
+- ODF - Scars And Wounds
+- Optimised Scripts for XPMSSE
+- Overlay Distribution Framework
+- Paradigm - A Quick Start Overhaul
+- Paradigm - A Quick Start Overhaul Extended
+- Paradigm - Extended - Spells as Tomes
+- Patch - Anniversary Edition
+- Patch - Daedric Shrines All-in-One
+- Patch - Lux
+- Patch - LUX (Dibella temple fix)
+- PaulMix's dTry Key Utils extend
+- PELTAPALOOZA - Special Edition
+- Praedys Skeleton Replacer HD PBR
+- QND SPID 4th Unknown Pack
+- QND SPID Pulcharmsolis Pack
+- RaceMenu
+- RaceMenu Undress
+- Racial Body Morphs
+- Remote Interactions
+- Reverie - Skin
+- Runemaster Magic
+- Runemaster Magic - Sorting
+- RunemasterMagic - Activate With Power Attack
+- RunemasterMagic - Magicka
+- SABRECAT
+- SD's Farmhouse Fences SE
+- Seperate INI config
+- Sharpened Teeth - Character Creation Addon
+- Siege at Icemoth Paper Map for FWMF
+- Simple Belly Paints SE - Bodypaints of Shadowmarks Skillpaints and Faction Paints - RaceMenu Overlays
+- Skeleton Replacer HD
+- Skeletons SE
+- Skeletons SE - Expanded
+- Skin Feature Overlays SE - Freckles Scars Birthmarks Stretch Marks Moles and More for Face and Body RaceMenu Overlays
+- Skuldafn Paper Map for FWMF by Limon
+- Skyrim Paper Map by Caro Tuts for FWMF
+- Skyrim's Inns - Main Menu Music Replacer
+- SkySight Skins 2025 - Ultra HD 4K 2K Male Textures - Vanilla SoS SAM HIMBO TNG
+- Smart Optimal Salves - Optimal Potion Hotkey MCM
+- Smart Optimal Salves - Optimal Potion Hotkey MCM - Settings Loader
+- Smart Talk - Latest Version
+- Smart Talk - MCM menu
+- Soul Cairn Paper Map for FWMF
+- Sovngarde Paper Map for FWMF
+- Stand still in RaceMenu (OAR)
+- Static Mesh Improvement Mod - SMIM PBR
+- Steeds of Skyrim - Visual Horse Overhaul
+- Subtly's CVEO Addon
+- Taunt Your Enemies - Taunting Matters
+- TDB - Mandragorasprouts Hagraven
+- Terre's 4K Fur Textures for CoverKhajiits - Vanilla CBBE UNP BHUNP SoS HIMBO
+- The Dragonborn's Bestiary
+- The Dragonborn's Bestiary - CC Pets Addon
+- The Dragonborn's Bestiary - Dragon Priests
+- The Dragonborn's Bestiary - Draugrs
+- The Dragonborn's Bestiary - Extra Addons
+- The Dragonborn's Bestiary - I4 Consistency Tweaks
+- The Dragonborn's Bestiary - Mihail Addons
+- The Dragonborn's Bestiary - Natura Addon
+- The Dragonborn's Bestiary - Quest and Boss mod Patch Compendium AIO (FOMOD)
+- The Dragonborn's Bestiary - Show In UI
+- The Dragonborn's Bestiary - Small Creature Addon
+- The Dragonborn's Bestiary - Sun Spells Addon
+- The Dragonborn's Bestiary - Vanilla Addon
+- The Dragonborn's Bestiary and KYE2 Patch - Lite
+- The Dragonborn's Fishiary - Bestiary Addon
+- Tomato's PBR Whiterun
+- Tomato's Riften and Ratway
+- Tragedian's Fabulous Followers SSE
+- TRUE FACES - A Character Enhancement Project
+- Update for Skuldafn Paper Map for FWMF
+- USSEP Patch
+- Valkyr HDT-SMP Hairstyles
+- Valkyr HDT-SMP Hairstyles 02
+- Vampire Headpart fix for High Poly Head and Expressive Facegen Morph
+- Vanaheimr - Farmhouses - Complex Material - PBR
+- Vanaheimr - Mines and Caves - PBR - 4k
+- Vanaheimr - Northern Roads - PBR - 2k
+- Vanaheimr - Ore Veins
+- Vanilla Wolf Texture Upscaled (Works For Fluffworks)
+- Visual Equipment - IED Preset - Includes most NPCs
+- W.I.O. - Wheeler Icons Overhaul
+- Weathered Nordic Bodypaints -Special Edition- RaceMenu Overlays and Warpaints
+- Wheeler - Quick Action Wheel Of Skyrim
+- Wheeler - Show in UI
+- Wheeler CTD-Fix
+- Why I Came to Skyrim - Origin Stories
+- Wolfpaint - Face - Facepaint Collection for Racemenu Overlays
+- Woodland Wizard Robes - SPID
+- Wounds Overlays For RaceMenu
+- Wyrmstooth - Dragons SE Patch
+- Wyrmstooth Paper Map for FWMF by Limon
+- Yyvengar Bodypaint - Designs of the Lupine - RaceMenu Overlays
+- Ziovdendian Bodypaint - Designs of the Lupine - RaceMenu Overlays - Special Edition
+- ZMD'S Gothic Arcane Tattoos SE For RaceMenu Overlays 4k
