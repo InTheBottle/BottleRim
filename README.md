@@ -1,6 +1,6 @@
 # BottleRim
 A total survival SimonRim focused gameplay overhaul using Community Shaders.
-![BottleRim](Resources/Skyrim.webp)
+![BottleRim](Resources/1.8.webp)
 
 
 **Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/154268) | [Changelog](https://github.com/InTheBottle/BottleRim/blob/main/changelog.md) | [Load Order](https://loadorderlibrary.com/lists/bottlerim-2) | [Discord](https://discord.gg/WF66mMu)
