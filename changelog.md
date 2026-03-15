@@ -14,6 +14,7 @@
 - [1.7.2](#bottlerim-et-ada-172---save-safe)
 - [1.7.3](#bottlerim-et-ada-173---save-safe)
 - [1.8.0](#bottlerim-et-ada-180---not-save-safe)
+- [1.81.1](#bottlerim-et-ada-180---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1530,4 +1531,11 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Wyrmstooth Paper Map for FWMF by Limon
 - Yyvengar Bodypaint - Designs of the Lupine - RaceMenu Overlays
 - Ziovdendian Bodypaint - Designs of the Lupine - RaceMenu Overlays - Special Edition
+
+## BottleRim Et' Ada 1.81.1 - Not Save Safe
+
+- Swapped out Redbags Falkreath for COTN Falkreath, Redbags was bugging out some quests
+- Swapped in Flex SMP, it has a function to delay applying physics on cell load until after the cell fully loads. Hopefully mitigates CTDs on cell loads.
+- Added Faster compression since almost all large texture mods are BSA'd this should improve texture streaming in game pretty well.
+- General mod updates.
 - ZMD'S Gothic Arcane Tattoos SE For RaceMenu Overlays 4k
