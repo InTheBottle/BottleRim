@@ -114,6 +114,8 @@ There are a few things you can and should do.
 1. Check the "Optionals" separator in Mo2, I have them enabled by default but all are safe to disable at any time. The reason for leaving them enabled is just to help those that use them not have to worry about where the plugins should go since it will already be set.
 
 2. I left the gamepad mods in the Optionals separator active so people who use gamepad know where the plugins go. Just disable if you use mouse and keyboard.
+
+3. Press F1 on your keyboard, you'll see a menu called "Simple Power Attack". This is to replace OCPA so you can set your power attack, block key etc here.
    
 ### Antivirus Exceptions
 - Add exceptions in Windows Defender for the BottleRim folder and `ModOrganizer.exe` to avoid crashes.
