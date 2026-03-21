@@ -1546,5 +1546,11 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Removed broken interior overhauls for some random NPC houses
 - Removed OCPA in favor of Simple Power Attack
 - Redid LODs
-- General mod updates
-- ZMD'S Gothic Arcane Tattoos SE For RaceMenu Overlays 4k
+- Removed HS Interior overhauls
+- Added Soul Resurrection (Alt death)
+- Added new swimming anims
+- Added Cold breath NG
+- Added Particle Wind SKSE
+- Swapped to Dynamic Activation keys DLL version
+- New icons for custom skills
+- Added custom skill version of Pilgrim
