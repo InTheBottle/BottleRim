@@ -16,6 +16,7 @@
 - [1.8.0](#bottlerim-et-ada-180---not-save-safe)
 - [1.81.1](#bottlerim-et-ada-1811---not-save-safe)
 - [1.9.0](#bottlerim-et-ada-190---not-save-safe)
+- [1.9.1](#bottlerim-et-ada-191---save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1553,4 +1554,10 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Added Particle Wind SKSE
 - Swapped to Dynamic Activation keys DLL version
 - New icons for custom skills
+
+## BottleRim Et' Ada 1.9.1 - Save Safe
+
+- Updated Vanilla PBR AIO
+- Updated SPID
+- Game start up time should be around 20 seconds faster.
 - Added custom skill version of Pilgrim
