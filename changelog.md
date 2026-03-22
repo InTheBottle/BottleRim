@@ -1560,4 +1560,3 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Updated Vanilla PBR AIO
 - Updated SPID
 - Game start up time should be around 20 seconds faster.
-- Added custom skill version of Pilgrim
