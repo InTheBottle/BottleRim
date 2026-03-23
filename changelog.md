@@ -17,6 +17,7 @@
 - [1.81.1](#bottlerim-et-ada-1811---not-save-safe)
 - [1.9.0](#bottlerim-et-ada-190---not-save-safe)
 - [1.9.1](#bottlerim-et-ada-191---save-safe)
+- [1.9.2](#bottlerim-et-ada-192---save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1560,3 +1561,9 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Updated Vanilla PBR AIO
 - Updated SPID
 - Game start up time should be around 20 seconds faster.
+
+## BottleRim Et' Ada 1.9.2 - Save Safe
+
+- Fixed the outdated precision settings since they were still intended for MCO
+- Added craftable wearable\handheld lanterns
+- Updated critter script fix
