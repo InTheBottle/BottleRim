@@ -1567,3 +1567,4 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Fixed the outdated precision settings since they were still intended for MCO
 - Added craftable wearable\handheld lanterns
 - Updated critter script fix
+- Removed extremely overpowered free weapons that were available too easily
