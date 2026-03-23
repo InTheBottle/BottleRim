@@ -1565,6 +1565,6 @@ With "fixing" stances, comes a handful of new NPC combat anims
 ## BottleRim Et' Ada 1.9.2 - Save Safe
 
 - Fixed the outdated precision settings since they were still intended for MCO
-- Added craftable wearable\handheld lanterns
+- Added craftable wearable\handheld lanterns, useable if you have one by equipping or pressing L on the keyboard
 - Updated critter script fix
 - Removed extremely overpowered free weapons that were available too easily
