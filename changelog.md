@@ -18,6 +18,7 @@
 - [1.9.0](#bottlerim-et-ada-190---not-save-safe)
 - [1.9.1](#bottlerim-et-ada-191---save-safe)
 - [1.9.2](#bottlerim-et-ada-192---save-safe)
+- [1.9.3](#bottlerim-et-ada-193---save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1568,3 +1569,12 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Added craftable wearable\handheld lanterns, useable if you have one by equipping or pressing L on the keyboard
 - Updated critter script fix
 - Removed extremely overpowered free weapons that were available too easily
+
+## BottleRim Et' Ada 1.9.3 - Save Safe
+
+- Added some new functions to Simple Power Attack
+- Updated NPCs Names Distributor
+- Updated Missives - Voice and Quest Expansion
+- Fixed some load order issues, should fix things like mislabeled perks if you encountered any.
+- Added Disabled Reference Integrity fix
+- Updated to SkyUI 6
