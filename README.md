@@ -116,6 +116,10 @@ There are a few things you can and should do.
 2. I left the gamepad mods in the Optionals separator active so people who use gamepad know where the plugins go. Just disable if you use mouse and keyboard.
 
 3. Press F1 on your keyboard, you'll see a menu called "Simple Power Attack". This is to replace OCPA so you can set your power attack, block key etc here.
+
+4. Following up with the F1 menu, there are tons of things you can edit here. Think of it as an extra MCM.
+
+5. If you are using a widescreen display, Apprentice which is the mod we use for the traits and classes in the vanilla racemenu, does not have support for this so you will not be able to click directly on the tabs. The workaround for this is to literally click above the tabs as you go through character creation. In the future, this will be fixed but for now this is the workaround.
    
 ### Antivirus Exceptions
 - Add exceptions in Windows Defender for the BottleRim folder and `ModOrganizer.exe` to avoid crashes.
