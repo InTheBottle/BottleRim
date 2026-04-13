@@ -19,6 +19,7 @@
 - [1.9.1](#bottlerim-et-ada-191---save-safe)
 - [1.9.2](#bottlerim-et-ada-192---save-safe)
 - [1.9.3](#bottlerim-et-ada-193---save-safe)
+- [1.10.0](#bottlerim-et-ada-1100---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1578,3 +1579,34 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Fixed some load order issues, should fix things like mislabeled perks if you encountered any.
 - Added Disabled Reference Integrity fix
 - Updated to SkyUI 6
+
+## BottleRim Et' Ada 1.10.0 - Not Save Safe
+
+- Added Skyrim Realistic Conquering
+- Added Lawbringer
+- Added Tempered racial skins
+- Included Post Processing version of Community Shaders using Dragontone by Centinez
+- Tons of time in xEdit cleaning up conflicts
+- Fully custom leveled lists using Open World Loot and Crimson Trail along with some custom tweaks by me
+- Disabled shield cover in rain animation
+- Dropped base difficulty to expert (master too hard)
+- Removed particle wind
+- Switched to Happy Little Trees
+- Added standalone NOTWL guildergreen replacer
+- Added a couple new quests
+- Added Holidays
+- New textures for almost everything architecture related
+- Added one handed and two handed Katanas + rebalanced
+- Added Katana as a follower
+- Fixed some broken foliage and added new models\textures for some
+- Added dragon aspect overhaul with stormcrown integration
+- New hand to hand animations (third person only)
+- Fixed some issues with eating anims and food models
+- Added new dialogue expansions for guards, bandits, windhelm and imperial soldiers
+- Added grandiose giants
+- Changed how loot works in barrels (more garbage)
+- Added solitude temple frescos PBR
+- Added new dialoge for the companions
+- Readded racial body morphs (looks neat with racial skin variance)
+- Swapped grass to witchy wilderness
+- Swapped from flex smp to the updated Faster HDT-SMP v3
