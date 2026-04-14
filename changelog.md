@@ -20,6 +20,7 @@
 - [1.9.2](#bottlerim-et-ada-192---save-safe)
 - [1.9.3](#bottlerim-et-ada-193---save-safe)
 - [1.10.0](#bottlerim-et-ada-1100---not-save-safe)
+- [1.10.1](#bottlerim-et-ada-11001---save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1610,3 +1611,19 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Readded racial body morphs (looks neat with racial skin variance)
 - Swapped grass to witchy wilderness
 - Swapped from flex smp to the updated Faster HDT-SMP v3
+
+## BottleRim Et' Ada 1.10.1 - Save Safe
+
+- Updated Faster HDT-SMP
+- Fixed some staff models being wrong
+- Fixed two skylight meshes in Hrothgar
+- Cleaned up floaters in Riften
+- Cleaned up floaters on Whiterun bridge
+- Cleaned up floaters in Windhelm Temple of Talos
+- Fixed PS5 controllers just not working at all
+- Fixed overbright rain\snow particles in linear lighting
+- Fixed the busted skill perk dome mesh
+- Added precision attack collision fixes
+- Fixed health potions not using apothecary functions
+- Edited CS Overrides to make things look a bit nicer
+- Removed Soaking wet since its handled by CS now
