@@ -21,6 +21,7 @@
 - [1.9.3](#bottlerim-et-ada-193---save-safe)
 - [1.10.0](#bottlerim-et-ada-1100---not-save-safe)
 - [1.10.1](#bottlerim-et-ada-1101---save-safe)
+- [1.10.2](#bottlerim-et-ada-1102---save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1627,3 +1628,21 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Fixed health potions not using apothecary functions
 - Edited CS Overrides to make things look a bit nicer
 - Removed Soaking wet since its handled by CS now
+
+## BottleRim Et' Ada 1.10.2 - Save Safe
+
+- New DLL for Faster HDT-SMP to fix random invisible NPCs
+- Updated the following mods:
+- COMAP
+- SkyPatcher
+- Alt Riften
+- OAR
+- Grab and Throw
+- Gray Cowl of Nocturnal
+- Dragonsreach Dungeon seam fix
+- Ultimate First person rotation grounder
+- Smooth Arrow trails
+- Sabre cat attack anims
+- Frost trolls use frost breath
+- Embers XD
+- Lias Shack patch
