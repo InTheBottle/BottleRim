@@ -1660,3 +1660,4 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Updated carriage drivers are alive, better scheduling
 - Updated Precision attack collision fixes
 - Added Wheezing Draugr by clofas
+- Fixed and improved some visuals related to the Community Shaders build we are using, license and source code included in the mod folder.
