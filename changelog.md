@@ -22,6 +22,7 @@
 - [1.10.0](#bottlerim-et-ada-1100---not-save-safe)
 - [1.10.1](#bottlerim-et-ada-1101---save-safe)
 - [1.10.2](#bottlerim-et-ada-1102---save-safe)
+- [1.10.3](#bottlerim-et-ada-1103---save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1646,3 +1647,16 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Frost trolls use frost breath
 - Embers XD
 - Lias Shack patch
+
+## BottleRim Et' Ada 1.10.3 - Save Safe
+
+- Critical update for Faster HDT-SMP to fix the random invisible NPCs
+- Updated SassiestAssassins NPC replacers and resources
+- Added Quest Fixes from lilebonymace for the Civil war overhaul
+- Updated PBR CC Alt armors
+- Added Nettlebane is effective against Spriggans
+- Updated Horsepower and added Lost grimoire patch
+- Updated Granite Hill
+- Updated carriage drivers are alive, better scheduling
+- Updated Precision attack collision fixes
+- Added Wheezing Draugr by clofas
