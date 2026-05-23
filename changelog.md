@@ -23,6 +23,7 @@
 - [1.10.1](#bottlerim-et-ada-1101---save-safe)
 - [1.10.2](#bottlerim-et-ada-1102---save-safe)
 - [1.10.3](#bottlerim-et-ada-1103---save-safe)
+- [2.0.0](#bottlerim-et-ada-200---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1661,3 +1662,134 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Updated Precision attack collision fixes
 - Added Wheezing Draugr by clofas
 - Fixed and improved some visuals related to the Community Shaders build we are using, license and source code included in the mod folder.
+
+## BottleRim Et' Ada 2.0.0 - Not Save Safe
+
+- Visuals completely updated, adding new textures and a new Community Shaders build for compatibility with NAT.ENB, fancy.
+- Tons of new weapons and armor, all distributed to bandits, named NPCs and general stores.
+- Tons of mod updates, bug fixes etc.
+- Far better performance than the previous version of the list.
+- New grass, using the original cathedral 3D landscapes grass from Dr Jacopo.
+- New horse model replacer, old vanilla ones sucked.
+- Big BIG overhaul of the entire thieves guild quest line, new endings, dialogue options etc.
+
+### Added Mods
+
+- 1st Person Motion Sickness Remover
+- 1st Person Vertical Aim Fix
+- A Chance Arrangement Plus Plus - A Quest Overhaul
+- A True Longbow
+- AFDI - Aetherium Forge Destroys Items
+- AFDI - TG Alternative Endings Patch
+- Alternate Marsh for Happy Little Trees
+- Amber and Ash - Vanilla hair retexture
+- Amon - SK Fix All in One
+- Armory Extended - Saints and Seducers
+- Ascend - Hidden Peaks of Skyrim
+- Aspens Ablaze
+- Aspens Ablaze Add-On - DynDOLOD 3
+- Beast animations for vampire and werewolfs
+- Camilla Gets Married
+- Canissa's little patch emporium
+- Cathedral - 3D Happy Little Pine Shrubs and Solstheim Ash Shrub Add-on
+- Cathedral - 3D Landscapes
+- Chattier Hunters and Fishermen
+- Children of the Wave - A Redguard NPC Overhaul
+- City Trees
+- Claim a Horse
+- Creation Club Backpacks to NPCs - SPID
+- Dampened Spirits Plus Plus - A Quest Overhaul
+- Dark Brotherhood Addon
+- Dawnguard Sentries - Simple Lore Integration
+- DrJacopo's - 3D Solstheim Grass
+- DrJacopo's - 3D Vanilla Eastmarch Grass
+- DrJacopo's - 3D Vanilla Tundra Grass
+- East Empire Company Armor - SkyPatcher
+- ENB Helper SE
+- Environs - Waking Nightmare
+- Equestrian - An SC Horses Overhaul
+- Extended NPC Dialogue - Embry
+- Extended NPC Dialogue - Erdi
+- Extended NPC Dialogue - M'aiq the Liar
+- Extended NPC Dialogue - Nils
+- Extended NPC Dialogue - Sigurd
+- Extended NPC Dialogue - Talsgar the Wanderer
+- Faithful Faces - Cut Content Restoration
+- Faithful Faces - Grand Solitude
+- Faithful Faces - Granite Hill
+- Faithful Faces - Saints and Seducers
+- Faithful Faces - Skyrim Realistic Conquering
+- First-Person Falling Animation
+- Fishing Voiced Narrative - Simple Fishing Overhaul Voice Patch
+- FloraFixer - Mutagen Patcher and Data
+- Follower Dialogue Expansion - Lisette
+- Follower Dialogue Expansion - Ralof
+- Freehand Armour SPID
+- GG's Thieves Guild Headquarters
+- GG's Thieves Guild HQ Patch Collection
+- Gorm Armor - Consistency Tweaks
+- Gorm Armor - SE by Xtudo - Fixes
+- Gorm Armor - SE by Xtudo - Gauntlets fix
+- Gorm Armor - SE by Xtudo - SPID Bandit Bosses
+- Gorm HDT-SMP Armor
+- Gorm HDT-SMP Armor - PBR
+- Grand Solitude - eFPS patch
+- Grand Solitude - No mage practice and no ghost king
+- Grand Solitude - The Walls of High King Erling
+- Grand Solitude - The Walls of High King Erling - Fixed and Optimized
+- Grand Solitude Patch Collection
+- Grumbledook Ivy - Lux Via Patch
+- Happy Little Shrubs
+- HD Remastered Tree Bark - Happy Little Trees - 16k 8k 4k 2k
+- Heavy Armory - New Weapons
+- Helmet Toggle 2 - SMP Hair Fix
+- Injected Animated Armoury
+- JellyFishFP (un)armed (1st person animations series)
+- JellyFishInLoop Sound Reprisetory
+- Leaps of Faith - A Misc Quest
+- LM's Vanilla Hair Retex Flowmaps for CS HairSpec
+- LM's Vanilla Hair Retexture
+- Loud and Clear Plus Plus - A Quest Overhaul
+- Mage Towers of Skyrim
+- Meshes Optimization Project
+- NAT.CS III
+- NAT.ENB III - Natural and Atmospheric Tamriel ENB 3.1.1C
+- New Armory Series - Argonian Weapons
+- New Armory Series - Ash Spawn Weapons
+- New Armory Series - Dragon Cult Weapons
+- Orcish Orc Strongholds - Creation Club Orcish Armors Integrated
+- Particle Wind - SKSE Plugin
+- RAE - Quest Requirements - ECSS Patch
+- SC Horse Replacer
+- SC Horses - Mane Fix and CC Wild Horses Patch
+- Scoundrel's Folly Plus Plus - A Quest Overhaul
+- SIGMA - Fisting animations - 1st person
+- Skyrim Extended Cut - Saints and Seducers
+- Skyrim Extended Cut Saints and Seducers - Quest Patch
+- Skyrim Souls RE - Unpaused Menus
+- Speaking With Silence Plus Plus - A Thieves Guild Roleplay Expansion
+- SPID to Jorgen Windcaller
+- SPID Windcaller Robes
+- T.R.E.E.S. (Tree Resize Enhancement and Environmental Scaling)
+- Taking Care of Business Plus Plus - A Quest Overhaul
+- The Mists of Blackreach - New Mist and Fog VFX
+- The Younglings - High Poly - RS Children
+- The Younglings - High Poly - RS Children Patches
+- Thieves Guild False Panel Fix
+- Thives Guild Requirements SE Patch
+- TomatoRim PBR - ECSS Landscapes
+- TomatoRim PBR Landscapes AIO 1K 2K 4K
+- Updated Custom Cubemap
+- Updated main plugin
+- Vanaheimr - Mines and Caves - PBR - 4k
+- Vanilla Intro Fix
+- VMHD - All Races - 2K
+- Voiced Narrative - Bittercup (Creation Club)
+- Voiced Narrative - Bloodchill Manor (Creation Club)
+- Voiced Narrative - Fishing (Creation Club)
+- Voiced Narrative - Pets of Skyrim (Creation Club)
+- Voiced Narrative - Redguard Elite Armaments (Creation Club)
+- Voiced Narrative - The Gray Cowl Returns (Creation Club)
+- Windcaller - CC Staff Replacer
+- Windcaller - Dynamic Lowered Hoods
+- Windcaller - Mage Robes and Staff
