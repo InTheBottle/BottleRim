@@ -24,6 +24,7 @@
 - [1.10.2](#bottlerim-et-ada-1102---save-safe)
 - [1.10.3](#bottlerim-et-ada-1103---save-safe)
 - [2.0.0](#bottlerim-et-ada-200---not-save-safe)
+- [2.0.1](#bottlerim-et-ada-201---save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1793,3 +1794,9 @@ With "fixing" stances, comes a handful of new NPC combat anims
 - Windcaller - CC Staff Replacer
 - Windcaller - Dynamic Lowered Hoods
 - Windcaller - Mage Robes and Staff
+
+## BottleRim Et' Ada 2.0.1 - Save Safe
+
+- Community Shaders fixes
+- Added unified water
+- A few mod updates
