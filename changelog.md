@@ -1,5 +1,6 @@
 # Current Changelog
 - [2.1.0](#bottlerim-et-ada-210---not-save-safe)
+- [2.1.1](#bottlerim-et-ada-211----save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1823,3 +1824,13 @@ A few big mods were added, please see below they are pretty cool.
 - Tomato's PBR Vanilla Ivy
 - Tomato's Solitude Remastered - PBR
 - Versatile Item and Group Re-Assignment - C.O.C.K.S. Enhanced
+
+## BottleRim Et' Ada 2.1.1 - Save Safe
+
+- Minor changes to the ENB preset for some less harsh interior lighting colors
+- Dimmed interior light dust beams, like the ones on windows indoors.
+- Fixed bandit bounty quests not being able to be turned in (broken old dialogue topic patch)
+- Repatched Racial Body Morphs, forgot after adding Aetherius back to the list
+- Some missed USMP racial patches were redone.
+- Fixed major performance regression related to the community shaders build, expect a good chunk of frames to return after updating.
+- Fixed some Missive quests not giving XP upon completion (experience patch fix)
