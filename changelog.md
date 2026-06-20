@@ -1787,9 +1787,7 @@ A few big mods were added, please see below they are pretty cool.
 - Aspens Ablaze - PBR
 - Aspens Ablaze - PBR - PG config update
 - BGSWaterCollision - CrashFix
-- BottleRim 2.1.0_separator
 - Carts Remodeled
-- Collision Sentinel - Crash Fix
 - Community Overlay 3 (51- 70) Bodypaints Warpaints and Tattoos
 - Community Overlays 1 (0-30) Bodypaints Warpaints Tattoos and more made for the Community (Special Edition)
 - Community Overlays 2 (31-50) Bodypaints Warpaints Tattoos and more made for the Community (Special Edition)
@@ -1798,7 +1796,6 @@ A few big mods were added, please see below they are pretty cool.
 - Critter Fixes
 - Dirt Cliffs Enhancement - Grumbledook Ivy
 - Fish Plaque Fixes and Improvements
-- FP Inertia - SKSE
 - Fuzz's Legally Intelligible Core Kit
 - Happy Little Trees - PBR - Alt Snow 2 - Lighter
 - Happy Little Trees PBR
@@ -1817,7 +1814,6 @@ A few big mods were added, please see below they are pretty cool.
 - SigmaJelly - Katana animations - 1st person
 - Simple Food Spoilage System
 - Skyrim 3D Furniture
-- Skyrim 3D Furniture - PBR
 - Skyrim 3D Furniture SMIM patch
 - Skyrim 3D Rocks
 - Skyrim 3D Series - PBR and Complex Material Hub
