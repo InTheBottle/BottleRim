@@ -1839,7 +1839,7 @@ A few big mods were added, please see below they are pretty cool.
 ## BottleRim Et' Ada 2.2.0 - Not Save Safe
 
 Pretty big update, tons of quests and bugfixes, seasons etc.
-- Dynamic real time snow cover through community shaders, this means real time seasons. If snow falls, you will see it accumulate on things, grass will tint and trees too if you select that option in the CS menu. Seasons without the hassle, its really cool.
+- Seasons have been added, dynamic, real time snow cover through community shaders, this means real time seasons. If snow falls, you will see it accumulate on things, grass will tint and trees too if you select that option in the CS menu. Seasons without the hassle, its really cool.
 - Vigilant has been added, adjusted and patched to the best of my abilities with simonrim. Delayed for endgame content and completely possible to dive in or simply ignore all together, either way it is there.
 - Unslaad has been added as well, same deal as above, end game content delay and easy to play or ignore its all up to you.
 - Almost complete reintegration of all creation club content using slampires creation cave. Items from said packs will integrate more smoothly in the world, no more "its all in this note" slop quests.
