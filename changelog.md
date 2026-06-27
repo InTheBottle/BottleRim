@@ -1867,5 +1867,6 @@ Pretty big update, tons of quests and bugfixes, seasons etc.
 - Seasonal weather framework
 - Perfectly valid wards
 - New wolf replacer
+- New performance optimizations in the fork of Community Shaders that I maintain for this list.
 
 Pretty big update, have fun.
