@@ -1836,7 +1836,7 @@ A few big mods were added, please see below they are pretty cool.
 - Fixed major performance regression related to the community shaders build, expect a good chunk of frames to return after updating.
 - Fixed some Missive quests not giving XP upon completion (experience patch fix)
 
-## BottleRim Et' Ada 2.1.0 - Not Save Safe
+## BottleRim Et' Ada 2.2.0 - Not Save Safe
 
 Pretty big update, tons of quests and bugfixes, seasons etc.
 - Dynamic real time snow cover through community shaders, this means real time seasons. If snow falls, you will see it accumulate on things, grass will tint and trees too if you select that option in the CS menu. Seasons without the hassle, its really cool.
