@@ -1,6 +1,7 @@
 # Current Changelog
 - [2.1.0](#bottlerim-et-ada-210---not-save-safe)
 - [2.1.1](#bottlerim-et-ada-211--save-safe)
+- [2.2.0](#bottlerim-et-ada-211---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1834,3 +1835,37 @@ A few big mods were added, please see below they are pretty cool.
 - Some missed USMP racial patches were redone.
 - Fixed major performance regression related to the community shaders build, expect a good chunk of frames to return after updating.
 - Fixed some Missive quests not giving XP upon completion (experience patch fix)
+
+## BottleRim Et' Ada 2.1.0 - Not Save Safe
+
+Pretty big update, tons of quests and bugfixes, seasons etc.
+- Dynamic real time snow cover through community shaders, this means real time seasons. If snow falls, you will see it accumulate on things, grass will tint and trees too if you select that option in the CS menu. Seasons without the hassle, its really cool.
+- Vigilant has been added, adjusted and patched to the best of my abilities with simonrim. Delayed for endgame content and completely possible to dive in or simply ignore all together, either way it is there.
+- Unslaad has been added as well, same deal as above, end game content delay and easy to play or ignore its all up to you.
+- Almost complete reintegration of all creation club content using slampires creation cave. Items from said packs will integrate more smoothly in the world, no more "its all in this note" slop quests.
+- Missives have been tweaked and fixed up, quests all work properly now as they should finally. Sorry these patches were a nightmare but testing shows they're finally completely good to go now.
+- Redone requirements for Creation club homes. No more free houses.
+- Hendraheim, farming, myrwatch and tundra homestead all revamped entirely using Andrealphus mods. They are peak.
+- The choice is yours has been added, no more forced annoying quests when you're simply walking by a conversation.
+- Lucien AND Xelzaz have been tossed back in the list, will begin adding more lost followers slowly to make sure all is good as these mods can be tricky.
+- Removed happy little trees for Nature of the wildlands nordic cut, HLT has some mesh issues that become more visible when applying dynamic snow cover during snowy seasons.
+- Added Aran Di Kono, new quest.
+- Added Finding Derkeethus
+- Added Finding Helgi and Laelette
+- Added Fortunes Trade house
+- Added Missing in Action - tweaks
+- Added more to do in the soul cairn
+- Added DS Quest pack, bundle of three new really cool quests.
+- Added Demon of Dream quest
+- Added ill met bolar's oathblade
+- You can now tell calcelmo to fuck off if you'd like.
+- Added conditional expressions extended
+- Quick item transfer has been added
+- New Nirnroot model
+- New fish and better textures for all of them
+- TMD the rift leaves are added
+- Seasonal weather framework
+- Perfectly valid wards
+- New wolf replacer
+
+Pretty big update, have fun.
