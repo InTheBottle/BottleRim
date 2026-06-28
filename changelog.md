@@ -2,6 +2,7 @@
 - [2.1.0](#bottlerim-et-ada-210---not-save-safe)
 - [2.1.1](#bottlerim-et-ada-211--save-safe)
 - [2.2.0](#bottlerim-et-ada-220---not-save-safe)
+- [2.2.1](#bottlerim-et-ada-221--save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1870,3 +1871,10 @@ Pretty big update, tons of quests and bugfixes, seasons etc.
 - New performance optimizations in the fork of Community Shaders that I maintain for this list.
 
 Pretty big update, have fun.
+
+## BottleRim Et' Ada 2.2.1 - Save Safe
+
+- Fixed CS related crash (my fault)
+- Added FPS Stablizer, helps in exteriors quite a bit and doesn't look much different at all.
+- Fixed broken carriage driver dialogue
+- Removed a random barrel blocking an urn for a quest on solstheim
