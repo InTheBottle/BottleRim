@@ -3,6 +3,7 @@
 - [2.1.1](#bottlerim-et-ada-211--save-safe)
 - [2.2.0](#bottlerim-et-ada-220---not-save-safe)
 - [2.2.1](#bottlerim-et-ada-221---save-safe)
+- [2.2.2](#bottlerim-et-ada-222---save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1878,3 +1879,17 @@ Pretty big update, have fun.
 - Added FPS Stablizer, helps in exteriors quite a bit and doesn't look much different at all.
 - Fixed broken carriage driver dialogue
 - Removed a random barrel blocking an urn for a quest on solstheim
+
+## BottleRim Et' Ada 2.2.2 - Save Safe
+
+Performance update and ugly world map removal
+- Nuked map LODs entirely, with our post processing it just did not look or run well for some reason
+- Back to flat world map framework, but this time you must acquire a physical map and equip it in order to view the world map. 
+- Equipping a world map has its own third person animations, and if you have a map equipped it is in the shield slot, it will turn into a scroll if you have it equiped with a weapon at the same time.
+- Every world space has its own physical map you will need to purchase or find.
+- Optimized tons of textures, BSA'd all NPC related textures like skin, hair, eyes etc
+- Optimized grass textures, some were 4k for no reason, and also BSA'd them as well.
+- Redone LODs fully, dropped down a few settings with minimal visual difference and a pretty decent performance gain. Worth it in my opinion.
+- Optimized Faster HDT-SMP with their new recent update for screen space culling of applying SMP to actors on screen, neat update should help crowded areas.
+
+This update was tested on my own save, it will yell about a bunch of missing plugins which are mostly just the old map stuff and BSA plugins that we no longer need since the sizes are smaller now. Ignore the warning.
