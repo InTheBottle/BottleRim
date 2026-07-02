@@ -4,6 +4,7 @@
 - [2.2.0](#bottlerim-et-ada-220---not-save-safe)
 - [2.2.1](#bottlerim-et-ada-221---save-safe)
 - [2.2.2](#bottlerim-et-ada-222---save-safe)
+- [2.21.0](#bottlerim-et-ada-2210---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1893,3 +1894,25 @@ Performance update and ugly world map removal
 - Optimized Faster HDT-SMP with their new recent update for screen space culling of applying SMP to actors on screen, neat update should help crowded areas.
 
 This update was tested on my own save, it will yell about a bunch of missing plugins which are mostly just the old map stuff and BSA plugins that we no longer need since the sizes are smaller now. Ignore the warning.
+
+## BottleRim Et' Ada 2.21.0 - Not Save Safe
+
+Updating mainly to fix install issues due to Nexus deleting some mods we used.
+- Added Akaviri History
+- Civil War Champions Reduced cut
+- Fixed script for holidays
+- Guard dialogue overhaul
+- Some update and fixes to the Community Shaders fork
+- Koralina hairs
+- Honed Metal
+- New embershard miners
+- Removed camera collision
+- Skyfalls whiterun bridge replacers
+- Thieves guild plus plus AIO
+- Removed Dragonborn UI, SkyUI automatically supports all screen ratios.
+- Skyforge weapons replaced with some from legacy of ysgramor
+- Time Flies SE was adding
+- NOTWL Rock replacer was added
+- Fixed bug in "In my time of need".
+
+I didn't really want to release this yet but due to the install being busted from deleted mods on wabbajack, i had too. Please report any bugs in the discord. Biggest issue we'd probably have is just some clipping objects if any.
