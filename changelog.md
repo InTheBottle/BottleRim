@@ -1913,6 +1913,7 @@ Updating mainly to fix install issues due to Nexus deleting some mods we used.
 - Skyforge weapons replaced with some from legacy of ysgramor
 - Time Flies SE was adding
 - NOTWL Rock replacer was added
-- Fixed bug in "In my time of need".
+- Fixed bug in "In my time of need"
+- Removed On a Crimson trail, cool mod just buggy in our current setup.
 
 I didn't really want to release this yet but due to the install being busted from deleted mods on wabbajack, i had too. Please report any bugs in the discord. Biggest issue we'd probably have is just some clipping objects if any.
