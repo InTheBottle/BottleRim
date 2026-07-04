@@ -176,7 +176,7 @@ There are a couple of mods you should check out in the MCM to customize your pla
   - Form 43/DLL errors? Reinstall with “Overwrite Installation” checked in Wabbajack.
   - Crashing on startup? Reinstall or seek help on [Discord](https://discord.gg/bungalo) with crash logs.
 
-- Join [BottleRim Discord](https://discord.gg/bungalo) for support.
+- Join [BottleRim Discord](https://discord.gg/WF66mMu) for support.
 
 ---
 
