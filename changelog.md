@@ -5,6 +5,7 @@
 - [2.2.1](#bottlerim-et-ada-221---save-safe)
 - [2.2.2](#bottlerim-et-ada-222---save-safe)
 - [2.21.0](#bottlerim-et-ada-2210---not-save-safe)
+- [2.3.0](#bottlerim-et-ada-230---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1917,3 +1918,24 @@ Updating mainly to fix install issues due to Nexus deleting some mods we used.
 - Removed On a Crimson trail, cool mod just buggy in our current setup.
 
 I didn't really want to release this yet but due to the install being busted from deleted mods on wabbajack, i had too. Please report any bugs in the discord. Biggest issue we'd probably have is just some clipping objects if any.
+
+## BottleRim Et' Ada 2.3.0 - Not Save Safe
+
+Biggish update to clean up tons of smaller issues from the last update that I had to rush to get the list available again.
+- Tons of fixes in Community Shaders
+- Snow cover tweaks
+- Less bright particle effects (waterfalls, smoke etc)
+- Settings will correctly persist and save when changes are made in the effect 11 UI in community shaders
+- Added Alternate Conversation camera, so it doesn't force you to first person now and will work in either view
+- Updated grass cache to hopefully fix NGIO issues from previous version
+- Replaced KG two hander animations with Leviathan, I didn't like the over the shoulder idle
+- Removed NOTWL downscaled mod, it had issues and I think we can afford better looking trees anyway
+- Removed all "New Creature Animation" mods, they seemed buggy and made fighting trolls, sabre cats etc very boring and awkward
+- Added update Follower Dialogue Expansion mods, along with removing redundant ones
+- Removed Jeremy Soule music mod, it played the same one so often I started to lose it
+- Patched up leveled lists, likely won't notice a big difference but things will be more consistent at least
+- Added Mihail sewer rats and CATS
+- Added SkyTEST - Realistic Animals Lite, animals will hurt good luck bro
+- Added simple dual block, so you can disable simple power attack if you want vanilla power attacks and still have an alt block key
+- Added Tempering makes sense, will require oil, metal plates or bowstring to temper weapons now
+- Navmesh fixes, scanned load order for errors in xedit and solved them all.
