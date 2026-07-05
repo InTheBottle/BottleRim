@@ -1939,3 +1939,4 @@ Biggish update to clean up tons of smaller issues from the last update that I ha
 - Added simple dual block, so you can disable simple power attack if you want vanilla power attacks and still have an alt block key
 - Added Tempering makes sense, will require oil, metal plates or bowstring to temper weapons now
 - Navmesh fixes, scanned load order for errors in xedit and solved them all.
+- Added Ryn's Ustengrav
