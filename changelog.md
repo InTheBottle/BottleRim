@@ -6,6 +6,7 @@
 - [2.2.2](#bottlerim-et-ada-222---save-safe)
 - [2.21.0](#bottlerim-et-ada-2210---not-save-safe)
 - [2.3.0](#bottlerim-et-ada-230---not-save-safe)
+- [2.3.1](#bottlerim-et-ada-231---save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1940,3 +1941,25 @@ Biggish update to clean up tons of smaller issues from the last update that I ha
 - Added Tempering makes sense, will require oil, metal plates or bowstring to temper weapons now
 - Navmesh fixes, scanned load order for errors in xedit and solved them all.
 - Added Ryn's Ustengrav
+
+## BottleRim Et' Ada 2.3.1 - Save Safe
+
+Save safe visual update basically.
+- Fixed a bunch of small issues in the CS build we use
+- Added contact shadows back
+- Added particle light support back
+- Fire in general will look pretty amazing now
+- Updated a bunch of mods
+- Fixed a terrain shadows bug
+- More preset tweaks for better visuals
+- Fixed some issues with color banding, much smoother now.
+- Fixed an issue where snow cover on some trees would flicker at times
+- Added new clutter and soulgem textures\models
+- Added Path of the Telvanni, a huge new quest mod with new lands. Awesome mod.
+- Swapped in KG Two handers animations, had a big update and looks great.
+- Fixed some RFM weapons being able to get tempered for free.
+- Removed a lot of bad screen effects from survival.
+- You can now use frost spells to freeze water and create new paths.
+- Added Horizon fix SKSE
+- Updated Embers XD
+- Updated Malryn follower
