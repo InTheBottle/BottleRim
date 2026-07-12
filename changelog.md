@@ -7,6 +7,7 @@
 - [2.21.0](#bottlerim-et-ada-2210---not-save-safe)
 - [2.3.0](#bottlerim-et-ada-230---not-save-safe)
 - [2.3.1](#bottlerim-et-ada-231---save-safe)
+- [2.4.0](#bottlerim-et-ada-240---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1963,3 +1964,21 @@ Save safe visual update basically.
 - Added Horizon fix SKSE
 - Updated Embers XD
 - Updated Malryn follower
+
+## BottleRim Et' Ada 2.4.0 - Not Save Safe
+
+Certain mod updates and fixes will not allow this update to work on existing saves.
+- I have updated three of my own mods that I've made for this list, ISL Helper SKSE, Simple power attack and simple dual block. Lights will look much smoother, and the other two will improve combat and controls even more.
+- Updated NGIO and reran grass cache, previous verions of NGIO was causing crashes in Riverwood and if you had these they are now fixed.
+- For our Dynamic snow cover feature, the snow cover will not be aware of fire sources and melt accordingly, this also means that you can melt most snow during winter months with fire spells.
+- Full migration of the last remaining non SimonRim overhaul mods, we now use Manbeast and Scion. It fits better now that we are 100% SimonRim focused.
+- Updated USMP
+- Added more face paints\tattoo options
+- Tons of new meshes with particle glow
+- Added Snow Elven Arsenal
+- Optimized whiterun navmesh
+- New Road signs and some new PBR furniture
+- Updated Horizon fix SKSE
+- New skyhud compass look
+- New start settings, now you will be prompted before starting the game to select the options like day, month, who you side with and if you'd like to enable survival mode or a harder difficulty
+- Please when starting a new game, read these options as I've left some notes :)
