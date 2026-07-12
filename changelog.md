@@ -1982,3 +1982,4 @@ Certain mod updates and fixes will not allow this update to work on existing sav
 - New skyhud compass look
 - New start settings, now you will be prompted before starting the game to select the options like day, month, who you side with and if you'd like to enable survival mode or a harder difficulty
 - Please when starting a new game, read these options as I've left some notes :)
+- Entirely new and separate perks for spears.
