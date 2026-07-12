@@ -9,6 +9,7 @@
 - [2.3.1](#bottlerim-et-ada-231---save-safe)
 - [2.4.0](#bottlerim-et-ada-240---not-save-safe)
 - [2.4.1](#bottlerim-et-ada-241---save-safe)
+- [2.4.2](#bottlerim-et-ada-242---save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1988,3 +1989,17 @@ Certain mod updates and fixes will not allow this update to work on existing sav
 ## BottleRim Et' Ada 2.4.1 - Save Safe
 
 - Removed problematic SKSE mod.
+
+## BottleRim Et' Ada 2.4.2 - Save Safe
+
+- Updated Apprentice to the latest version
+- Updated a couple po3 utility mods to improve speeds and fix some crashes
+- Removed Modern wait menu (caused crashes while trying to sleep)
+- Removed BeastHHBB, from my testing it was causing crashes referencing khajiit NPCs on load
+- Updated Default faces fixed and repatched existing records to solve some NPC issues.
+- Updated frost walker to fix a CTD
+- Added Quests award perk point patch for vigilant
+- Added xtudo fixes for infiltrator armor
+- Added sprint swim fixes
+- Disabled the boat ride scene for Solstheim
+- Updated FLICK for our racemenu mod
