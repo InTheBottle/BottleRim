@@ -8,6 +8,7 @@
 - [2.3.0](#bottlerim-et-ada-230---not-save-safe)
 - [2.3.1](#bottlerim-et-ada-231---save-safe)
 - [2.4.0](#bottlerim-et-ada-240---not-save-safe)
+- [2.4.1](#bottlerim-et-ada-241---save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -1983,3 +1984,7 @@ Certain mod updates and fixes will not allow this update to work on existing sav
 - New start settings, now you will be prompted before starting the game to select the options like day, month, who you side with and if you'd like to enable survival mode or a harder difficulty
 - Please when starting a new game, read these options as I've left some notes :)
 - Entirely new and separate perks for spears.
+
+## BottleRim Et' Ada 2.4.1 - Save Safe
+
+- Removed problematic SKSE mod.
