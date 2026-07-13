@@ -10,6 +10,7 @@
 - [2.4.0](#bottlerim-et-ada-240---not-save-safe)
 - [2.4.1](#bottlerim-et-ada-241---save-safe)
 - [2.4.2](#bottlerim-et-ada-242---save-safe)
+- [2.5.0](#bottlerim-et-ada-240---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -2003,3 +2004,10 @@ Certain mod updates and fixes will not allow this update to work on existing sav
 - Added sprint swim fixes
 - Disabled the boat ride scene for Solstheim
 - Updated FLICK for our racemenu mod
+
+## BottleRim Et' Ada 2.5.0 - Not Save Safe
+
+- Major clean up of scripts, removed old fixes and swapped to new alternatives.
+- Updated to the newest version of the simonrim beta
+- Due to me nuking a bunch of old busted script fixes, this will not be save safe. Sorry.
+- Fixed some issues in the community shaders build.
